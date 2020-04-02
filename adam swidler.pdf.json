@@ -1,0 +1,2226 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "ANN SWIDLER",
+          "GivenName": "ANN",
+          "FamilyName": "SWIDLER"
+        },
+        "ContactMethod": [
+          {
+            "Use": "personal",
+            "Location": "home",
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "US",
+              "PostalCode": "94720-1980",
+              "Region": [
+                "California"
+              ],
+              "Municipality": "Berkeley",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Department of Sociology, University of California"
+                ]
+              }
+            }
+          },
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "US",
+              "PostalCode": "94705",
+              "Region": [
+                "CA"
+              ],
+              "Municipality": "Berkeley",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "2964 Magnolia St"
+                ]
+              }
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "home",
+            "Telephone": {
+              "FormattedNumber": "(510) 644-0858"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "home",
+            "WhenAvailable": "anytime",
+            "Fax": {
+              "FormattedNumber": "(510) 644-0614"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "home",
+            "Telephone": {
+              "FormattedNumber": "(510) 642-0480"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "swidler@berkeley.edu"
+          }
+        ]
+      },
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "American Academy of Arts and Sciences",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Elected Member",
+                "OrgName": {
+                  "OrganizationName": "American Academy of Arts and Sciences"
+                },
+                "Description": "",
+                "StartDate": {
+                  "Year": "2013"
+                },
+                "EndDate": {
+                  "Year": "2013"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-24",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BQ",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "American Academy of Arts and Sciences",
+                    "sov:NormalizedTitle": "Elected Member"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "American Academy of Arts and Sciences"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Canadian Institute for Advanced",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Fellow",
+                "OrgName": {
+                  "OrganizationName": "Canadian Institute For Advanced"
+                },
+                "Description": "Successful Societies Program, Canadian Institute For Advanced\r\nResearch",
+                "StartDate": {
+                  "Year": "2007"
+                },
+                "EndDate": {
+                  "Year": "2012"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-21",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Canadian Institute For Advanced",
+                    "sov:NormalizedTitle": "Fellow"
+                  }
+                }
+              },
+              {
+                "OrgName": {
+                  "OrganizationName": "P.I. \"Qualitative Supplement to Conditional Cash Transfer Study in Tanzania.\" Berkeley Population Center"
+                },
+                "Description": "($20,000).",
+                "StartDate": {
+                  "Year": "2008"
+                },
+                "EndDate": {
+                  "Year": "2009"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-22",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BB",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "P I Qualitative Supplement to Conditional Cash Transfer Study in Tanzania Berkeley Population Center"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "Fellow",
+                "OrgName": {
+                  "OrganizationName": "Canadian Institute for Advanced"
+                },
+                "Description": "Successful Societies Program, Canadian Institute for Advanced\r\nResearch\r\n3",
+                "StartDate": {
+                  "Year": "2003"
+                },
+                "EndDate": {
+                  "Year": "2007"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-20",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Canadian Institute for Advanced",
+                    "sov:NormalizedTitle": "Fellow"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Canadian Institute for Advanced"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "",
+            "PositionHistory": [
+              {
+                "@positionType": "temp",
+                "Title": "Russell Sage Foundation Visiting Scholar",
+                "OrgName": {
+                  "OrganizationName": null
+                },
+                "Description": "",
+                "StartDate": {
+                  "Year": "2009"
+                },
+                "EndDate": {
+                  "Year": "2010"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-23",
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedTitle": "Russell Sage Foundation Visiting Scholar"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "EmployerOrgName": "Randolph Macon Woman's College",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Davidson Lecturer",
+                "OrgName": {
+                  "OrganizationName": "Randolph Macon Woman's College"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "US",
+                      "Region": [
+                        "Virginia"
+                      ],
+                      "Municipality": "Leesburg"
+                    }
+                  }
+                ],
+                "Description": "",
+                "StartDate": {
+                  "Year": "2005"
+                },
+                "EndDate": {
+                  "Year": "2005"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-19",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BX",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Randolph Macon Womans College",
+                    "sov:NormalizedTitle": "Davidson Lecturer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Randolph Macon Womans College"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Health Research and Center for African Studies, University of California",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "Health Research and Center for African Studies, University of California"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "US",
+                      "Region": [
+                        "California"
+                      ],
+                      "Municipality": "Berkeley"
+                    }
+                  }
+                ],
+                "Description": "2003-4 \"Social Capacities for Combating AIDS in Sub-Saharan Africa,\" Grants\r\nfrom Center for Health Research and Center for African Studies, University of California, Berkeley",
+                "StartDate": {
+                  "Year": "2003"
+                },
+                "EndDate": {
+                  "Year": "2004"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-18",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Health Research and Center for African Studies University of California"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Health Research and Center for African Studies University of California"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Advanced Study in the Behavioral Sciences",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Fellow, Center",
+                "OrgName": {
+                  "OrganizationName": "Advanced Study in the Behavioral Sciences"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "US",
+                      "Region": [
+                        "California"
+                      ],
+                      "Municipality": "Stanford"
+                    }
+                  }
+                ],
+                "Description": "\"Social Capacities for Combating AIDS in Sub-Saharan Africa,\" Grants\r\nfrom Center for Health Research and the Committee on Research, University of California, Berkeley",
+                "StartDate": {
+                  "Year": "2002"
+                },
+                "EndDate": {
+                  "Year": "2003"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-17",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Advanced Study in the Behavioral Sciences",
+                    "sov:NormalizedTitle": "Fellow Center",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Fellow"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Advanced Study in the Behavioral Sciences"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "EHESS",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "French-American Foundation Chair in American Civilization",
+                "OrgName": {
+                  "OrganizationName": "EHESS"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "FR",
+                      "Municipality": "Paris"
+                    }
+                  }
+                ],
+                "Description": "",
+                "StartDate": {
+                  "Year": "1999"
+                },
+                "EndDate": {
+                  "Year": "2000"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-16",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BB",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "BM",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "EHESS",
+                    "sov:NormalizedTitle": "French American Foundation Chair in American Civilization",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "French-American Foundation Chair",
+                        "American Foundation Chair",
+                        "American Foundation Chair in American Civilization"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "EHESS"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "University of California at Berkeley",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "University of California at Berkeley"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "US",
+                      "Region": [
+                        "California"
+                      ],
+                      "Municipality": "Berkeley"
+                    }
+                  }
+                ],
+                "Description": "",
+                "StartDate": {
+                  "Year": "1997"
+                },
+                "EndDate": {
+                  "Year": "1998"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-15",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "University of California at Berkeley"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "University of California at Berkeley"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "The League",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "The League"
+                },
+                "Description": "of Women Voters Award for Distinguished Scholarship",
+                "StartDate": {
+                  "Year": "1998"
+                },
+                "EndDate": {
+                  "Year": "1998"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-14",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "The League"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "The League"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Study of Human Rights in North America",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "Study of Human Rights in North America"
+                },
+                "Description": "The Meyers Center Award for the Study of Human Rights in North America\r\n(for Inequality by Design)",
+                "StartDate": {
+                  "Year": "1997"
+                },
+                "EndDate": {
+                  "Year": "1997"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-13",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BT",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Study of Human Rights in North America"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Study of Human Rights in North America"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Department of Sociology, University of California",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Associate Professor",
+                "OrgName": {
+                  "OrganizationName": "Department of Sociology, University of California"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "US",
+                      "Region": [
+                        "California"
+                      ],
+                      "Municipality": "Berkeley"
+                    }
+                  }
+                ],
+                "Description": "",
+                "StartDate": {
+                  "Year": "1987"
+                },
+                "EndDate": {
+                  "Year": "1996"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BQ",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Department of Sociology University of California",
+                    "sov:NormalizedTitle": "Associate Professor"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "Professor, Department of Sociology, University of California",
+                "OrgName": {
+                  "OrganizationName": "Department of Sociology, University"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "US",
+                      "Region": [
+                        "California"
+                      ],
+                      "Municipality": "Berkeley"
+                    }
+                  }
+                ],
+                "Description": "Grants, Fellowships, and Awards:",
+                "StartDate": {
+                  "Year": "1996"
+                },
+                "EndDate": {
+                  "Year": "1996"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TF",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Department of Sociology University",
+                    "sov:NormalizedTitle": "Professor Department of Sociology University of California",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Professor",
+                        "Professor, Department of Sociology, University"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Department of Sociology University of California"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Sociological Research Association",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "Sociological Research Association"
+                },
+                "Description": "Elected to membership in the Sociological Research Association",
+                "StartDate": {
+                  "Year": "1996"
+                },
+                "EndDate": {
+                  "Year": "1996"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-11",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Sociological Research"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Sociological Research"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Notre Dame University",
+            "PositionHistory": [
+              {
+                "@positionType": "temp",
+                "Title": "Provost's Distinguished Visiting Lecturer",
+                "OrgName": {
+                  "OrganizationName": "Notre Dame University"
+                },
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "1996-03"
+                },
+                "EndDate": {
+                  "YearMonth": "1996-05"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-12",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SK",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Notre Dame University",
+                    "sov:NormalizedTitle": "Provosts Distinguished Visiting Lecturer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Notre Dame University"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "\"Law and the Regulatory State",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "\"The Good Society\" (R.N. Bellah, Project Director)",
+                "OrgName": {
+                  "OrganizationName": "\"Law and the Regulatory State"
+                },
+                "Description": "funded by the National Endowment for the Humanities and the Lilly Foundation.",
+                "StartDate": {
+                  "Year": "1986"
+                },
+                "EndDate": {
+                  "Year": "1989"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Manager"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-10",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BX",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "BQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Law and the Regulatory State",
+                    "sov:NormalizedTitle": "The Good Society R N Bellah Project Director",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "(R.N. Bellah, Project Director)",
+                        "R.N. Bellah, Project Director",
+                        "Bellah, Project Director",
+                        "Project Director"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Law and the Regulatory State"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Department of Sociology, Stanford University",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Assistant Professor",
+                "OrgName": {
+                  "OrganizationName": "Department of Sociology, Stanford University"
+                },
+                "Description": "",
+                "StartDate": {
+                  "Year": "1979"
+                },
+                "EndDate": {
+                  "Year": "1987"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Department of Sociology Stanford University",
+                    "sov:NormalizedTitle": "Assistant Professor"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Department of Sociology Stanford University"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Stanford University",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "Stanford University"
+                },
+                "Description": "Walter J. Gores Award for Excellence in Teaching, Stanford University.",
+                "StartDate": {
+                  "Year": "1986"
+                },
+                "EndDate": {
+                  "Year": "1986"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Education → Positions",
+                    "Comments": "Education describes 50% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-9",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Stanford University"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Stanford University"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Jury Nominated",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "Jury Nominated"
+                },
+                "Description": "in General Non-fiction for Habits of the Heart.",
+                "StartDate": {
+                  "Year": "1986"
+                },
+                "EndDate": {
+                  "Year": "1986"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-8",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Jury Nominated"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Jury Nominated"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "\"Due Process in Organizations\" (with John W. Meyer and W. Richard Scott), Russell Sage Foundation",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "\"Due Process in Organizations\" (with John W. Meyer and W. Richard Scott), Russell Sage Foundation"
+                },
+                "Description": "2\r\n\r\n\r\nL.A. Times Book Award, 1985, for Habits of the Heart, for best book in category of\r\n\"current interest\".",
+                "StartDate": {
+                  "Year": "1982"
+                },
+                "EndDate": {
+                  "Year": "1983"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-7",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BM",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Due Process in Organizations with John W Meyer and W Richard Scott Russell Sage Foundation"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Due Process in Organizations with John W Meyer and W Richard Scott Russell Sage Foundation"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "John Simon Guggenheim Memorial Fellowship",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "John Simon Guggenheim Memorial Fellowship"
+                },
+                "Description": "",
+                "StartDate": {
+                  "Year": "1982"
+                },
+                "EndDate": {
+                  "Year": "1983"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-6",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "John Simon Guggenheim Memorial Fellowship"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "John Simon Guggenheim Memorial Fellowship"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Moral Bases of Social Commitment in America",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "R.N. Bellah, Project Director",
+                "OrgName": {
+                  "OrganizationName": "Moral Bases of Social Commitment in America"
+                },
+                "Description": "funded by the National Endowment\r\nfor the Humanities, Ford Foundation, and Rockefeller Foundation.\r\n\r\n1979-81 \"Love as a Moral Ideology,\" small grants from the Boys' Town Center,\r\nStanford University.",
+                "StartDate": {
+                  "Year": "1979"
+                },
+                "EndDate": {
+                  "Year": "1982"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Manager"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-5",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Moral Bases of Social Commitment in America",
+                    "sov:NormalizedTitle": "R N Bellah Project Director",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "R.N. Bellah, Project Director",
+                        "Bellah, Project Director",
+                        "Project Director"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Moral Bases of Social Commitment in America"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Department of Sociology, Harvard University",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Assistant Professor",
+                "OrgName": {
+                  "OrganizationName": "Department of Sociology, Harvard University"
+                },
+                "Description": "",
+                "StartDate": {
+                  "Year": "1975"
+                },
+                "EndDate": {
+                  "Year": "1979"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Department of Sociology Harvard University",
+                    "sov:NormalizedTitle": "Assistant Professor"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Department of Sociology Harvard University"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "University of Chicago Press"
+              }
+            ],
+            "Degree": [
+              {
+                "DegreeDate": {
+                  "Year": "2001"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Cultural Sociology"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2001"
+                    }
+                  }
+                ],
+                "Comments": "2001 Talk of Love: How Culture Matters (University of Chicago Press).\r\nSelections reprinted in Cultural Sociology, 1st edition, W.W. Norton.",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-7"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "University of Chicago Press"
+              }
+            }
+          },
+          {
+            "@schoolType": "UNSPECIFIED",
+            "School": [
+              {
+                "SchoolName": "Princeton"
+              }
+            ],
+            "Degree": [
+              {
+                "DegreeDate": {
+                  "Year": "1996"
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "1996"
+                    }
+                  }
+                ],
+                "Comments": "1996 Claude S. Fischer, Michael Hout, Martin Sanchez Jankowski, Samuel R.\r\nMyth (Princeton University Press).",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-6"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Princeton"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "University of California Press"
+              }
+            ],
+            "Degree": [
+              {
+                "DegreeDate": {
+                  "Year": "1985"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "American Life"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "1985"
+                    }
+                  }
+                ],
+                "Comments": "1985 Robert N. Bellah, Richard Madsen, William Sullivan, Ann Swidler, and Steven M. Tipton, Habits of the Heart: Individualism and Commitment in American Life (University of California Press).",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-5"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "University of California - Berkeley"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "University of California, Berkeley"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "US",
+              "Region": [
+                "California"
+              ],
+              "Municipality": "Berkeley"
+            },
+            "Degree": [
+              {
+                "@degreeType": "doctorate",
+                "DegreeName": "Ph.D.",
+                "DegreeDate": {
+                  "Year": "1975"
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "1975"
+                    }
+                  }
+                ],
+                "Comments": "1975 Ph.D. University of California, Berkeley",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-3",
+                    "sov:NormalizedDegreeName": "doctorate",
+                    "sov:NormalizedDegreeType": "doctorate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "University of California - Berkeley"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "University of California, Berkeley"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "US",
+              "Region": [
+                "California"
+              ],
+              "Municipality": "Berkeley"
+            },
+            "Degree": [
+              {
+                "@degreeType": "masters",
+                "DegreeName": "M.A.",
+                "DegreeDate": {
+                  "Year": "1971"
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "1971"
+                    }
+                  }
+                ],
+                "Comments": "1971 M.A. University of California, Berkeley",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "masters",
+                    "sov:NormalizedDegreeType": "masters"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "University of California - Berkeley"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Harvard University"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.A.",
+                "DegreeDate": {
+                  "Year": "1966"
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "1966"
+                    }
+                  }
+                ],
+                "Comments": "1966 B.A. (cum laude), Harvard University",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Harvard University"
+              }
+            }
+          },
+          {
+            "@schoolType": "UNSPECIFIED",
+            "School": [
+              {
+                "SchoolName": "Harvard"
+              }
+            ],
+            "Degree": [
+              {
+                "Comments": "(Harvard University Press).",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-4"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Harvard University"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "University of California Press"
+              }
+            ],
+            "Degree": [
+              {
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Religion"
+                    ]
+                  }
+                ],
+                "Comments": "(eds.), Meaning and Modernity: Religion, Polity, Self (University of California Press).",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-8"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "University of California - Berkeley"
+              }
+            }
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "R.N",
+            "Id": "1",
+            "Description": "certification; matched to list"
+          }
+        ]
+      },
+      "PublicationHistory": {
+        "Article": [
+          {
+            "Title": " \"Outsourcing\r\nSocial Transformation: \" Annual Review of\r\nSociology,  .\r\n\r\n \"Where Do Axial Commitments Reside? Problems in Thinking about the\r\nAfrican Case,\" pp. 222-247 in Robert Bellah and Hans Joas (eds.), The Axial Age\r\nand Its Consequences, Harvard University Press.\r\n\r\n20",
+            "PublicationDate": {
+              "Year": "2012"
+            },
+            "JournalOrSerialName": "Development NGOs as Organizations,",
+            "Issue": "38:",
+            "PageNumber": "285-315"
+          },
+          {
+            "Title": "\": Lessons from Chieftaincy in\r\nRural Malawi,\" pp.  in Peter A. Hall and Michèle Lamont (eds.), sity Press.\r\n\r\n2013. Susan Cotts Watkins and Ann Swidler, \"Working Misunderstandings:\r\nDonors, Brokers, and Villagers in Africa's AIDS Industry,\" Population and Public\r\nPolicy: Essays in Honor of Paul Demeny, Population and Development Review,\r\nSupp: 197-218.\r\n\r\n2013. Ann Swidler and Susan Cotts Watkins, \"Practices of Deliberation in Rural\r\nMalawi,\" in Patrick Heller and Vijayendra Rao (editors), Deliberation and\r\nDevelopment: New Directions, The World Bank, Washington DC (forthcoming).\r\n\r\n2013. \"African Affirmations: The Religion of Modernity and the Modernity of\r\nReligion.\" International Sociology 28(6) 680-696.\r\n8\r\n\r\n\r\n1979 \"Interpretive versus Explanatory Approaches to the Sociology of Culture,\"\r\nAnnual Meetings of the American Sociological Association (September).\r\n\r\n1982 \"Ideologies of Love in Middle-Class America,\" Pacific Sociological\r\nAssociation, San Diego (April).\r\n\r\n1986 \"Deconstructed Selves: Social Sources of Post-Modern Individualism,\"\r\ninvited paper, Thematic Session, Annual Meetings of the American Sociological\r\nAssociation (September).\r\n\r\n1987 \"The Uses of Culture in Historical Explanation,\" Annual Meetings of the\r\nAmerican Sociological Association (August).\r\n\r\n1987 \"The Case of the Missing Mechanism,\" paper prepared for Conference on\r\nInstitutional Change, Center for Advanced Study in the Behavioral Sciences,\r\nStanford, CA, May 15-16.\r\n\r\n1988 \"Evangelicals and Civic Life,\" paper prepared for \"To Serve the Present Age:\r\nConsultations on Evangelicals and American Public Life,\" Philadelphia, PA,\r\nNovember 17-19.\r\n\r\n1989 \"Strategies into Structures: When Culture Becomes Structure and When It\r\nDoesn't,\" invited paper for Thematic Session, Annual Meetings of the American\r\nSociological Association, San Francisco (August).\r\n\r\n1990 \"Strategic Actors and Cultural Commitments: Variations in Culture's\r\nTranscendence,\" invited paper prepared for conference on \"Ideology: The Turn to\r\nPractice,\" The University of Tulsa, April.\r\n\r\n1992 \"Cultural Constructions of Modern Individualism,\" invited paper, Thematic\r\nSession on \"Individualism and Community,\" Annual Meetings of the American\r\nSociological Association, Pittsburgh, Pa. (August).\r\n\r\n19",
+            "JournalOrSerialName": "Cultural Sources of Institutional Resilience",
+            "PageNumber": "319-345"
+          },
+          {
+            "Title": "Can God Save the American Family? Family in the Cross-Hairs of the\r\nCulture Wars\" 's College, March 31.\r\n\r\n\"Hearsay Ethnography\" (with Cusan Cotts Watkins), annual meeting, Philadelphia, April.\r\n\r\nMarch 29, 2007, \"Why Cultural Match Matters: AIDS NGOs in Sub-Saharan\r\nAfrica,\" Sociology Department Colloquium, Yale University, New Haven, CT.\r\n\r\nMay 21, 2007 \"Why Interventions Prosper: Cultural Logic, Organizational\r\nInterests, and Scientific Uncertainty in Global AIDS Prevention,\" Departmental\r\nSeminar, Department of Sociology, Hebrew University, Jerusalem.\r\n10\r\n\r\n\r\n2007 \"Organisational and Cultural Obstacles To Male Circumcision as a Prevention\r\nIntervention.\" HIV and AIDS Research and Best Practices Dissemination\r\nConference: \"Using Evidence in HIV and AIDS Programming,\" 27th-29th June\r\n2007, Malawi Institute of Management, Lilongwe, Malawi.\r\n\r\n2007 Ann Swidler and Susan Cotts Watkins, \"'Teach a Man to Fish': Ironies of\r\nSustainability in AIDS NGOs.\" Paper presented American Sociological\r\nAssociation Annual Meetings, New York City, August , 2007.\r\n\r\n2008 Iddo Tavory and Ann Swidler, \"Meanings of Condom Use in Rural Malawi.\"\r\nHIV and AIDS Research and Dissemination Meeting, 27th-29th June, 2008,\r\nMalawi Institute of Management, Lilongwe, Malawi.\r\n\r\n2008 \"Where Do Axial Commitments Reside? Problems in Thinking about the\r\nAfrican Case.\" Paper prepared for conference on \"The Axial Age and Its\r\nConsequences for subsequent History and the Present,\" Max Weber Center for\r\nAdvanced Cultural and Social Studies, Erfurt, Germany, July 3-5.\r\n\r\n2009 \"Return of the Sacred: What African Chiefs Teach Us about Secularization.\"\r\nPaul Hanly Furfey Lecture, Association for the Sociology of Religion, San\r\nFrancisco, August 11.\r\n\r\n2009. \"African Chiefdoms and Institutional Resilience: Public Goods and Private\r\nStrategies.\" Center for European Studies, Harvard University, November 20.\r\n\r\n2010. Ann Swidler and Susan Cotts Watkins, \"Practices of Deliberation in Rural\r\nMalawi.\" Paper prepared for conference on \"Deliberation for Development: New\r\nDirections,\" World Bank, Communication for Governance & Accountability\r\nProgram (CommGAP), Washington, DC, November 12 & 13, 2010.\r\n\r\n2011. \"Cultural Sources of Institutional Resilience: Lessons from Chieftaincy in\r\nRural Malawi.\" Paper prepared for Successful Societies Program of the Canadian\r\nInstitute for Advanced Research (CIFAR), Toronto Canada.\r\n\r\n2011. Ann Swidler and Susan Cotts Watkins, \"Fevered Imaginations: The\r\nRomance of AIDS Altruism in Africa.\" Paper for the American Association Annual\r\nmeetings, Las Vegas, Nevada, August 20-23.\r\n\r\n2011. \"African Affirmations: The Religion of Modernity and the Modernity of\r\nReligion.\" Conference on \"Multiple Secularities and Global Interconnectedness,\"\r\nUniversity of Leipzig, 13-15 October, 2011.\r\n11\r\n\r\n\r\n2013. Michèle Lamont and Ann Swidler, \"In Praise of Methodological Pluralism:\r\nFrom a Methods to a Theory Debate,\" Paper prepared for invited session on\r\nVarieties of Evidence and Method in Cultural Analysis, American Sociological\r\nAssociation Meetings, New York City, August 9-13.\r\n19",
+            "PublicationDate": {
+              "Year": "2005"
+            },
+            "JournalOrSerialName": "Population Association\r\nof America ",
+            "PageNumber": "11-14"
+          },
+          {
+            "Title": "Robert Wuthnow, The Consciousness Reformation, American Journal of\r\nSociol",
+            "PublicationDate": {
+              "Year": "1978"
+            },
+            "JournalOrSerialName": "Margaret Stacey et al., Power, Persistence, and Change: A Second Study of\r\nBanbury, American Journal of Sociology 81 (May).\r\n\r\n\r\nogy 84 (July).\r\n\r\n\r\n1979 Peter L. Berger, The Heretical Imperative, The New Republic (October 20).\r\n\r\n\r\n1981 J.G. Merquior, The Veil and The Mask: Essays on Culture and Ideology,\r\nSocial Forces 59 (June).\r\n\r\n\r\n1982 Steven T. Bossert, Tasks and Social Relationships in Classrooms: A Study of\r\nInstructional Organization and Its Consequences, and Hugh Mehan, Learning\r\nLessons: Social Organization in the Classroom, American Journal of Sociology.\r\n\r\n\r\n1983 \"Self Absorbing Communities,\" review essay on Benjamin Zablocki,\r\nAlienation and Charisma: A Study of Contemporary American Communes,\r\nContemporary Sociology 12 (January).\r\n\r\n\r\n1987 \"Righteous and Resilient,\" review of James Davison Hunter, Evangelicalism:\r\nThe Coming Generation, New York Times Book Review (May 10).\r\n12\r\n\r\n\r\n1988 Barbara Ehrenreich, Elizabeth Hess, and Gloria Jacobs, Re-Making Love,\r\nAmerican Journal of Sociology 93 (March).\r\n\r\n\r\n1989 Diana Crane, The Social Transformation of American Art, ,\r\nAmerican Journal of Sociology 94 (March).\r\n\r\n\r\n1991 \"Postmodern, Postfeminist, Postfamily?\" review of Judith Stacey, Brave New\r\nFamilies: Stories of Domestic Upheaval in Late Twentieth-Century America,\r\nContemporary Sociology 20 (September).\r\n\r\n\r\n1993 William A. Gamson, Talking Politics, Contemporary Sociology 22\r\n(November):810-812.\r\n\r\n\r\n1994 \"In Groups We Trust,\" review of Robert Wuthnow, Sharing the Journey,\r\nNew York Times Book Review (March 20):13.\r\n\r\n\r\n1995 Seymour Martin Lipset, Jews and the New American Scene, Times Literary\r\nSupplement, August 4, p. 10.\r\n\r\n\r\n1996 \"Geertz's Ambiguous Legacy,\" Review of Clifford Geertz, The Interpretation\r\nof Cultures, for a special issue on most important books of the last 25 years,\r\nContemporary Sociology 25(May):299-302. Reprinted in Dan Clawson (ed.),\r\nRequired Reading: Sociology's Most Influential Books (Amherst: University of\r\nMassachusetts Press, 1998).\r\n\r\n\r\n2009 \"Agonies of the Twitterati,\" review of Dalton Conley, Elsewhere, U.S.A.,\r\nAmerican Prospect (March 9).\r\n\r\n\r\nOther Writing:\r\n13\r\n\r\n\r\n1984 Nancy Chodorow, Dierdre English, Arlie Hochschild, Karen Paige, Lillian\r\nRubin, Ann Swidler, and Norma Wikler, \"Feminism 1984: Taking Stock on the\r\nBrink of an Uncertain Future,\" Ms. (January):102.\r\n\r\n\r\n1984 \"Studying Free Schools,\" in Beth B. Hess, Elizabeth Markson, and Peter\r\nStein (eds.), Sociology (Macmillan).\r\n\r\n\r\n1991 \"Moral Heroism,\" Radcliffe Quarterly 77 (September):25.\r\n\r\n\r\n1993 Introduction to Bill Dane Outside and Inside America: Photographs (in\r\nSpanish and English). Granada, Spain: Diputacion Provincal de Granada.\r\n\r\n\r\n1995 \"Religion and Politics: Dangerous Liaisons? Beyond the Ideology of\r\nTolerance and Moral Absolutes,\" Ethics and Policy (Graduate Theological Union,\r\nBerkeley, California), Spring 1995, p. 2.\r\n\r\n\r\n1997 \"To Revitalize Community Life, We Must First Strengthen Our National\r\nInstitutions,\" The Chronicle of Higher Education, May 16, pp. B4-5.\r\n\r\n\r\n1998 \"The University: Redefining an American Institution,\" in Kara C. Reinhardt\r\nand Elaine R. Rubin, eds., How Far Beyond the Gates? (Washington, DC:\r\nAssociation of Academic Health Centers), pp. 1-6.\r\n\r\n\r\n2007 Claude S. Fischer and Ann Swidler, \"Remembering a Giant of Sociology:\r\nSeymour Martin Lipset, 1922 - 2006,\" Footnotes: Newsletter of the American\r\nSociological Association (March).\r\n\r\n\r\nProfessional",
+            "PageNumber": "1940-1985"
+          }
+        ],
+        "Book": [
+          {
+            "Title": "Dilemmas of Social Control ",
+            "PublicationDate": {
+              "Year": "1979"
+            },
+            "PublisherName": "Organization Without Authority"
+          },
+          {
+            "Title": "Hearsay\r\nEthnography: A Method for Learning about Responses to Health Interventions,",
+            "PublisherName": "Berenice Pescosolido, Jane McLeod, Jack Martin, and Ann"
+          },
+          {
+            "Title": "Interpretation, Explanation, and\r\nTheories ",
+            "Name": [
+              {
+                "@role": "contributor",
+                "FormattedName": "Ann Swidler Jepperson",
+                "GivenName": "Ann",
+                "MiddleName": "Swidler",
+                "FamilyName": "Jepperson"
+              }
+            ],
+            "PublicationDate": {
+              "Year": "1998"
+            },
+            "PublisherName": "Annual Meetings of the American Sociological Association,\r\nLos Angeles, California",
+            "PublisherLocation": "San Francisco, CA"
+          }
+        ]
+      },
+      "SpeakingEventsHistory": {
+        "SpeakingEvent": [
+          {
+            "EventName": "",
+            "EventType": "conference",
+            "Description": "Publications and Presentations"
+          }
+        ]
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "fr",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "1999-2000 French-American Foundation Chair in American"
+          },
+          {
+            "LanguageCode": "zh",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Translated into Chinese, Japanese, German, Bulgarian, Italian, [AND] Press 1998), and translated into Chinese"
+          },
+          {
+            "LanguageCode": "ja",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Translated into Chinese, Japanese, German, Bulgarian, Italian, Vietnamese."
+          },
+          {
+            "LanguageCode": "de",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Translated into Chinese, Japanese, German, Bulgarian, Italian, Vietnamese."
+          },
+          {
+            "LanguageCode": "bg",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Translated into Chinese, Japanese, German, Bulgarian, Italian, Vietnamese."
+          },
+          {
+            "LanguageCode": "it",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "into Chinese, Japanese, German, Bulgarian, Italian, Vietnamese. [AND] (Taiwan), Spanish, Italian, and Hebrew."
+          },
+          {
+            "LanguageCode": "vi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Chinese, Japanese, German, Bulgarian, Italian, Vietnamese."
+          },
+          {
+            "LanguageCode": "es",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "(Taiwan), Spanish, Italian, and Hebrew. [AND] Spanish and English)."
+          },
+          {
+            "LanguageCode": "he",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "(Taiwan), Spanish, Italian, and Hebrew. [AND] Seminar, Department of Sociology, Hebrew University, Jerusalem."
+          },
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "1984 Nancy Chodorow, Dierdre English, Arlie Hochschild, Karen Paige, [AND] Spanish and English)."
+          }
+        ]
+      },
+      "Achievements": {
+        "Achievement": [
+          {
+            "Description": "Education: 1966 B.A. (cum laude), Harvard University"
+          },
+          {
+            "Description": "Grants, Fellowships, and Awards"
+          },
+          {
+            "Description": "L.A. Times Book Award, 1985, for Habits of the Heart, for best book in category of"
+          },
+          {
+            "Description": "Jury Nominated: Pulitzer Prize, 1986, in General Non-fiction for Habits of the"
+          },
+          {
+            "Description": "1986 Walter J. Gores Award for Excellence in Teaching, Stanford University"
+          },
+          {
+            "Description": "1996 Elected to membership in the Sociological Research Association"
+          },
+          {
+            "Description": "1997 The Meyers Center Award for the Study of Human Rights in North America"
+          },
+          {
+            "Description": "1998 The League of Women Voters Award for Distinguished Scholarship"
+          },
+          {
+            "Description": "1997-98 Social Science Distinguished Teaching Award, University of California at"
+          },
+          {
+            "Description": "2013 Elected Member, American Academy of Arts and Sciences"
+          },
+          {
+            "Description": "Policy: Essays in Honor of Paul Demeny, Population and Development Review"
+          },
+          {
+            "Description": "American Sociological Association, elected member of Council, 1997-2000"
+          },
+          {
+            "Description": "Best Book in the Sociology of Culture Award Committee, Culture Section"
+          },
+          {
+            "Description": "Scholarship Award Selection Committee, January 1, 2009-December 31, 2011"
+          },
+          {
+            "Description": "14\r\n\r\n\r\nMember, Final Review Panel, Ford Foundation Grants for Non-Fiction Books on\r\nMajor Contemporary Issues, 1981\r\n\r\n\r\nParticipant, Conference on Decisions and Due Process (to advise the Foundation on\r\nestablishing a research program), Russell Sage Foundation, May 1981\r\n\r\n\r\nAssociate Editor, American Sociological Review, 1982-1985\r\n\r\n\r\nCommittee on Nominations, American Sociological Association, 1983-1984\r\n\r\n\r\nProgram Committee, Annual Meetings of the American Sociological Association,\r\n1985\r\n\r\n\r\nProgram Committee, Annual Meetings of the American Sociological Association,\r\n1986\r\n\r\n\r\nNational Research Council, Ten Year Outlook on Research Opportunities in the\r\nBehavioral and Social Sciences, Working group on \"Culture and Ideology,\" 1985\r\n\r\n\r\nConsulting Editor, American Journal of Sociology, 1986-88\r\n\r\n\r\nCommittee on Nominations, Culture Section, American Sociological Association,\r\n1986-7\r\n\r\n\r\nReview Panel, Fellowships for College Teachers, National Endowment for the\r\nHumanities, August 1987\r\n15\r\n\r\n\r\nReview Panel, Fellowships for University Teachers, National Endowment for the\r\nHumanities, August, 1988\r\n\r\n\r\nOrganizer, session on \"Alternative Approaches and Methods in Cultural\r\nSociology,\" 1988 Annual Meetings of the American Sociological Association\r\n\r\n\r\nCouncil, Sociology of Culture Section, American Sociological Association, 1988-\r\n91\r\n\r\n\r\nPublications Committee, Sociology of Culture Section, American Sociological\r\nAssociation, 1990-91\r\n\r\n\r\nReview Panel, Travel to Collections, Social Sciences, National Endowment for the\r\nHumanities, Spring 1990\r\n\r\n\r\nGuest member, Editorial Board, Annual Review of Sociology, February, 1991\r\n\r\n\r\nMember, American Family Research Council, Institute for American Values, New\r\nYork City, 1991-1995 (resigned)\r\n\r\n\r\nVisiting Committee, Department of Sociology, Harvard University, 1992\r\n\r\n\r\nCommittee to prepare a \"culture module\" for the 1993 General Social Survey, 1992\r\n\r\n\r\nReview Panel, Fellowships for University Teachers, National Endowment for the\r\nHumanities, August 1992\r\n16\r\n\r\n\r\nPanelist, \"Special Session: Seymour Martin Lipset's Contributions to Sociology,\"\r\nASA Annual Meetings, Pittsburgh, August, 1992\r\n\r\n\r\nCritic, Author Meets Critics: Aryei Fishman, Judaism and Modernization on the\r\nReligious Kibbutz, Association for the Sociology of Religion Annual Meeting,\r\nPittsburgh, Pa., August 1992\r\n\r\n\r\nASA Culture Section: Nominations Committee; Program Committee; Organizer of\r\nsession on \"Meaning and Measurement,\" 1992-3\r\n\r\n\r\n1993-5 Chair, Working Group on Meaning and Measurement, Culture Section,\r\nAmerican Sociological Association\r\n\r\n\r\nReview Panel, Fellowships for University Teachers, National Endowment for the\r\nHumanities, July 1994\r\n\r\n\r\nCommittee to Visit the Department of Sociology, Harvard University, 1994-1997\r\n(Visit April 1995)\r\n\r\n\r\nChair-Elect, Culture Section, American Sociological Association, 1994-95; Chair,\r\n1995-96 (organizer of 7 sessions for August 1995 ASA Meetings)\r\n\r\n\r\nPanelist, Thematic Session on \"Communitarian Social Thought,\" Presentation on\r\n\"Communitarian Social Thought: Lessons of Innocence and Experience,\"\r\nAmerican Sociological Association Annual Meetings, Washington, D.C., August\r\n1995\r\n\r\n\r\nOrganizer, Mini-Conference on Meaning and Measurement, George Mason\r\nUniversity, August 17-18, 1995\r\n17\r\n\r\n\r\nVisiting Committee, Department of Sociology, Rutgers University, Fall 1997\r\n\r\n\r\nDeputy Editor, American Sociological Review, 1996-99.\r\n\r\n\r\nPanelist, Session on Recent Changes in Publishing: Implications for Sociology,\r\nAmerican Sociological Association Annual Meetings, San Francisco, August 1998.\r\n\r\n\r\nAmerican Sociological Association, elected member of Council, 1997-2000\r\n\r\n\r\nBest Book in the Sociology of Culture Award Committee, Culture Section,\r\nAmerican Sociological Association, 2001\r\n\r\n\r\nNEH Review Panel, Fellowships for University Teachers, August 2001\r\n\r\n\r\nFellow, Successful Societies Program, Canadian Institute for Advanced Research,\r\n2002-2007; 2007-2012\r\n\r\n\r\nAdvisory Board, Poetics: Journal of Empirical Research on Literature, the Media\r\nand the Arts, 2003-\r\n\r\n\r\nNEH Review Panel, Fellowships for University Teachers, August 2003\r\n\r\n\r\nOrganizer and Presider, Thematic Session, \"Rethinking AIDS: The Big Picture,\"\r\nAmerican Sociological Association annual meetings, Philadelphia, August 2005.\r\n\r\n\r\nPanelist, \"Reflections on the 20th Anniversary of the Publication of Habits of the\r\nHeart,\" Association for the Sociology of Religion Annual Meeting, Philadelphia,\r\nAugust 15, 2005.\r\n18\r\n\r\n\r\nPanelist, Academic Symposium, \"The Future of Religion in America,\" Inauguration\r\nof Arnold M. Eisen, Chancellor, Jewish Theological Seminary, New York, NY,\r\nSeptember 5, 2007.\r\n\r\n\r\nCommittee to review the Department of Sociology, Princeton University,\r\nDecember, 2007.\r\n\r\n\r\nAmerican Sociological Association, W.E.B. Du Bois Career of Distinguished\r\nScholarship Award Selection Committee, January 1, 2009-December 31, 2011.\r\n(Chair, 2009-10.)\r\n\r\n\r\nSociological Research Association, New Member Selection Committee, Spring\r\n2010.\r\n\r\nal Theory II: Metatheory,\" Annual Meetings of the Discussant, Session on \"Social\r\nDiscussant, Session on \"Social Theory II: Metatheory,\" Annual Meeting of the\r\nAmerican Sociological Association, Las Vegas, NV, August 20-23, 2011.\r\n\r\n\r\nDiscussant, Junior Theorists Symposium, American Sociological Association\r\nAnnual meeting, Denver, CO, August 16, 2012.\r\n\r\n\r\nChair-Elect, Section on Global and Transnational Sociology, American\r\nSociological Association, 2012-13"
+          }
+        ]
+      },
+      "Associations": {
+        "Association": [
+          {
+            "Name": "French-American Foundation Chair in American Civilization, EHESS",
+            "StartDate": {
+              "Year": "1999"
+            },
+            "EndDate": {
+              "Year": "2000"
+            },
+            "Role": [
+              {
+                "Name": "Chair"
+              }
+            ]
+          },
+          {
+            "Name": "Elected Member, American Academy of Arts and Sciences",
+            "EndDate": {
+              "Year": "2013"
+            },
+            "Role": [
+              {
+                "Name": "Member"
+              }
+            ]
+          },
+          {
+            "Name": "Final Review Panel, Ford Foundation Grants for Non-Fiction Books on",
+            "Role": [
+              {
+                "Name": "Member"
+              }
+            ]
+          },
+          {
+            "Name": "American Family Research Council, Institute for American Values, New",
+            "Role": [
+              {
+                "Name": "Member"
+              }
+            ]
+          },
+          {
+            "Name": "Elect, Culture Section, American Sociological Association",
+            "StartDate": {
+              "Year": "1994"
+            },
+            "EndDate": {
+              "Year": "1995"
+            },
+            "Role": [
+              {
+                "Name": "Chair"
+              }
+            ]
+          },
+          {
+            "Name": "American Sociological Association, elected member of Council",
+            "StartDate": {
+              "Year": "1997"
+            },
+            "EndDate": {
+              "Year": "2000"
+            },
+            "Role": [
+              {
+                "Name": "member"
+              }
+            ]
+          },
+          {
+            "Name": "Sociological Research Association, New Member Selection Committee, Spring",
+            "Role": [
+              {
+                "Name": "Member"
+              }
+            ]
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-28"
+    },
+    "NonXMLResume": {
+      "TextResume": "October 2013\r\n\r\n\r\nCURRICULUM VITAE\r\n\r\n\r\nANN SWIDLER\r\n\r\n\r\nAddress: Department of Sociology\tHome: 2964 Magnolia St.\r\nUniversity of California\tBerkeley, CA 94705\r\nBerkeley, California 94720-1980\t(510) 644-0858\r\n(510) 642-0480\tFAX (510) 644-0614\r\ne-mail: swidler@berkeley.edu\r\n\r\nEducation: 1966 B.A. (cum laude), Harvard University\r\n1971 M.A. University of California, Berkeley\r\n1975 Ph.D. University of California, Berkeley\r\n\r\nEmployment:\r\n\r\n1975-79 Assistant Professor, Department of Sociology, Harvard University\r\n\r\n1979-87 Assistant Professor, Department of Sociology, Stanford University\r\n\r\n1987-96 Associate Professor, Department of Sociology, University of California,\r\nBerkeley\r\n\r\n1996- Professor, Department of Sociology, University of California, Berkeley\r\n\r\n\r\nGrants, Fellowships, and Awards:\r\n\r\n1979-82 \"Love as a Moral Ideology,\" from \"Moral Bases of Social Commitment\r\nin America,\" (R.N. Bellah, Project Director), funded by the National Endowment\r\nfor the Humanities, Ford Foundation, and Rockefeller Foundation.\r\n\r\n1979-81 \"Love as a Moral Ideology,\" small grants from the Boys' Town Center,\r\nStanford University.\r\n\r\n1982-83 John Simon Guggenheim Memorial Fellowship.\r\n\r\n1982-83 \"Due Process in Organizations\" (with John W. Meyer and W. Richard\r\nScott), Russell Sage Foundation.\r\n2\r\n\r\n\r\nL.A. Times Book Award, 1985, for Habits of the Heart, for best book in category of\r\n\"current interest\".\r\n\r\nJury Nominated: Pulitzer Prize, 1986, in General Non-fiction for Habits of the\r\nHeart.\r\n\r\n1986 Walter J. Gores Award for Excellence in Teaching, Stanford University.\r\n\r\n1986-9 \"Law and the Regulatory State,\" part of \"The Good Society\" (R.N. Bellah,\r\nProject Director), funded by the National Endowment for the Humanities and the\r\nLilly Foundation.\r\n\r\n1996 Elected to membership in the Sociological Research Association\r\n\r\nProvost's Distinguished Visiting Lecturer, Notre Dame University, Spring 1996\r\n\r\n1997 The Meyers Center Award for the Study of Human Rights in North America\r\n(for Inequality by Design)\r\n\r\n1998 The League of Women Voters Award for Distinguished Scholarship\r\n\r\n1997-98 Social Science Distinguished Teaching Award, University of California at\r\nBerkeley\r\n\r\n1999-2000 French-American Foundation Chair in American Civilization, EHESS,\r\nParis\r\n\r\nFellow, Center for Advanced Study in the Behavioral Sciences, Stanford California\r\n(invited 1997, declined)\r\n\r\n2002-3 \"Social Capacities for Combating AIDS in Sub-Saharan Africa,\" Grants\r\nfrom Center for Health Research and the Committee on Research, University of\r\nCalifornia, Berkeley\r\n\r\n2003-4 \"Social Capacities for Combating AIDS in Sub-Saharan Africa,\" Grants\r\nfrom Center for Health Research and Center for African Studies, University of\r\nCalifornia, Berkeley\r\n\r\n2005 Davidson Lecturer, Randolph Macon Woman's College, Leesburg, Virginia.\r\n\r\n2003-2007 Fellow, Successful Societies Program, Canadian Institute for Advanced\r\nResearch\r\n3\r\n\r\n\r\n2007-2012 Fellow, Successful Societies Program, Canadian Institute For Advanced\r\nResearch\r\n\r\n2008-9 P.I. \"Qualitative Supplement to Conditional Cash Transfer Study in\r\nTanzania.\" Berkeley Population Center ($20,000).\r\n\r\n2009-10 Russell Sage Foundation Visiting Scholar\r\n\r\n2013 Elected Member, American Academy of Arts and Sciences\r\n\r\n\r\nPublications and Presentations:\r\n\r\nBooks:\r\n\r\n1979 Organization Without Authority: Dilemmas of Social Control in Free\r\nSchools (Harvard University Press).\r\n\r\n1985 Robert N. Bellah, Richard Madsen, William Sullivan, Ann Swidler, and\r\nSteven M. Tipton, Habits of the Heart: Individualism and Commitment in\r\nAmerican Life (University of California Press).\r\n1996. Reissued with a new Introduction.\r\n2007. Reissued with a new Introduction.\r\nTranslated into Chinese, Japanese, German, Bulgarian, Italian, Vietnamese.\r\n\r\n1991 Robert N. Bellah, Richard Madsen, William Sullivan, Ann Swidler, and\r\nSteven M. Tipton, The Good Society (Alfred A. Knopf).\r\n\r\n1996 Claude S. Fischer, Michael Hout, Martin Sanchez Jankowski, Samuel R.\r\nLucas, Ann Swidler and Kim Voss, Inequality by Design: Cracking the Bell Curve\r\nMyth (Princeton University Press).\r\n\r\n2001 Talk of Love: How Culture Matters (University of Chicago Press).\r\nSelections reprinted in Cultural Sociology, 1st edition, W.W. Norton.\r\n\r\n2001 Richard Madsen, William Sullivan, Ann Swidler, and Steven M. Tipton\r\n(eds.), Meaning and Modernity: Religion, Polity, Self (University of California\r\nPress).\r\n\r\n\r\nArticles:\r\n4\r\n\r\n\r\n1973 \"The Concept of Rationality in the Work of Max Weber,\" Sociological\r\nInquiry 43 (Winter).\r\n\r\n1976 \"Teaching in a Free School,\" Working Papers for a New Society (Fall).\r\n\r\n1976 \"What Free Schools Teach,\" Social Problems 24 (December 1976).\r\nReprinted in R.L. Ellis and M.J. Lipetz (eds.), Essential Sociology: The Basis of\r\nInteraction (Glenview, Ill.: Scott Foresman).\r\n\r\n1980 \"Love and Adulthood in American Culture,\" pp. 120-147 in Neil Smelser and\r\nErik Erikson (eds.), Themes of Work and Love in Adulthood (Cambridge, Ma.:\r\nHarvard University Press). Reprinted in Arlene S. Skolnick and Jerome Skolnick\r\n(eds.), Family in Transition (Boston: Little, Brown, 1985); A. Sadovinik, C.\r\nPersell, R. Mitchell, and E. Baumann (eds.), Understanding Society (New York:\r\nHarper & Row, 1986); Bellah, Madsen, Sullivan, Swidler, and Tipton (eds.),\r\nIndividualism and Commitment in American Life (New York: Harper & Row,\r\n1987).\r\n\r\n1986 \"Culture in Action: Symbols and Strategies,\" American Sociological Review\r\n51 (April): 273-286. Reprinted in Philip Smith (ed.), The New American Cultural\r\nSociology (Cambridge University Press 1998), and translated into Chinese\r\n(Taiwan), Spanish, Italian, and Hebrew. Reprinted in Marco Santo and Roberta\r\nSassatelli (eds.), Studiare la cultura: Nuove prospettive sociologiche (il Mulino:\r\nBologna, Italy, 2009); in Matt Wray (ed.), Cultural Sociology: An Introduction,\r\nW.W. Norton (2013).\r\n\r\n1986 \"The Culture of Policy: Aggregate versus Individualist Thinking about the\r\nRegulation of Education,\" in David Kirp and Donald Jensen (eds.), School Days,\r\nRule Days (London: Falmer Press). Extended version: Project Report No. 82- A13,\r\nInstitute for Research on Educational Finance and Governance, Stanford University\r\n(June, 1982).\r\n\r\n1986 Ann Swidler, Melissa Rapp, and Yasemin Soysal, \"Format and Formula in\r\nPrime-Time TV,\" in Sandra J. Ball-Rokeach and Muriel Cantor (eds.), Media,\r\nAudience, and Social Structure (Beverly Hills: Sage).\r\n\r\n1988 Frank R. Dobbin, Lauren Edelman, John W. Meyer, W. Richard Scott, and\r\nAnn Swidler, \"The Expansion of Due Process in Organizations,\" pp. 71-98 in\r\nLynne G. Zucker (ed.), Institutional Patterns and Organizations: Culture and\r\nEnvironment (Cambridge, Ma.: Ballinger).\r\n5\r\n\r\n\r\n1991 \"The Ideal Society,\" American Behavioral Scientist (May), reprinted in Amy\r\nB. Cohen, Brett Gary, and John Noakes (eds.) Visions of Society: Perspectives\r\nfrom the Social Sciences (Newbury Park, CA: Sage).\r\n\r\n1992 \"Inequality and American Culture: The Persistence of Voluntarism,\"\r\nAmerican Behavioral Scientist 35 (March/June):606-629; also pp. 294-314 in Gary\r\nMarks and Larry Diamond (eds.), Reexamining Democracy (Newbury Park: Sage).\r\n\r\n1993 \"Foreword,\" Max Weber, The Sociology of Religion, trans. Ephriam Fischoff\r\n(Boston: Beacon Press).\r\n\r\n1993/4 Ronald L. Jepperson and Ann Swidler, \"What Properties of Culture Should\r\nWe Measure?\" Poetics 22 (4).\r\n\r\n1994 Ann Swidler and Jorge Arditi \"The New Sociology of Knowledge,\" Annual\r\nReview of Sociology 20:305-29. To be reprinted in Volker meja and Nico Stehr\r\n(eds.) The Sociology of Knowledge (Cheltenham UK: Edward Elgar). Excerpts\r\nreprinted in Schools and Society: A Sociological Approach to Education, Jeanne H.\r\nBallantine and Joan Spade (eds.), Pine Forge Press (scheduled publication,\r\nNovember 2007).\r\n\r\n1995 \"Cultural Power and Social Movements,\" pp. 25-40 in Hank Johnston and\r\nBert Klandermans (eds.), Social Movements and Culture (Minneapolis: University\r\nof Minnesota Press) [reprinted in Lyn Spillman (ed.), Cultural Sociology (Malden,\r\nMA: Blackwell, 2002), pp. 311-323].\r\n\r\n2001 \"What Anchors Cultural Practices,\" in Theodore R. Schatzki, Karin Knorr\r\nCetina and Eike von Savigny (eds.), The Practice Turn in Contemporary Theory\r\n(London: Routledge):74-92.\r\n\r\n2001 \"Saving the Self: Endowment versus Depletion in American\r\nInstitutions,\" pp. 41-55 in Madsen, Sullivan, Swidler, and Tipton (eds.),\r\nMeaning and Modernity: Religion, Polity, Self (Berkeley: University of\r\nCalifornia Press).\r\n\r\n2001 \"Introduction\" to Meaning and Modernity: Religion, Polity, Self (with\r\nMadsen, Sullivan, Tipton), pp. ix-xvii.\r\n\r\n2001 \"Cultural Expression and Action.\" Pp. 3063-3069 in Neil J. Smelser\r\nand Paul B. Baltes (eds.), International Encyclopedia of the Social and\r\nBehavioral Sciences (Oxford: Elsevier Science Ltd.).\r\n6\r\n\r\n\r\n2002 \"Cultural Repertoires and Cultural Logics: Can They Be Reconciled?\" pp. 6-\r\n8 in Culture: Newsletter of the Sociology of Culture Section of the American\r\nSociological Association (Winter).\r\n\r\n2006 \"Syncretism and Subversion in AIDS Governance: How Locals Cope with\r\nGlobal Demands\" International Affairs 82, No. 2 (March): 269-284. [expanded\r\nversion pp. 145-164 in Nana K. Poku, Alan Whiteside, and Bjorg Sandkjaer, eds.\r\nGoverning a Pandemic: HIV/AIDS. Aldershot, Hants, UK: Ashgate Publishing,\r\n2007].\r\n\r\n2007 Ann Swidler and Susan Cotts Watkins: \"Ties of Dependence: AIDS and\r\nTransactional Sex in Rural Malawi,\" Studies in Family Planning 38, 3\r\n(September):147-162.\r\n\r\n2008. Malcolm Potts, Daniel T. Halperin, Douglas Kirby, Ann Swidler, Elliot\r\nMarseille, Jeffrey D. Klausner, Norman Hearst, Richard G. Wamai, James G. Kahn,\r\nand Julia Walsh, \"Reassessing HIV Prevention.\" Science 320 (5877): 749 - 750.\r\n2008. Potts et al., Letters and response, \"Tailoring AIDS Prevention,\" Science\r\n321(5896): 1631-33.\r\n\r\n2008. \"Comment on Stephen Vaisey's, 'Socrates, Skinner, and Aristotle: Three\r\nWays of Thinking About Culture in Action,'\" Sociological Forum 23(3):614-618.\r\n\r\n2009. Iddo Tavory and Ann Swidler, \"Condom Semiotics: Meaning and Condom\r\nUse in Rural Malawi.\" American Sociological Review 74(2):171-189. Reprinted in\r\nData Collection, edited by W. Paul Vogt, SAGE Benchmarks in Social Research\r\nMethods, SAGE Publications, London (2010).\r\n\r\n2009. Susan Cotts Watkins and Ann Swidler, \"Hearsay Ethnography:\r\nConversational Journals as a Method For Studying Culture in Action,\" Poetics\r\n37(2):162-184.\r\n\r\n2009. Ann Swidler and Susan Cotts Watkins, \"'Teach a Man to Fish': The\r\nSustainability Doctrine and its Social Consequences.\" World Development\r\n37(7):1182-1196.\r\n\r\n2009. \"Dialectics of Patronage: Logics of Accountability at the African AIDS-\r\nNGO Interface.\" Pp. 192-220 in S. Heydemann and D. Hammack (eds.),\r\nPhilanthropic Projections: Sending Institutional Logics Abroad. Indiana University\r\nPress.\r\n7\r\n\r\n\r\n2009. \"Responding to AIDS in Sub-Saharan Africa,\" in Peter Hall and Michèle\r\nLamont (eds.), Successful Societies: Institutions, Cultural Repertoires and\r\nPopulation Health. Cambridge University Press.\r\n\r\n2010. \"Access to Pleasure: Aesthetics, Social Inequality, and the Structure of\r\nCulture Production.\" Pp. 285-294 in Handbook of Cultural Sociology, edited by\r\nJohn Hall, Laura Grindstaff and Ming-Cheng Lo. Routledge.\r\n\r\n2010. \"Return of the Sacred: What African Chiefs Teach Us about Secularization.\"\r\nSociology of Religion 71(2).\r\n\r\n2011. Susan Cotts Watkins, Ann Swidler, and Crystal Biruk, \"Hearsay\r\nEthnography: A Method for Learning about Responses to Health Interventions,\" in\r\nBerenice Pescosolido, Jane McLeod, Jack Martin, and Anne Rogers (eds.), The\r\nHandbook of the Sociology of Health, Illness, & Healing. Springer.\r\n\r\n2012. Susan Cotts Watkins, Ann Swidler, and Thomas Hannan, \"Outsourcing\r\nSocial Transformation: Development NGOs as Organizations,\" Annual Review of\r\nSociology, 38: 285-315.\r\n\r\n2012. \"Where Do Axial Commitments Reside? Problems in Thinking about the\r\nAfrican Case,\" pp. 222-247 in Robert Bellah and Hans Joas (eds.), The Axial Age\r\nand Its Consequences, Harvard University Press.\r\n\r\n2013. \"Cultural Sources of Institutional Resilience: Lessons from Chieftaincy in\r\nRural Malawi,\" pp. 319-345 in Peter A. Hall and Michèle Lamont (eds.), Social\r\nResilience in the Neo-Liberal Era, Cambridge University Press.\r\n\r\n2013. Susan Cotts Watkins and Ann Swidler, \"Working Misunderstandings:\r\nDonors, Brokers, and Villagers in Africa's AIDS Industry,\" Population and Public\r\nPolicy: Essays in Honor of Paul Demeny, Population and Development Review,\r\nSupp: 197-218.\r\n\r\n2013. Ann Swidler and Susan Cotts Watkins, \"Practices of Deliberation in Rural\r\nMalawi,\" in Patrick Heller and Vijayendra Rao (editors), Deliberation and\r\nDevelopment: New Directions, The World Bank, Washington DC (forthcoming).\r\n\r\n2013. \"African Affirmations: The Religion of Modernity and the Modernity of\r\nReligion.\" International Sociology 28(6) 680-696.\r\n\r\n\r\nPapers:\r\n8\r\n\r\n\r\n1979 \"Interpretive versus Explanatory Approaches to the Sociology of Culture,\"\r\nAnnual Meetings of the American Sociological Association (September).\r\n\r\n1982 \"Ideologies of Love in Middle-Class America,\" Pacific Sociological\r\nAssociation, San Diego (April).\r\n\r\n1986 \"Deconstructed Selves: Social Sources of Post-Modern Individualism,\"\r\ninvited paper, Thematic Session, Annual Meetings of the American Sociological\r\nAssociation (September).\r\n\r\n1987 \"The Uses of Culture in Historical Explanation,\" Annual Meetings of the\r\nAmerican Sociological Association (August).\r\n\r\n1987 \"The Case of the Missing Mechanism,\" paper prepared for Conference on\r\nInstitutional Change, Center for Advanced Study in the Behavioral Sciences,\r\nStanford, CA, May 15-16.\r\n\r\n1988 \"Evangelicals and Civic Life,\" paper prepared for \"To Serve the Present Age:\r\nConsultations on Evangelicals and American Public Life,\" Philadelphia, PA,\r\nNovember 17-19.\r\n\r\n1989 \"Strategies into Structures: When Culture Becomes Structure and When It\r\nDoesn't,\" invited paper for Thematic Session, Annual Meetings of the American\r\nSociological Association, San Francisco (August).\r\n\r\n1990 \"Strategic Actors and Cultural Commitments: Variations in Culture's\r\nTranscendence,\" invited paper prepared for conference on \"Ideology: The Turn to\r\nPractice,\" The University of Tulsa, April.\r\n\r\n1992 \"Cultural Constructions of Modern Individualism,\" invited paper, Thematic\r\nSession on \"Individualism and Community,\" Annual Meetings of the American\r\nSociological Association, Pittsburgh, Pa. (August).\r\n\r\n1994 Ann Swidler and Ronald L. Jepperson, \"Interpretation, Explanation, and\r\nTheories of Meaning,\" Annual Meetings of the American Sociological Association,\r\nLos Angeles, California (August).\r\n\r\n1998 \"Demystifying Culture: Models of Meaning in a Global Era,\" Sociological\r\nResearch Association, San Francisco, August 1998.\r\n9\r\n\r\n\r\n1999 \"Cultural Transformations of Modern Individualism: A Global Perspective,\"\r\nInvited paper, Evening Plenary Session, \"Transitions in World Society,\" Annual\r\nMeetings of the American Sociological Association, Chicago (August 6-10).\r\n\r\n2000 \"Out of Our Minds: Where Cognition and Culture Intersect.\" Paper\r\nprepared for Sociology of Culture Mini-Conference Session on Culture and\r\nCognition, George Mason University (August 11).\r\n\r\n2001 \"Cultural Repertoires and Cultural Logics: Can They Be Reconciled?\"\r\nPaper prepared for Annual Meetings of the American Sociological Association,\r\nAnaheim, CA (August).\r\n\r\n2003 \"Enacting Commitment: Religious Ritual and Family Life,\" Paper prepared\r\nfor International Conference on Sex, Marriage and Family and the Religions of the\r\nBook, March 27-29, 2003, Emory University, Atlanta, Georgia.\r\n\r\n2003 \"The Politics of AIDS in Sub-Saharan Africa,\" Paper Prepared for Annual\r\nMeetings of the American Sociological Association, Atlanta, GA (August).\r\n\r\n2004 \"Responding to AIDS in Sub-Saharan Africa: The Botswana Paradox,\"\r\nCanadian Institute for Advanced Research, Meeting on \"Body of Knowledge:\r\nHealth and Society,\" Toronto, Canada, April 13-14.\r\n\r\n2004 \"Cultures of Governance: AIDS NGOs in Sub-Saharan Africa,\" Thematic\r\nSession on \"Culture, Politics and the Production of Disease: African Cases and\r\nControversies,\" Annual Meetings of the American Sociological Association,\r\nAugust 14-17, San Francisco, CA.\r\n\r\n2005 \"Can God Save the American Family? Family in the Cross-Hairs of the\r\nCulture Wars\" Davidson Lecture, Randolph Macon Woman's College, March 31.\r\n\r\n2005 \"Hearsay Ethnography\" (with Cusan Cotts Watkins), Population Association\r\nof America annual meeting, Philadelphia, April.\r\n\r\nMarch 29, 2007, \"Why Cultural Match Matters: AIDS NGOs in Sub-Saharan\r\nAfrica,\" Sociology Department Colloquium, Yale University, New Haven, CT.\r\n\r\nMay 21, 2007 \"Why Interventions Prosper: Cultural Logic, Organizational\r\nInterests, and Scientific Uncertainty in Global AIDS Prevention,\" Departmental\r\nSeminar, Department of Sociology, Hebrew University, Jerusalem.\r\n10\r\n\r\n\r\n2007 \"Organisational and Cultural Obstacles To Male Circumcision as a Prevention\r\nIntervention.\" HIV and AIDS Research and Best Practices Dissemination\r\nConference: \"Using Evidence in HIV and AIDS Programming,\" 27th-29th June\r\n2007, Malawi Institute of Management, Lilongwe, Malawi.\r\n\r\n2007 Ann Swidler and Susan Cotts Watkins, \"'Teach a Man to Fish': Ironies of\r\nSustainability in AIDS NGOs.\" Paper presented American Sociological\r\nAssociation Annual Meetings, New York City, August 11-14, 2007.\r\n\r\n2008 Iddo Tavory and Ann Swidler, \"Meanings of Condom Use in Rural Malawi.\"\r\nHIV and AIDS Research and Dissemination Meeting, 27th-29th June, 2008,\r\nMalawi Institute of Management, Lilongwe, Malawi.\r\n\r\n2008 \"Where Do Axial Commitments Reside? Problems in Thinking about the\r\nAfrican Case.\" Paper prepared for conference on \"The Axial Age and Its\r\nConsequences for subsequent History and the Present,\" Max Weber Center for\r\nAdvanced Cultural and Social Studies, Erfurt, Germany, July 3-5.\r\n\r\n2009 \"Return of the Sacred: What African Chiefs Teach Us about Secularization.\"\r\nPaul Hanly Furfey Lecture, Association for the Sociology of Religion, San\r\nFrancisco, August 11.\r\n\r\n2009. \"African Chiefdoms and Institutional Resilience: Public Goods and Private\r\nStrategies.\" Center for European Studies, Harvard University, November 20.\r\n\r\n2010. Ann Swidler and Susan Cotts Watkins, \"Practices of Deliberation in Rural\r\nMalawi.\" Paper prepared for conference on \"Deliberation for Development: New\r\nDirections,\" World Bank, Communication for Governance & Accountability\r\nProgram (CommGAP), Washington, DC, November 12 & 13, 2010.\r\n\r\n2011. \"Cultural Sources of Institutional Resilience: Lessons from Chieftaincy in\r\nRural Malawi.\" Paper prepared for Successful Societies Program of the Canadian\r\nInstitute for Advanced Research (CIFAR), Toronto Canada.\r\n\r\n2011. Ann Swidler and Susan Cotts Watkins, \"Fevered Imaginations: The\r\nRomance of AIDS Altruism in Africa.\" Paper for the American Association Annual\r\nmeetings, Las Vegas, Nevada, August 20-23.\r\n\r\n2011. \"African Affirmations: The Religion of Modernity and the Modernity of\r\nReligion.\" Conference on \"Multiple Secularities and Global Interconnectedness,\"\r\nUniversity of Leipzig, 13-15 October, 2011.\r\n11\r\n\r\n\r\n2013. Michèle Lamont and Ann Swidler, \"In Praise of Methodological Pluralism:\r\nFrom a Methods to a Theory Debate,\" Paper prepared for invited session on\r\nVarieties of Evidence and Method in Cultural Analysis, American Sociological\r\nAssociation Meetings, New York City, August 9-13.\r\n\r\n\r\nBook Reviews:\r\n\r\n\r\n1976 Margaret Stacey et al., Power, Persistence, and Change: A Second Study of\r\nBanbury, American Journal of Sociology 81 (May).\r\n\r\n\r\n1978 Robert Wuthnow, The Consciousness Reformation, American Journal of\r\nSociology 84 (July).\r\n\r\n\r\n1979 Peter L. Berger, The Heretical Imperative, The New Republic (October 20).\r\n\r\n\r\n1981 J.G. Merquior, The Veil and The Mask: Essays on Culture and Ideology,\r\nSocial Forces 59 (June).\r\n\r\n\r\n1982 Steven T. Bossert, Tasks and Social Relationships in Classrooms: A Study of\r\nInstructional Organization and Its Consequences, and Hugh Mehan, Learning\r\nLessons: Social Organization in the Classroom, American Journal of Sociology.\r\n\r\n\r\n1983 \"Self Absorbing Communities,\" review essay on Benjamin Zablocki,\r\nAlienation and Charisma: A Study of Contemporary American Communes,\r\nContemporary Sociology 12 (January).\r\n\r\n\r\n1987 \"Righteous and Resilient,\" review of James Davison Hunter, Evangelicalism:\r\nThe Coming Generation, New York Times Book Review (May 10).\r\n12\r\n\r\n\r\n1988 Barbara Ehrenreich, Elizabeth Hess, and Gloria Jacobs, Re-Making Love,\r\nAmerican Journal of Sociology 93 (March).\r\n\r\n\r\n1989 Diana Crane, The Social Transformation of American Art, 1940-1985,\r\nAmerican Journal of Sociology 94 (March).\r\n\r\n\r\n1991 \"Postmodern, Postfeminist, Postfamily?\" review of Judith Stacey, Brave New\r\nFamilies: Stories of Domestic Upheaval in Late Twentieth-Century America,\r\nContemporary Sociology 20 (September).\r\n\r\n\r\n1993 William A. Gamson, Talking Politics, Contemporary Sociology 22\r\n(November):810-812.\r\n\r\n\r\n1994 \"In Groups We Trust,\" review of Robert Wuthnow, Sharing the Journey,\r\nNew York Times Book Review (March 20):13.\r\n\r\n\r\n1995 Seymour Martin Lipset, Jews and the New American Scene, Times Literary\r\nSupplement, August 4, p. 10.\r\n\r\n\r\n1996 \"Geertz's Ambiguous Legacy,\" Review of Clifford Geertz, The Interpretation\r\nof Cultures, for a special issue on most important books of the last 25 years,\r\nContemporary Sociology 25(May):299-302. Reprinted in Dan Clawson (ed.),\r\nRequired Reading: Sociology's Most Influential Books (Amherst: University of\r\nMassachusetts Press, 1998).\r\n\r\n\r\n2009 \"Agonies of the Twitterati,\" review of Dalton Conley, Elsewhere, U.S.A.,\r\nAmerican Prospect (March 9).\r\n\r\n\r\nOther Writing:\r\n13\r\n\r\n\r\n1984 Nancy Chodorow, Dierdre English, Arlie Hochschild, Karen Paige, Lillian\r\nRubin, Ann Swidler, and Norma Wikler, \"Feminism 1984: Taking Stock on the\r\nBrink of an Uncertain Future,\" Ms. (January):102.\r\n\r\n\r\n1984 \"Studying Free Schools,\" in Beth B. Hess, Elizabeth Markson, and Peter\r\nStein (eds.), Sociology (Macmillan).\r\n\r\n\r\n1991 \"Moral Heroism,\" Radcliffe Quarterly 77 (September):25.\r\n\r\n\r\n1993 Introduction to Bill Dane Outside and Inside America: Photographs (in\r\nSpanish and English). Granada, Spain: Diputacion Provincal de Granada.\r\n\r\n\r\n1995 \"Religion and Politics: Dangerous Liaisons? Beyond the Ideology of\r\nTolerance and Moral Absolutes,\" Ethics and Policy (Graduate Theological Union,\r\nBerkeley, California), Spring 1995, p. 2.\r\n\r\n\r\n1997 \"To Revitalize Community Life, We Must First Strengthen Our National\r\nInstitutions,\" The Chronicle of Higher Education, May 16, pp. B4-5.\r\n\r\n\r\n1998 \"The University: Redefining an American Institution,\" in Kara C. Reinhardt\r\nand Elaine R. Rubin, eds., How Far Beyond the Gates? (Washington, DC:\r\nAssociation of Academic Health Centers), pp. 1-6.\r\n\r\n\r\n2007 Claude S. Fischer and Ann Swidler, \"Remembering a Giant of Sociology:\r\nSeymour Martin Lipset, 1922 - 2006,\" Footnotes: Newsletter of the American\r\nSociological Association (March).\r\n\r\n\r\nProfessional\r\n\r\nActivities:\r\n14\r\n\r\n\r\nMember, Final Review Panel, Ford Foundation Grants for Non-Fiction Books on\r\nMajor Contemporary Issues, 1981\r\n\r\n\r\nParticipant, Conference on Decisions and Due Process (to advise the Foundation on\r\nestablishing a research program), Russell Sage Foundation, May 1981\r\n\r\n\r\nAssociate Editor, American Sociological Review, 1982-1985\r\n\r\n\r\nCommittee on Nominations, American Sociological Association, 1983-1984\r\n\r\n\r\nProgram Committee, Annual Meetings of the American Sociological Association,\r\n1985\r\n\r\n\r\nProgram Committee, Annual Meetings of the American Sociological Association,\r\n1986\r\n\r\n\r\nNational Research Council, Ten Year Outlook on Research Opportunities in the\r\nBehavioral and Social Sciences, Working group on \"Culture and Ideology,\" 1985\r\n\r\n\r\nConsulting Editor, American Journal of Sociology, 1986-88\r\n\r\n\r\nCommittee on Nominations, Culture Section, American Sociological Association,\r\n1986-7\r\n\r\n\r\nReview Panel, Fellowships for College Teachers, National Endowment for the\r\nHumanities, August 1987\r\n15\r\n\r\n\r\nReview Panel, Fellowships for University Teachers, National Endowment for the\r\nHumanities, August, 1988\r\n\r\n\r\nOrganizer, session on \"Alternative Approaches and Methods in Cultural\r\nSociology,\" 1988 Annual Meetings of the American Sociological Association\r\n\r\n\r\nCouncil, Sociology of Culture Section, American Sociological Association, 1988-\r\n91\r\n\r\n\r\nPublications Committee, Sociology of Culture Section, American Sociological\r\nAssociation, 1990-91\r\n\r\n\r\nReview Panel, Travel to Collections, Social Sciences, National Endowment for the\r\nHumanities, Spring 1990\r\n\r\n\r\nGuest member, Editorial Board, Annual Review of Sociology, February, 1991\r\n\r\n\r\nMember, American Family Research Council, Institute for American Values, New\r\nYork City, 1991-1995 (resigned)\r\n\r\n\r\nVisiting Committee, Department of Sociology, Harvard University, 1992\r\n\r\n\r\nCommittee to prepare a \"culture module\" for the 1993 General Social Survey, 1992\r\n\r\n\r\nReview Panel, Fellowships for University Teachers, National Endowment for the\r\nHumanities, August 1992\r\n16\r\n\r\n\r\nPanelist, \"Special Session: Seymour Martin Lipset's Contributions to Sociology,\"\r\nASA Annual Meetings, Pittsburgh, August, 1992\r\n\r\n\r\nCritic, Author Meets Critics: Aryei Fishman, Judaism and Modernization on the\r\nReligious Kibbutz, Association for the Sociology of Religion Annual Meeting,\r\nPittsburgh, Pa., August 1992\r\n\r\n\r\nASA Culture Section: Nominations Committee; Program Committee; Organizer of\r\nsession on \"Meaning and Measurement,\" 1992-3\r\n\r\n\r\n1993-5 Chair, Working Group on Meaning and Measurement, Culture Section,\r\nAmerican Sociological Association\r\n\r\n\r\nReview Panel, Fellowships for University Teachers, National Endowment for the\r\nHumanities, July 1994\r\n\r\n\r\nCommittee to Visit the Department of Sociology, Harvard University, 1994-1997\r\n(Visit April 1995)\r\n\r\n\r\nChair-Elect, Culture Section, American Sociological Association, 1994-95; Chair,\r\n1995-96 (organizer of 7 sessions for August 1995 ASA Meetings)\r\n\r\n\r\nPanelist, Thematic Session on \"Communitarian Social Thought,\" Presentation on\r\n\"Communitarian Social Thought: Lessons of Innocence and Experience,\"\r\nAmerican Sociological Association Annual Meetings, Washington, D.C., August\r\n1995\r\n\r\n\r\nOrganizer, Mini-Conference on Meaning and Measurement, George Mason\r\nUniversity, August 17-18, 1995\r\n17\r\n\r\n\r\nVisiting Committee, Department of Sociology, Rutgers University, Fall 1997\r\n\r\n\r\nDeputy Editor, American Sociological Review, 1996-99.\r\n\r\n\r\nPanelist, Session on Recent Changes in Publishing: Implications for Sociology,\r\nAmerican Sociological Association Annual Meetings, San Francisco, August 1998.\r\n\r\n\r\nAmerican Sociological Association, elected member of Council, 1997-2000\r\n\r\n\r\nBest Book in the Sociology of Culture Award Committee, Culture Section,\r\nAmerican Sociological Association, 2001\r\n\r\n\r\nNEH Review Panel, Fellowships for University Teachers, August 2001\r\n\r\n\r\nFellow, Successful Societies Program, Canadian Institute for Advanced Research,\r\n2002-2007; 2007-2012\r\n\r\n\r\nAdvisory Board, Poetics: Journal of Empirical Research on Literature, the Media\r\nand the Arts, 2003-\r\n\r\n\r\nNEH Review Panel, Fellowships for University Teachers, August 2003\r\n\r\n\r\nOrganizer and Presider, Thematic Session, \"Rethinking AIDS: The Big Picture,\"\r\nAmerican Sociological Association annual meetings, Philadelphia, August 2005.\r\n\r\n\r\nPanelist, \"Reflections on the 20th Anniversary of the Publication of Habits of the\r\nHeart,\" Association for the Sociology of Religion Annual Meeting, Philadelphia,\r\nAugust 15, 2005.\r\n18\r\n\r\n\r\nPanelist, Academic Symposium, \"The Future of Religion in America,\" Inauguration\r\nof Arnold M. Eisen, Chancellor, Jewish Theological Seminary, New York, NY,\r\nSeptember 5, 2007.\r\n\r\n\r\nCommittee to review the Department of Sociology, Princeton University,\r\nDecember, 2007.\r\n\r\n\r\nAmerican Sociological Association, W.E.B. Du Bois Career of Distinguished\r\nScholarship Award Selection Committee, January 1, 2009-December 31, 2011.\r\n(Chair, 2009-10.)\r\n\r\n\r\nSociological Research Association, New Member Selection Committee, Spring\r\n2010.\r\n\r\nal Theory II: Metatheory,\" Annual Meetings of the Discussant, Session on \"Social\r\nDiscussant, Session on \"Social Theory II: Metatheory,\" Annual Meeting of the\r\nAmerican Sociological Association, Las Vegas, NV, August 20-23, 2011.\r\n\r\n\r\nDiscussant, Junior Theorists Symposium, American Sociological Association\r\nAnnual meeting, Denver, CO, August 16, 2012.\r\n\r\n\r\nChair-Elect, Section on Global and Transnational Sociology, American\r\nSociological Association, 2012-13."
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "US",
+          "sov:CultureInfo": "en-US"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "ANN SWIDLER's experience appears to be somewhat concentrated in Nursing (mostly Nursing Vocations and Certs) and slightly concentrated in Sales (mostly Entry Level). ANN SWIDLER has 39 years of work experience, with 8 years of management experience, including a mid-level position.",
+          "sov:MonthsOfWorkExperience": "466",
+          "sov:AverageMonthsPerEmployer": "22",
+          "sov:FulltimeDirectHirePredictiveIndex": "45",
+          "sov:MonthsOfManagementExperience": "96",
+          "sov:HighestManagementScore": "55",
+          "sov:ExecutiveType": "executive",
+          "sov:ManagementStory": "Starting on 1/1/1986, the candidate held the following low-level management position for 4 years:\r\n\tTitle: \"The Good Society\" (R.N. Bellah, Project Director) for \"Law and the Regulatory State\r\nStarting on 1/1/1979, the candidate held the following low-level management position for 4 years:\r\n\tTitle: R.N. Bellah, Project Director for Moral Bases of Social Commitment in America",
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Nursing",
+                    "@id": "99",
+                    "@percentOfOverall": "26",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Nursing Vocations and Certs",
+                        "@id": "456",
+                        "@percentOfOverall": "26",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "R.N",
+                            "@id": "006322",
+                            "@existsInText": "true",
+                            "@totalMonths": "96",
+                            "@lastUsed": "1989-12-31",
+                            "@whereFound": "Found in CERTIFICATIONS; WORK HISTORY; POS-10; POS-5"
+                          },
+                          {
+                            "@name": "R.N.",
+                            "@id": "014910",
+                            "@existsInText": "true",
+                            "@totalMonths": "96",
+                            "@lastUsed": "1989-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-10; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "12",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Entry Level",
+                        "@id": "500",
+                        "@percentOfOverall": "12",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASSOCIATE",
+                            "@id": "004917",
+                            "@existsInText": "true",
+                            "@totalMonths": "120",
+                            "@lastUsed": "1996-12-31",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Administrative or Clerical",
+                    "@id": "1",
+                    "@percentOfOverall": "10",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Computer Related",
+                        "@id": "115",
+                        "@percentOfOverall": "10",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "EDS",
+                            "@id": "015888",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-8"
+                          },
+                          {
+                            "@name": "PUBLISHING",
+                            "@id": "006027",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Education",
+                    "@id": "77",
+                    "@percentOfOverall": "8",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Positions",
+                        "@id": "505",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEACHING",
+                            "@id": "026880",
+                            "@existsInText": "true",
+                            "@totalMonths": "36",
+                            "@lastUsed": "1998-12-31",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-15; POS-9"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Training",
+                    "@id": "64",
+                    "@percentOfOverall": "8",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "361",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEACHING",
+                            "@id": "026879",
+                            "@existsInText": "true",
+                            "@totalMonths": "36",
+                            "@lastUsed": "1998-12-31",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-15; POS-9"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "8",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "3",
+                            "@childrenLastUsed": "1996-05-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SPRING",
+                                "@id": "3391126",
+                                "@existsInText": "true",
+                                "@totalMonths": "3",
+                                "@lastUsed": "1996-05-31",
+                                "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-12"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Degreed Accounting",
+                    "@id": "32",
+                    "@percentOfOverall": "7",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Management",
+                        "@id": "960",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "JOURNAL",
+                            "@id": "026930",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Bookkeeping",
+                        "@id": "944",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "JOURNAL",
+                            "@id": "026929",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "7",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MICROSOFT OUTLOOK",
+                            "@id": "024344",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "OUTLOOK",
+                                "@id": "021954",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Bookkeeping, Office Management",
+                    "@id": "89",
+                    "@percentOfOverall": "7",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Bookeeping Tasks",
+                        "@id": "533",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "022229",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "COLLECTIONS",
+                                "@id": "013782",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Translations and Language Work",
+                    "@id": "91",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Translation",
+                        "@id": "901",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TRANSLATED",
+                            "@id": "200001",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "15",
+              "@ends": "18",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "19",
+              "@ends": "102",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Employment"
+            },
+            {
+              "@starts": "103",
+              "@ends": "104",
+              "@sectionType": "OTHER_PUBLICATIONS",
+              "#text": "Publications and Presentations"
+            },
+            {
+              "@starts": "105",
+              "@ends": "107",
+              "@sectionType": "BOOKS",
+              "#text": "Books"
+            },
+            {
+              "@starts": "108",
+              "@ends": "131",
+              "@sectionType": "EDUCATION",
+              "#text": "Schools"
+            },
+            {
+              "@starts": "132",
+              "@ends": "555",
+              "@sectionType": "OTHER_PUBLICATIONS",
+              "#text": "Articles"
+            },
+            {
+              "@starts": "556",
+              "@ends": "744",
+              "@sectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+              "#text": "Activities"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "(510) 642-0480",
+              "(510) 644-0858",
+              "FAX (510) 644-0614",
+              "(510) 644-0614",
+              "28(6) 680-696"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "Ann Swidler",
+              "2001 Richard Madsen, William Sullivan, Ann Swidler, and Steven M. Tipton",
+              "Lucas, Ann Swidler and Kim Voss, Inequality by Design: Cracking the Bell Curve",
+              "ANN SWIDLER",
+              "2007 Claude S. Fischer and Ann Swidler, \"Remembering a Giant of Sociology:",
+              "Rubin, Ann Swidler, and Norma Wikler, \"Feminism 1984: Taking Stock on the",
+              "2013. Michèle Lamont and Ann Swidler, \"In Praise of Methodological Pluralism:",
+              "2011. Ann Swidler and Susan Cotts Watkins, \"Fevered Imaginations: The",
+              "2010. Ann Swidler and Susan Cotts Watkins, \"Practices of Deliberation in Rural",
+              "2008 Iddo Tavory and Ann Swidler, \"Meanings of Condom Use in Rural Malawi.\"",
+              "2007 Ann Swidler and Susan Cotts Watkins, \"'Teach a Man to Fish': Ironies of",
+              "1994 Ann Swidler and Ronald L. Jepperson, \"Interpretation, Explanation, and",
+              "2013. Ann Swidler and Susan Cotts Watkins, \"Practices of Deliberation in Rural",
+              "2013. Susan Cotts Watkins and Ann Swidler, \"Working Misunderstandings:",
+              "2012. Susan Cotts Watkins, Ann Swidler, and Thomas Hannan, \"Outsourcing",
+              "2011. Susan Cotts Watkins, Ann Swidler, and Crystal Biruk, \"Hearsay",
+              "2009. Ann Swidler and Susan Cotts Watkins, \"'Teach a Man to Fish': The",
+              "2009. Susan Cotts Watkins and Ann Swidler, \"Hearsay Ethnography:",
+              "2009. Iddo Tavory and Ann Swidler, \"Condom Semiotics: Meaning and Condom",
+              "2008. Malcolm Potts, Daniel T. Halperin, Douglas Kirby, Ann Swidler, Elliot",
+              "2007 Ann Swidler and Susan Cotts Watkins: \"Ties of Dependence: AIDS and",
+              "1994 Ann Swidler and Jorge Arditi \"The New Sociology of Knowledge,\" Annual",
+              "Ann Swidler, \"The Expansion of Due Process in Organizations,\" pp. 71-98 in",
+              "1986 Ann Swidler, Melissa Rapp, and Yasemin Soysal, \"Format and Formula in",
+              "1991 Robert N. Bellah, Richard Madsen, William Sullivan, Ann Swidler, and",
+              "1985 Robert N. Bellah, Richard Madsen, William Sullivan, Ann Swidler, and"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "swidler@berkeley.edu"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Department of Sociology, University of California",
+              "2964 Magnolia St"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "27761",
+        "sov:ParseTime": "1671",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Fatal Problems Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:417;] This resume is approximately 14 pages long, and appears to be a curriculum vitae. Such documents are prone to errors due to the use of nonstandard headers and the vast amount of data describing patents, speaking engagements, research, advisory roles, publications, etc. Accordingly, only the first WORK HISTORY section was parsed, as that usually results in far greater accuracy."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:303;5,6] Each of the following sections in the resume contain more content than the work history and education sections combined: 'Articles', 'Activities'. This may indicate a problem with section headers, formatting, or content.",
+                    "[Sovren:312;5] The following section in the resume contains more content than recommended: 'Articles' This section should be less than 10 lines long as it can cause errors in parsing the resume.",
+                    "[Sovren:323;EDUCATION,OTHER_PUBLICATIONS] The following section types appear multiple times in the resume: EDUCATION (2 occurrences), OTHER_PUBLICATIONS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:221;POS-22,POS-18,POS-15,POS-14,POS-13,POS-11,POS-9,POS-8,POS-7,POS-6] We could not find a job title for: POS-22, POS-18, POS-15, POS-14, POS-13, POS-11, POS-9, POS-8, POS-7, POS-6. Every position in a resume should have a job title.",
+                    "[Sovren:222;POS-23] No employer name was found for:  POS-23. Every position in a resume should have an employer name.",
+                    "[Sovren:226;] We found no work history positions within the past year. A resume should include work history information, including time off, for the most recent year.",
+                    "[Sovren:231;DEG-7,DEG-6,DEG-5,DEG-4,DEG-8] The following educational degrees do not have a degree name: DEG-7, DEG-6, DEG-5, DEG-4, DEG-8. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:113;2,3] The following sections were identified as a publications, patents, or speaking engagements section type: 2, 3. Publications should not be included in a resume.",
+                    "[Sovren:131;] Multiple addresses were found in the contact information. Only one contact address should ever be included in a resume.",
+                    "[Sovren:133;] Multiple phone numbers were found in the contact information. Only one phone number should be included in a resume.",
+                    "[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Education', 'Schools'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:Warnings": {
+          "sov:Warning": [
+            "This resume is approximately 14 pages long, and appears to be a curriculum vitae. Such documents are prone to errors due to the use of nonstandard headers and the vast amount of data describing patents, speaking engagements, research, advisory roles, publications, etc. Accordingly, only the first WORK HISTORY section was parsed, as that usually results in far greater accuracy."
+          ]
+        },
+        "sov:LicenseSerialNumber": "13430659:5a4f09f2-7500-4da8-938d-c106427ce1cb",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.2.0",
+        "sov:DigitalSignature": "jwgBAAAAAAA="
+      }
+    }
+  }
+}

@@ -1,0 +1,1923 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Agustin G. Lao Montes",
+          "GivenName": "Agustin",
+          "MiddleName": "G.",
+          "FamilyName": "Lao Montes"
+        },
+        "ContactMethod": [
+          {
+            "Use": "business",
+            "Location": "office",
+            "Telephone": {
+              "FormattedNumber": "(413) 545-2845"
+            }
+          },
+          {
+            "Telephone": {
+              "FormattedNumber": "(413)275-7027"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "lao@soc.umass.edu"
+          }
+        ]
+      },
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "University of Massachusetts at Amherst",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Associate",
+                "OrgName": {
+                  "OrganizationName": "University of Massachusetts at Amherst"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "US",
+                      "Region": [
+                        "Massachusetts"
+                      ],
+                      "Municipality": "Amherst"
+                    }
+                  }
+                ],
+                "Description": "Professor, Sociology; Researcher on the Center for\r\nLatin American and Caribbean Studies; Coordinator of Postgraduate Certificate in African Diaspora\r\nStudies (since 2010). From Fall 1999 until now",
+                "StartDate": {
+                  "Year": "2010"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BQ",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SN",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "University of Massachusetts at Amherst",
+                    "sov:NormalizedTitle": "Associate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "University of Massachusetts at Amherst"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Faculty of Social Sciences",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Profesor-Researcher",
+                "OrgName": {
+                  "OrganizationName": "FLACSO"
+                },
+                "Description": "until",
+                "StartDate": {
+                  "YearMonth": "2013-08"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "FLACSO",
+                    "sov:NormalizedTitle": "Profesor Researcher"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "Prometeo Fellow",
+                "OrgName": {
+                  "OrganizationName": "FLACSO"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "EC",
+                      "Municipality": "Quito"
+                    }
+                  }
+                ],
+                "Description": "Recurrent Visiting Professor, Universidad del Externado, Bogota, Colombia.\r\nDoctoral Program in Social Studies. Also, Advisor to Catedra de Estudios de la Africanìa.",
+                "StartDate": {
+                  "YearMonth": "2015-08"
+                },
+                "EndDate": {
+                  "YearMonth": "2015-08"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "FLACSO",
+                    "sov:NormalizedTitle": "Prometeo Fellow"
+                  }
+                }
+              },
+              {
+                "@positionType": "temp",
+                "Title": "Visiting Professor-Researcher, Latin American",
+                "OrgName": {
+                  "OrganizationName": "FLACSO"
+                },
+                "Description": "2014. From 8-2012 to 7-2013 I was a Visiting",
+                "StartDate": {
+                  "Year": "2012"
+                },
+                "EndDate": {
+                  "Year": "2012"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "FLACSO",
+                    "sov:NormalizedTitle": "Visiting Professor Researcher Latin American",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Visiting Professor-Researcher",
+                        "Visiting Professor",
+                        "Researcher",
+                        "Researcher, Latin American",
+                        "Professor-Researcher, Latin American",
+                        "Professor-Researcher",
+                        "Professor"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Faculty of Social Sciences"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Borough of Manhattan Community College",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Full-time Instructor and Researcher, Center",
+                "OrgName": {
+                  "OrganizationName": "Borough of Manhattan Community College"
+                },
+                "Description": "for Ethnic Studies, Academic\r\nYear, 1998-1999.",
+                "StartDate": {
+                  "Year": "1998"
+                },
+                "EndDate": {
+                  "Year": "1999"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-5",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Borough of Manhattan Community College",
+                    "sov:NormalizedTitle": "Full time Instructor and Researcher Center",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Full-time Instructor and Researcher",
+                        "Instructor and Researcher, Center",
+                        "Instructor and Researcher"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Borough of Manhattan Community College"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "John Jay School of Criminal Justice, City University of New York",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Adjunct Lecturer, Puerto Rican Studies",
+                "OrgName": {
+                  "OrganizationName": "John Jay School of Criminal Justice, City University of New York"
+                },
+                "Description": "Race and Ethnicity in America, Caribbean History,\r\nUrban Sociology of U.S. Latinos, 1997-1998.",
+                "StartDate": {
+                  "Year": "1997"
+                },
+                "EndDate": {
+                  "Year": "1998"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-6",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BX",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SM",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "John Jay School of Criminal Justice City University of New York",
+                    "sov:NormalizedTitle": "Adjunct Lecturer Puerto Rican Studies",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Adjunct Lecturer",
+                        "Lecturer, Puerto Rican Studies",
+                        "Lecturer"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "John Jay School of Criminal Justice City University of New York"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "State University of New York-Binghamton",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Lecturer Sociology, Race and Culture in the World",
+                "OrgName": {
+                  "OrganizationName": "State University of New York-Binghamton"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "US",
+                      "Region": [
+                        "New York"
+                      ],
+                      "Municipality": "Binghamton"
+                    }
+                  }
+                ],
+                "Description": "",
+                "StartDate": {
+                  "Year": "1996"
+                },
+                "EndDate": {
+                  "Year": "1997"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-7",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BQ",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SN",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "State University of New York Binghamton",
+                    "sov:NormalizedTitle": "Lecturer Sociology Race and Culture in the World",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Lecturer Sociology",
+                        "Lecturer Sociology, Race and Culture"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "State University of New York Binghamton"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Baruch College, CUNY",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Adjunct Lecturer, Black",
+                "OrgName": {
+                  "OrganizationName": "Baruch College, CUNY"
+                },
+                "Description": "",
+                "StartDate": {
+                  "Year": "1994"
+                },
+                "EndDate": {
+                  "Year": "1995"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-8",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Baruch College CUNY",
+                    "sov:NormalizedTitle": "Adjunct Lecturer Black",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Adjunct Lecturer",
+                        "Lecturer, Black",
+                        "Lecturer"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Baruch College CUNY"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "City University of New York, Graduate School",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Researcher",
+                "OrgName": {
+                  "OrganizationName": "City University of New York, Graduate School"
+                },
+                "Description": "New York City Commission on",
+                "StartDate": {
+                  "Year": "1992"
+                },
+                "EndDate": {
+                  "Year": "1994"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-14",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BX",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "City University of New York Graduate School",
+                    "sov:NormalizedTitle": "Researcher"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "City University of New York Graduate School"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Barnard College, Columbia University",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Assistant, Sociology, Race",
+                "OrgName": {
+                  "OrganizationName": "Barnard College, Columbia University"
+                },
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "1994-03"
+                },
+                "EndDate": {
+                  "YearMonth": "1994-05"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-12",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BQ",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Barnard College Columbia University",
+                    "sov:NormalizedTitle": "Assistant Sociology Race",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Assistant",
+                        "Assistant, Sociology"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Barnard College Columbia University"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Hermandad Hispana",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "U.S. Northwest Regional Director",
+                "OrgName": {
+                  "OrganizationName": "Hermandad Hispana"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "US",
+                      "Region": [
+                        "NY"
+                      ],
+                      "Municipality": "New York City"
+                    }
+                  }
+                ],
+                "Description": "",
+                "StartDate": {
+                  "Year": "1990"
+                },
+                "EndDate": {
+                  "Year": "1992"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Manager"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-15",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Hermandad Hispana",
+                    "sov:NormalizedTitle": "U S Northwest Regional Director"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Hermandad Hispana"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Nacional. New York City",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Executive Director",
+                "OrgName": {
+                  "OrganizationName": "Nacional. New York City"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "US",
+                      "Region": [
+                        "NY"
+                      ],
+                      "Municipality": "New York City"
+                    }
+                  }
+                ],
+                "Description": "Northern Manhattan Coalition for",
+                "StartDate": {
+                  "Year": "1988"
+                },
+                "EndDate": {
+                  "Year": "1990"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Manager"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-16",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Nacional New York City",
+                    "sov:NormalizedTitle": "Executive Director"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Nacional New York City"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Immigrants Rights. New York City",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Community Organizer. Northern Manhattan Improvement",
+                "OrgName": {
+                  "OrganizationName": "Immigrants Rights. New York City"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "US",
+                      "Region": [
+                        "NY"
+                      ],
+                      "Municipality": "New York City"
+                    }
+                  }
+                ],
+                "Description": "",
+                "StartDate": {
+                  "Year": "1986"
+                },
+                "EndDate": {
+                  "Year": "1988"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-17",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TF",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Immigrants Rights New York City",
+                    "sov:NormalizedTitle": "Community Organizer Northern Manhattan Improvement",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Community Organizer"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Immigrants Rights New York City"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Corporation. New York City",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Associate Editor, Newspaper, Trade Union",
+                "OrgName": {
+                  "OrganizationName": "Corporation. New York City"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "US",
+                      "Region": [
+                        "NY"
+                      ],
+                      "Municipality": "New York City"
+                    }
+                  }
+                ],
+                "Description": "District 65 United Auto Workers, 1982-1983.",
+                "StartDate": {
+                  "Year": "1984"
+                },
+                "EndDate": {
+                  "Year": "1986"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-18",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TB",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "New York City",
+                    "sov:NormalizedTitle": "Associate Editor Newspaper Trade Union",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Associate Editor",
+                        "Associate Editor, Newspaper"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "New York City"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "City College, CUNY",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Adjunct Lecturer, Latin American",
+                "OrgName": {
+                  "OrganizationName": "City College, CUNY"
+                },
+                "Description": "",
+                "StartDate": {
+                  "Year": "1982"
+                },
+                "EndDate": {
+                  "Year": "1984"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-9",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SM",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "City College CUNY",
+                    "sov:NormalizedTitle": "Adjunct Lecturer Latin American",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Adjunct Lecturer",
+                        "Lecturer, Latin American",
+                        "Lecturer"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "City College CUNY"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Guardian Newspaper",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Editorial Associate",
+                "OrgName": {
+                  "OrganizationName": "Guardian Newspaper"
+                },
+                "Description": "3\r\n4",
+                "StartDate": {
+                  "Year": "1981"
+                },
+                "EndDate": {
+                  "Year": "1982"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-19",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Guardian Newspaper",
+                    "sov:NormalizedTitle": "Editorial Associate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Guardian Newspaper"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Queens College, CUNY",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Adjunct Lecturer, Puerto Rican",
+                "OrgName": {
+                  "OrganizationName": "Queens College, CUNY"
+                },
+                "Description": "2\r\n3",
+                "StartDate": {
+                  "Year": "1981"
+                },
+                "EndDate": {
+                  "Year": "1982"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-10",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BQ",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SM",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Queens College CUNY",
+                    "sov:NormalizedTitle": "Adjunct Lecturer Puerto Rican",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Adjunct Lecturer",
+                        "Lecturer, Puerto Rican",
+                        "Lecturer"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Queens College CUNY"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "New School for Social Research",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Teaching Assistant, Political Economy, Socio",
+                "OrgName": {
+                  "OrganizationName": "New School for Social Research"
+                },
+                "Description": "",
+                "StartDate": {
+                  "Year": "1980"
+                },
+                "EndDate": {
+                  "Year": "1981"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-11",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BQ",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TT",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "New School for Social Research",
+                    "sov:NormalizedTitle": "Teaching Assistant Political Economy Socio",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Teaching Assistant",
+                        "Teaching Assistant, Political Economy",
+                        "Political Economy, Socio",
+                        "Socio"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "New School for Social Research"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Ponce High School",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Coordinator and Teacher",
+                "OrgName": {
+                  "OrganizationName": "Ponce High School"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "ES",
+                      "Municipality": "Puerto"
+                    }
+                  }
+                ],
+                "Description": "Non-Academic Work Experience\r\nField Researcher, CAMEO Project\r\n(Community, Autobiography, Memory, Ethnography, Organizing), Center for Cultural Studies,",
+                "StartDate": {
+                  "Year": "1977"
+                },
+                "EndDate": {
+                  "Year": "1978"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "User Experience → User Research",
+                    "Comments": "User Experience describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-13",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BQ",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Ponce High School",
+                    "sov:NormalizedTitle": "Coordinator and Teacher"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Ponce High School"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Yale University"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "doctorate",
+                "DegreeName": "Doctoral",
+                "DegreeDate": {
+                  "Year": "2007"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "World-Historical Sociology"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "Year": "2006"
+                    },
+                    "EndDate": {
+                      "Year": "2007"
+                    }
+                  }
+                ],
+                "Comments": "Post-Doctoral Studies, Yale University, 2006-2007.\r\n\r\n\r\nScholarly Interests\r\nSocial Theory, World-Historical Sociology,\r\nSocial Movements, Cultural Studies,\r\nRacial and Ethic Studies, Sociology of Knowledge,\r\nFeminist Critique, Post/Decolonial Critique,\r\nAfrican Diaspora Studies, Latino/American Studies,\r\nCaribbean Studies, Inter-Cultural Higher Education\r\n\r\n\r\n1\r\n2",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-5",
+                    "sov:NormalizedDegreeName": "doctorate",
+                    "sov:NormalizedDegreeType": "doctorate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Yale University"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "State University of New York"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "US",
+              "Region": [
+                "New York"
+              ],
+              "Municipality": "Binghamton"
+            },
+            "Degree": [
+              {
+                "@degreeType": "doctorate",
+                "DegreeName": "Ph.D.",
+                "DegreeDate": {
+                  "Year": "2003"
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2003"
+                    }
+                  }
+                ],
+                "Comments": "Ph.D. State University of New York-Binghamton, 2003.",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-4",
+                    "sov:NormalizedDegreeName": "doctorate",
+                    "sov:NormalizedDegreeType": "doctorate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "State of New York"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "State University of New York"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "US",
+              "Region": [
+                "New York"
+              ],
+              "Municipality": "Binghamton"
+            },
+            "Degree": [
+              {
+                "@degreeType": "masters",
+                "DegreeName": "M.A.",
+                "DegreeDate": {
+                  "Year": "1997"
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "1997"
+                    }
+                  }
+                ],
+                "Comments": "M.A. State University of New York-Binghamton, 1997.",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-3",
+                    "sov:NormalizedDegreeName": "masters",
+                    "sov:NormalizedDegreeType": "masters"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "State of New York"
+              }
+            }
+          },
+          {
+            "@schoolType": "UNSPECIFIED",
+            "School": [
+              {
+                "SchoolName": "New School for Social Research"
+              }
+            ],
+            "Degree": [
+              {
+                "DegreeDate": {
+                  "Year": "1981"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Political Economy"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "Year": "1979"
+                    },
+                    "EndDate": {
+                      "Year": "1981"
+                    }
+                  }
+                ],
+                "Comments": "New School for Social Research, Graduate Courses in Political Economy 1979-1981.",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "New School for Social Research"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Catholic University of Puerto Rico"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.A.",
+                "DegreeDate": {
+                  "Year": "1976"
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "1976"
+                    }
+                  }
+                ],
+                "Comments": "B.A. Catholic University of Puerto Rico, 1976.",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "University of Puerto Rico"
+              }
+            }
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "of Postgraduate Certificate in African Diaspora",
+            "Id": "1",
+            "Description": "certification"
+          }
+        ]
+      },
+      "PublicationHistory": {
+        "Article": [
+          {
+            "Title": "of  no 4",
+            "Name": [
+              {
+                "@role": "contributor",
+                "FormattedName": "Rising Political",
+                "GivenName": "Rising",
+                "FamilyName": "Political"
+              }
+            ],
+            "PublicationDate": {
+              "Year": "2016"
+            },
+            "JournalOrSerialName": "Epistemic Currents.\r\nMeridians, ",
+            "Issue": "Vol 16,"
+          },
+          {
+            "Title": ", descolonización, y democracia\r\nsustantiva. principios ético-políticos\r\npara las diásporas \r\n No 1,pp",
+            "Name": [
+              {
+                "@role": "contributor",
+                "FormattedName": "Empoderamiento ",
+                "GivenName": "Empoderamiento"
+              }
+            ],
+            "PublicationDate": {
+              "Year": "2013"
+            },
+            "JournalOrSerialName": "Afinando ",
+            "Issue": "Vol 1,",
+            "PageNumber": "55-84"
+          },
+          {
+            "Title": "El legado :\r\ndesde arriba y desde abajo.\r\nÍconos, No.  Enero pp",
+            "PublicationDate": {
+              "Year": "2013"
+            },
+            "JournalOrSerialName": "Historias Globales ",
+            "Issue": "44,",
+            "PageNumber": "1-13"
+          },
+          {
+            "Title": "Hacia una cartografia del campo politico\r\nafrodescendiente en las Americas.",
+            "JournalOrSerialName": "\"\r\n  2011",
+            "Issue": "264,",
+            "PageNumber": "16-39"
+          },
+          {
+            "Title": "Crisis de la Civilizacion Occidental Capitalista y\r\nMovimientos Antisistemicos.",
+            "JournalOrSerialName": "Nexus: Revista de la\r\nEscuela de Comunicacion Social de la Universidad",
+            "Issue": "Vol 3,",
+            "PageNumber": "230-300"
+          },
+          {
+            "Title": "Cartographies of Afro-Latina/o Politics: Political\r\nContests and Historical Challenges.",
+            "JournalOrSerialName": "\"\r\nNegritud:  2. Winter",
+            "Issue": "2009:",
+            "PageNumber": "230-266"
+          },
+          {
+            "Title": "Ningun ser humano es Ilegal: Novisimos\r\nMovimientos Sociales de Inmigrantes Latinos en\r\nlos Estados Unidos",
+            "JournalOrSerialName": "Universitas Humanisticas,\r\nNo.  January-June 2008",
+            "Issue": "66,",
+            "PageNumber": "1-39"
+          },
+          {
+            "Title": ""
+          },
+          {
+            "Title": "Decolonial Moves: Trans-locating African Diaspora\r\nSpaces",
+            "JournalOrSerialName": "Decolonial Moves: \" Cultural Studies,  No. ,\r\nMarch/May 2007: 309-338",
+            "Issue": "Vol. 21,",
+            "PageNumber": "2-3"
+          },
+          {
+            "Title": "",
+            "Name": [
+              {
+                "@role": "contributor",
+                "FormattedName": "Journals Anthologies",
+                "GivenName": "Journals",
+                "FamilyName": "Anthologies"
+              }
+            ],
+            "JournalOrSerialName": "in\r\n, etc"
+          },
+          {
+            "Title": "Conflictos Raciales y\r\nConstrucciones Afroliberarias.\r\nEditorial Poder Negro.\r\n",
+            "JournalOrSerialName": "¨Los Movimientos Afroamericanos de Cara al\r\nDecenio de las y los  sobre"
+          },
+          {
+            "Title": "¨Horizontes de Esperanza: Concibiendo las\r\nConstrucción de Escenarios de Justicia y\r\nPaz en  el  e",
+            "JournalOrSerialName": "Indígenas. Esitorial Poder Negro.\r\n"
+          },
+          {
+            "Title": "La Filosofìa de la Liberacion y sus avatars en\r\nclave de Africanìa",
+            "JournalOrSerialName": "ed. La Filosofìa de la Liberaciòn en\r\nel Siglo XXI. A propósito de los 80 años de\r\nEnrique Dussel. UNAM, 2015 (a próxima publicación)"
+          },
+          {
+            "Title": "Cosmopolitismos Subalternizados, Redes\r\nTranslocales, y Descolonizacion de la Memoria:\r\nRepensar Nacion y Comunidad a la Luz y Sombra de\r\nLa Revoluciòn Haitiana. En Maria E. Chaves, Ed.\r\nLos ",
+            "Name": [
+              {
+                "@role": "contributor",
+                "FormattedName": "Repensar Nacion",
+                "GivenName": "Repensar",
+                "FamilyName": "Nacion"
+              }
+            ],
+            "JournalOrSerialName": "de la Memoria:\r\n y Comunidad a la Luz y Sombra de\r\n \"otros de la naciòn. Universidad Nacional de",
+            "PageNumber": "69-87"
+          },
+          {
+            "Title": "Atrapar una imagen del pasado en un momento de\r\nPeligro: recordando y recuperando el Marxismo\r\ncrìtico de \r\nEl pensamiento y política de 2015",
+            "JournalOrSerialName": "Fernando\r\nVelasco Abad. Abiayala, "
+          },
+          {
+            "Title": ""
+          },
+          {
+            "Title": "Translocal Space of Afro-Latinidad: Critical\r\nFeminist Visions for Diasporic Bridge-Building",
+            "JournalOrSerialName": "\"\r\n(with Mirangela Buggs) (2013=  of Translation in the Latin/a Americas.\r\nDuke University Press"
+          },
+          {
+            "Title": "Afro-Latinos",
+            "JournalOrSerialName": "\" in Dodson Howard and Colin Palmer,\r\ned., Origins",
+            "Issue": "2008:",
+            "PageNumber": "137-168"
+          },
+          {
+            "Title": "Reconfigurations of Empire in a World-Hegemonic\r\nTransition: The 1898 Spanish-Cuban-American-\r\nFilipino War",
+            "JournalOrSerialName": "Reconfigurations of Empire in a World-Hegemonic\r\nTransition: \" in Morana, Mabel and Carlos\r\nJauregui, ed. Revisiting the Colonial Question in\r\nLatin America. Iberoamericana Editorial Veurbert,\r\n2008. pp",
+            "PageNumber": "209-240"
+          },
+          {
+            "Title": "The New Politics of Decolonization",
+            "PublicationDate": {
+              "Year": "2008"
+            },
+            "JournalOrSerialName": "\"\r\n 3 (Spring: pp",
+            "PageNumber": "15-18"
+          },
+          {
+            "Title": "",
+            "JournalOrSerialName": "Afro-Latinidades: /o"
+          }
+        ],
+        "Book": [
+          {
+            "Title": "Contrapunteos Diaspóricos",
+            "PublisherName": "Cartografías Políticas de\r\nNuestra Afroamérica. Universidad"
+          },
+          {
+            "Title": "",
+            "PublicationDate": {
+              "Year": "2012"
+            },
+            "PublisherName": "Universidad de la Tierra, Mexico,"
+          },
+          {
+            "Title": "Beyond the \r\nwith  (co-authors in alphabetical\r\norder)",
+            "PublicationDate": {
+              "Year": "2017"
+            },
+            "PublisherName": "Sonia Alvarez, Gianpaolo Baiocchi, Jeff Rubin\r\nand Millie Thayer"
+          },
+          {
+            "Title": "Debates sobre Raza y Ciudadania ",
+            "PublicationDate": {
+              "Year": "2010"
+            },
+            "PublisherName": "Cesar\r\nRodriguez Garavito.\r\nUniversidad Nacional de Colombia,"
+          },
+          {
+            "Title": "Critical Interventions ",
+            "PublicationDate": {
+              "Year": "2007"
+            },
+            "PublisherName": "Studies. Co-editor with\r\nNancy Mirabal. Lexington Books,",
+            "PublisherLocation": "Latina, "
+          },
+          {
+            "Title": "Arlene Davila.\r\nColumbia University Press,\r\n",
+            "PublicationDate": {
+              "Year": "2001"
+            },
+            "PublisherName": "The Latinization of New York City.\r\nCo-editor"
+          },
+          {
+            "Title": "",
+            "PublisherName": "Book Manuscripts"
+          },
+          {
+            "Title": "Diasporic Counterpoints",
+            "PublisherName": "Political Cartographies of\r\nOur Afroamerica. Cambria Press"
+          },
+          {
+            "Title": "Caribbean.\r\nCo-Ed with Juliana Goes ",
+            "Name": [
+              {
+                "@role": "contributor",
+                "FormattedName": "Pan ",
+                "GivenName": "Pan"
+              }
+            ],
+            "PublisherName": "Jorge Daniel Vasquez.\r\nUniversity of Massachusetts Press"
+          },
+          {
+            "Title": "La Gramática Racial en Colombia.\r\nCo-Ed ",
+            "PublicationDate": {
+              "Year": "2018"
+            },
+            "PublisherName": "Aurora Vergara Figueroa.\r\nUniversidad ICESI, Colombia"
+          },
+          {
+            "Title": "Política Raizal",
+            "PublisherName": "Descolonialidad, Liberación,\r\nUtopística"
+          },
+          {
+            "Title": "",
+            "PublisherName": "Papers Published, Accepted, Submitted"
+          }
+        ],
+        "OtherPublication": [
+          {
+            "Title": ""
+          }
+        ]
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "lo",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Lao Montes [AND] in Mirabal, Nancy and Agustin Lao- [AND] in Lao-Montes,Agustin and Arlene Davila, ed."
+          },
+          {
+            "LanguageCode": "ie",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "civilización occidental capitalista y movimientos [AND] \"Crisis de la Civilizacion Occidental Capitalista y"
+          },
+          {
+            "LanguageCode": "es",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Transition: The 1898 Spanish-Cuban-American- [AND] Scholarly Publications in Spanish [AND] 1: 1-13(from Spanish to Portuguese) [AND] (from English to Spanish) [AND] (from Enlish to Spanish) [AND] (from English to Spanish) [AND] (from Spanish to French) [AND] (translation from English to Spanish)"
+          },
+          {
+            "LanguageCode": "tl",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Filipino War\" in Morana, Mabel"
+          },
+          {
+            "LanguageCode": "fr",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Frances Negron and [AND] (from Spanish to French)"
+          },
+          {
+            "LanguageCode": "pt",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "1: 1-13(from Spanish to Portuguese) [AND] (English to Portuguese)"
+          },
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "(from English to Spanish) [AND] (from English to Turkish) [AND] (from English to Spanish) [AND] (English to Portuguese) [AND] (translation from English to Spanish)"
+          },
+          {
+            "LanguageCode": "tr",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "(from English to Turkish)"
+          }
+        ]
+      },
+      "Achievements": {
+        "Achievement": [
+          {
+            "Description": "Prometeo Fellowship for Outstanding International"
+          },
+          {
+            "Description": "Fulbright Scholarship, Fall 2007"
+          },
+          {
+            "Description": "Prometeo Fellowship for Outstanding International\r\nScholars. Quito, Ecuador, 2013-2014.\r\n\r\nUniversidad del Valle, Cali, Colombia,\r\nFulbright Scholarship, Fall 2007.\r\n\r\nYale University, Ford Postdoctoral Fellowship,\r\n2006-2007.\r\n\r\nColumbia University, Revson Fellowship on the\r\nFuture of the City of New York, 1994-1995.\r\n\r\nState University of New York at Binghamton,\r\nClark Fellowship,1996-1998.\r\n\r\nThe Graduate Center of the City University of New\r\nYork, Aaron Diamond Research Fellowship,\r\nCenter for Cultural Studies, 1991-1993.\r\n\r\n\r\nFunded Research and Projected Proposals\r\nFulbright Specialist, Universidad de Antiquia,\r\nDeveloped proposal for Africana Studies and for\r\ninterculturalization of the university, Summer 2016.\r\n\r\n\r\nU.S. Department Housing and Urban Developmet (HUD)\r\nCommunity Outreach Partnership Center (COPC) Grant\r\nGranted to UMASS Extension Program and\r\n\r\n\r\n11\r\n12\r\n\r\n\r\nThe Holyoke Planning Network\r\n$400,000 for three years, 2003-2006\r\nExecutive Committee of the team ran the grant &\r\nCoordinator of three projects in the grant.\r\n\r\nFord Foundation, Research Grant\r\nInterrogating the Civil Society Agenda\r\nCenter Latin American, Caribbean Studies-CLACS\r\n$250,000, just granted for 2008-2010\r\nCo-Principal Investigator\r\n\r\nNational Science Foundation\r\nResearch Grant about\r\n\"Patterns of Racism and Racial Politics and Politics\r\nin Latin America\"\r\nTo be submmitted with Tukufu Zuberi and Mark Sawyer\r\nas Co-Principal Investigators"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-24"
+    },
+    "NonXMLResume": {
+      "TextResume": "VITAE\r\n\r\nAgustin G. Lao Montes\r\n\r\n\r\nEmail Address\r\nlao@soc.umass.edu\r\n\r\n\r\nTelephone Numbers\r\n(413)275-7027\tCelullar\r\n(413) 545-2845   Office\r\n\r\n\r\nPresent Position\r\nAssociate Professor of Sociology,\r\nUniversity of Massachusetts at Amherst.\r\n\r\n\r\nEducation\r\nB.A. Catholic University of Puerto Rico, 1976.\r\nNew School for Social Research, Graduate Courses\r\nin Political Economy 1979-1981.\r\nM.A. State University of New York-Binghamton, 1997.\r\nPh.D. State University of New York-Binghamton, 2003.\r\nPost-Doctoral Studies, Yale University, 2006-2007.\r\n\r\n\r\nScholarly Interests\r\nSocial Theory, World-Historical Sociology,\r\nSocial Movements, Cultural Studies,\r\nRacial and Ethic Studies, Sociology of Knowledge,\r\nFeminist Critique, Post/Decolonial Critique,\r\nAfrican Diaspora Studies, Latino/American Studies,\r\nCaribbean Studies, Inter-Cultural Higher Education\r\n\r\n\r\n1\r\n2\r\n\r\n\r\nAcademic Positions\r\n\r\nUniversity of Massachusetts at Amherst, Associate\r\nProfessor, Sociology; Researcher on the Center for\r\nLatin American and Caribbean Studies; Coordinator\r\nof Postgraduate Certificate in African Diaspora\r\nStudies (since 2010). From Fall 1999 until now\r\n\r\nVisiting Professor-Researcher, Latin American\r\nFaculty of Social Sciences (FLACSO)-Ecuador. 2012-\r\n2014. From 8-2012 to 7-2013 I was a Visiting\r\nProfesor-Researcher at FLACSO and from 8-2013 until\r\n8-2015, I was also a Prometeo Fellow working with\r\nFLACSO as well as with the Instituto de Altos\r\nEstudios Nacionales-IAEN in Quito.\r\n\r\nRecurrent Visiting Professor, Universidad del\r\nExternado, Bogota, Colombia.\r\nDoctoral Program in Social Studies. Also, Advisor to\r\nCatedra de Estudios de la Africanìa.\r\n\r\nBorough of Manhattan Community College, City\r\nUniversity of New York, Full-time Instructor and\r\nResearcher, Center for Ethnic Studies, Academic\r\nYear, 1998-1999.\r\n\r\nJohn Jay School of Criminal Justice, City University\r\nof New York, Adjunct Lecturer, Puerto Rican Studies,\r\nRace and Ethnicity in America, Caribbean History,\r\nUrban Sociology of U.S. Latinos, 1997-1998.\r\n\r\nState University of New York-Binghamton, Adjunct\r\nLecturer Sociology, Race and Culture in the World-\r\nSystem, 1996-1997.\r\n\r\nBaruch College, CUNY, Adjunct Lecturer, Black and\r\nHispanic Studies, Latin American History and\r\nCulture, U.S. Latino/a Politics, 1994-1995.\r\n\r\nCity College, CUNY, Adjunct Lecturer, Latin American\r\nStudies, Puerto Rican History, U.S. Latino/a\r\nHistory, 1982-1984.\r\n\r\nQueens College, CUNY, Adjunct Lecturer, Puerto Rican\r\nStudies, Caribbean Political Economy, Contemporary\r\nCaribbean, 1981-1982.\r\n\r\n\r\n2\r\n3\r\n\r\n\r\nNew School for Social Research, Graduate Faculty,\r\nTeaching Assistant, Political Economy, Socio-\r\nEconomic Historical Formations, 1980-1981.\r\n\r\nBarnard College, Columbia University, Teaching\r\nAssistant, Sociology, Race, Class, and Gender,\r\nSpring 1994.\r\n\r\nPonce High School, Coordinator and Teacher, Puerto\r\nRican History and Culture, Special Program for\r\nReturn Migrants, 1977-1978.\r\n\r\n\r\nNon-Academic Work Experience\r\n\r\nField Researcher, CAMEO Project\r\n(Community, Autobiography, Memory, Ethnography,\r\nOrganizing), Center for Cultural Studies,\r\nCity University of New York, Graduate School\r\n1992-1994.\r\n\r\nResearcher. New York City Commission on\r\nHuman Rights. New York City, 1990-1992.\r\n\r\nU.S. Northwest Regional Director. Hermandad Hispana\r\nNacional. New York City, 1988-1990.\r\n\r\nExecutive Director. Northern Manhattan Coalition for\r\nImmigrants Rights. New York City, 1986-1988.\r\n\r\nCommunity Organizer. Northern Manhattan Improvement\r\nCorporation. New York City, 1984-1986.\r\n\r\nAssociate Editor, Newspaper, Trade Union,\r\nDistrict 65 United Auto Workers, 1982-1983.\r\n\r\nEditorial Associate, Guardian Newspaper, 1981-1982\r\n\r\n\r\n3\r\n4\r\n\r\n\r\nPublished Books\r\n\r\nContrapunteos Diaspóricos: Cartografías Políticas de\r\nNuestra Afroamérica. Universidad del Externado,\r\nColombia, 2020.\r\n\r\nDes/colonialidad del poder, crisis de la\r\ncivilización occidental capitalista y movimientos\r\nantisistemicos y afroamericanos.\r\nUniversidad de la Tierra, Mexico, 2012.\r\n\r\nBeyond the Civil Society Agenda. Co-editor\r\nwith Sonia Alvarez, Gianpaolo Baiocchi, Jeff Rubin\r\nand Millie Thayer (co-authors in alphabetical\r\norder). Duke University Press. 2017\r\n\r\nDebates sobre Raza y Ciudadania en las Americas\r\nNegras. Co-editor with Claudia Mosquera and Cesar\r\nRodriguez Garavito.\r\nUniversidad Nacional de Colombia, 2010.\r\n\r\nTechnofuturos: Critical Interventions in\r\nLatina/o Studies. Co-editor with\r\nNancy Mirabal. Lexington Books, 2007.\r\n\r\nMambo Montage: The Latinization of New York City.\r\nCo-editor with Arlene Davila.\r\nColumbia University Press, 2001.\r\n\r\n\r\nBook Manuscripts (scheduled for publication and in\r\nProgress)\r\n\r\nDiasporic Counterpoints: Political Cartographies of\r\nOur Afroamerica. Cambria Press (projected 2020)\r\n\r\nPan-Africanist Trans-Americanism: DuBois in Latin\r\nAmerica and the Caribbean.\r\nCo-Ed with Juliana Goes and Jorge Daniel Vasquez.\r\nUniversity of Massachusetts Press (projected 2020)\r\n\r\nLa Gramática Racial en Colombia.\r\nCo-Ed with Aurora Vergara Figueroa.\r\nUniversidad ICESI, Colombia (Contract 2018)\r\n\r\n\r\n4\r\n5\r\n\r\n\r\nPolítica Raizal: Descolonialidad, Liberación,\r\nUtopística (In Progress)\r\n\r\n\r\nPapers Published, Accepted, Submitted to\r\nPeer Reviewed Journals\r\n\r\nAfro-Latin American Feminisms at the Cutting Edge\r\nof Rising Political-Epistemic Currents.\r\nMeridians, Vol 16, no 4, 2016.\r\n\r\n\"Empoderamiento, descolonización, y democracia\r\nsustantiva. Afinando principios ético-políticos\r\npara las diásporas Afroamericanas.\r\nRevista de Ciencias Sociales, Universidad ICESI,\r\nVol 1, No 1, 2013 pp 55-84.\r\n\r\n\"El legado Político-Intelectual de Eric Hobsbawm:\r\nHistorias Globales desde arriba y desde abajo.\r\nÍconos, No. 44, Enero 2013, pp 1-13.\r\n\r\n\"Hacia una cartografia del campo politico\r\nafrodescendiente en las Americas.\"\r\nRevista Casa de las Americas\r\nVol Ll, No 264, 2011: 16-39\r\n\r\n\"Crisis de la Civilizacion Occidental Capitalista y\r\nMovimientos Antisistemicos.\" Nexus: Revista de la\r\nEscuela de Comunicacion Social de la Universidad\r\ndel Valle. Vol 3, No. 1, 2011: 230-300.\r\n\r\n\"Cartographies of Afro-Latina/o Politics: Political\r\nContests and Historical Challenges.\"\r\nNegritud: Revista de Estudios Afrolatinoamericanos.\r\nVol II. NO. 2. Winter 2009: 230-266.\r\n\r\n\r\n\"Ningun ser humano es Ilegal: Novisimos\r\nMovimientos Sociales de Inmigrantes Latinos en\r\nlos Estados Unidos\" Universitas Humanisticas,\r\nNo. 66, January-June 2008: 1-39.\r\n\r\n\r\n5\r\n6\r\n\r\n\r\n\"Decolonial Moves: Trans-locating African Diaspora\r\nSpaces\" Cultural Studies, Vol. 21, No. 2-3,\r\nMarch/May 2007: 309-338\r\n\r\n\r\nInvited Chapters and Papers Published in\r\nAnthologies, Journals, etc.\r\n\r\n\r\n¨Los Movimientos Afroamericanos de Cara al\r\nDecenio de las y los Afrodescendientes. En\r\nMelquiciades Blandón y Ramon Perea, Ed.\r\nDebates sobre Conflictos Raciales y\r\nConstrucciones Afroliberarias.\r\nEditorial Poder Negro.\r\n\r\n¨Horizontes de Esperanza: Concibiendo las\r\nConstrucción de Escenarios de Justicia y\r\nPaz en Colombia. En Sheila Gruner, Ed.\r\nDesdibujando el País. Aportes para la Paz\r\ncon los Pueblos Afrodescendientes e\r\nIndígenas. Esitorial Poder Negro.\r\n\r\n\"La Filosofìa de la Liberacion y sus avatars en\r\nclave de Africanìa\". En Mabel Moraña y Jose\r\nGandarilla, ed. La Filosofìa de la Liberaciòn en\r\nel Siglo XXI. A propósito de los 80 años de\r\nEnrique Dussel. UNAM, 2015 (a próxima publicación)\r\n\r\n\"Cosmopolitismos Subalternizados, Redes\r\nTranslocales, y Descolonizacion de la Memoria:\r\nRepensar Nacion y Comunidad a la Luz y Sombra de\r\nLa Revoluciòn Haitiana. En Maria E. Chaves, Ed.\r\nLos \"otros de la naciòn. Universidad Nacional de\r\nColombia-Medellin, 2015, pp. 69-87.\r\n\r\n\"Atrapar una imagen del pasado en un momento de\r\nPeligro: recordando y recuperando el Marxismo\r\ncrìtico de Fernando Velasco Abad.\r\nEn Soledad Alvarez y Santiago Ortiz, Ed.\r\nEl pensamiento y política de Fernando\r\nVelasco Abad. Abiayala, 2015.\r\n\r\n\r\n6\r\n7\r\n\r\n\r\n\"Translocal Space of Afro-Latinidad: Critical\r\nFeminist Visions for Diasporic Bridge-Building\"\r\n(with Mirangela Buggs) (2013= In Sonial Alvarez,\r\nClaudia Costa Lima,ed. Translocalities. Feminist\r\nPolitics of Translation in the Latin/a Americas.\r\nDuke University Press.\r\n\r\n\"Afro-Latinos\" in Dodson Howard and Colin Palmer,\r\ned., Origins: Schomburg Studies on the Black\r\nExperience. Michigan State University Press.\r\nEast Lansing, 2008: 137-168.\r\n\r\n\"Reconfigurations of Empire in a World-Hegemonic\r\nTransition: The 1898 Spanish-Cuban-American-\r\nFilipino War\" in Morana, Mabel and Carlos\r\nJauregui, ed. Revisiting the Colonial Question in\r\nLatin America. Iberoamericana Editorial Veurbert,\r\n2008. pp 209-240.\r\n\r\n\"The New Politics of Decolonization\"\r\nHarvard Review of Latin America\r\nVolume VII, Number 3 (Spring 2008): pp 15-18\r\n\r\n\"Afro-Latinidades: Bridging Black and Latina/o\r\nStudies\" in Mirabal, Nancy and Agustin Lao-\r\nMontes, ed. Technofuturos: Critical Interventions\r\nin Latina/o Studies. Lexington Books, 2007.\r\nPp 117-140.\r\n\r\n\r\n\"Latin American Area Studies and Latino Ethnic\r\nStudies: Epistemological and Political\r\nChallenges,\" in Immanuel Wallerstein and Richard\r\nLee, ed. Overcoming the Two Cultures: Science\r\nversus the Humanities in the Modern World-System.\r\nParadigm Press, 2005. pp 160-179\r\n\r\n\"Afro-Latina Difference and the Politics of\r\nDecolonization\" in Grosfoguel Ramon et al, ed.\r\nLatinos in the World-System. Paradigm Press,\r\n2005. pp 75-88.\r\n\r\n\"De-Calibanizing Caribbean Rationalities\"\r\nC.L.R. James Journal. Vol 10, No. 1,\r\nWinter 2005.\r\n\r\n\r\n7\r\n8\r\n\r\n\r\n\"Afro-Latinidades and the Diasporic Imaginary\"\r\nRevista Iberoamericana,\r\nVol. V 2005, No. 17: 117-130\r\n\r\n\"Latin American Area Studies and Latino Ethnic\r\nStudies: From the Civilizing Mission to the\r\nBarbarian's Revenge\"\r\nThe American Philosophical Association,\r\nNewsletter on Hispanic/Latino Issues in Philosophy\r\nVol. OO, No. 2 (2001): 112-122.\r\n\r\n\"Niuyol: Urban Regime, Social Movements, and\r\nIdeologies of Latino Power\"\r\nin Lao-Montes,Agustin and Arlene Davila, ed.\r\nMambo Montage: The Latinization of New York.\r\nColumbia University Press, 2001.\r\npp 119-158\r\n\r\n\"Africanity, Latinidad, and Transmodernity.\"\r\nAfrican Studies Review 43, no. 1, April 2000:\r\n47-53.\r\n\r\n\r\n\"Islands at the Crossroads: Puerto Rican-ess\r\ntraveling between the translocal nation and the\r\nglobal city\" in Puerto Rican Jam: Rethinking\r\nNationalism and Colonialism. Frances Negron and\r\nRamon Grosfoguel, ed., University of Minnesota,\r\n1997.\r\n\r\n\"Resources of Hope: Imagining the Young Lords and\r\nthe Politics of Memory.\"\r\nCENTRO, Winter 1995: 35-49.\r\n\r\n\r\nScholarly Publications in Spanish\r\n\"Fanon y el Socialismo del Siglo XXI. Los\r\nCondenados de la Tierra y la Nueva Politica de\r\nDescolonialidad y Liberacion\" Introduction to\r\nCuban Edition of The Wretched of the Earth.\r\nCasa de las Americas, La Habana, Cuba, 2011.\r\n\r\n\"Descolonizar la memoria en aras de forjar futuros:\r\nrepensar las Independencias a la luz de la\r\nRevolucion Haitiana.\" En el Bicentenario, el\r\n\r\n\r\n8\r\n9\r\n\r\n\r\nprotagonismo de nuestros pueblos.\r\nEdiciones de la UNIA, Buenos Aires, 2011.\r\n\r\n\"Hacia una praxis transformativa de la ciudadanía:\r\nExperiencias de la Investigacion Comprometida y\r\nlos Movimientos Afro-Latinos\" In Karin Weyland,\r\ned. Hacia una Ciudadania Universal: Diasporas y\r\nAfrodescendientes Boricuas y Dominicanas,\r\nEditorial Universidad Autonoma Republica\r\nDominicana,Santo Domingo, 2011.\r\n\r\n\"Cartografia del Campo Politico Afrodescendiente en\r\nAmerica Latina.\" Universitas Humanisticas, No. 68,\r\nJuly-December 2009: 207-245.\r\n\r\n\"Nuebayol y los avatares de lo latino/americano:\r\nHistorias, discursos, y los escenarios politicos\"\r\nDel Caribe, Cuba, No. 50, 2008: 3-9.\r\n\r\n\"Nuevas Insurgencias de Inmigrantes en los Estados\r\nUnidos: Giros Decoloniales en el Corazon del\r\nImperio.\" Actas Jornadas de Derechos Humanos.\r\nFacultad de Ciencias Humanas y Juridicas.\r\nUniversidad Central de Chile, 2007: 1-25\r\n\r\n\r\n\"Las actuales insurgencias político epistemicas\r\nen las Americas: Giros a-la-Izquierda, Giros\r\nanti-Imperiales, Giros De-Coloniales\"\r\nComentario Internacional,\r\nUniversidad Andina Simon Bolivar, Ecuador, 2007:\r\n1-13\r\n\r\n\"Pariendo una Globalidad de Liberacion\" &\r\nLas actuales insurgencias politico epistemicas\r\nen las Americas\" en Saavedra, Jose Luis, ed.\r\nEducacion Superior, Interculturalidad, y\r\nDescolonizacion. Universidad Boliviana CEUB,\r\nBolivia, 2007: pp 245-276.\r\n\r\n\"Sin Justicia Etno-Racial no hay Paz: Afro-\r\nReparaciones en perspectiva Historico-Mundial\"en\r\nMosquera, Claudia, ed. Afro-Reparaciones:\r\nMemorias de Esclavitud y Justicia Reparativa\r\npara Negros, Afro-Colombianos, y Raizales.\r\nUniversidad Nacional de Colombia, 2006:\r\n\r\n\r\n9\r\n10\r\n\r\n\r\n\"Pariendo una Globalidad de Liberacion: Politicas\r\ny Pedagogias Descolonizadoras\".\r\nRevista Educativa Cultural St. Andrews, Bolivia,\r\nNo. 2 (2006): 13-25.\r\n\r\n\"Puerto Rico, Bolivia, Venezuela: La colonialidad\r\nde la ciudadanía y la nueva politica de\r\ndescolonización\" Accepted for Edgardo Lander, ed.\r\nInsurgencias Politico Epistemicas en America\r\nLatina. Editorial La Rana y el Perro, Venezuela.\r\n\r\n\r\nScholarly Publications Translated\r\n\r\n\"Rescatando Memorias Radicales Afrodescendientes,\r\nSembrar Presentes y Cultivar Futuros de\r\nDescolonizacion y Liberacion.\"\r\nRevista Negra: Fundacao Lauro Campos.\r\nVol 1, No. 1: 1-13(from Spanish to Portuguese)\r\n\r\n\r\n\"Hilos Decoloniales: Trans-Localizando los Espacios\r\nde la Diaspora Africana\" Tabula Rasa.\r\nUniversidad Javeriana, Colombia, 2008: 47-79.\r\n(from English to Spanish)\r\n\r\n\"Latin American Area Studies and Latino Ethnic\r\nStudies: Epistemological and Political\r\nChallenges,\" in Wallerstein et al,\r\nOvercoming the Two Cultures (2007)\r\n(from English to Turkish)\r\n\r\n\"Marti y Rodo: la contraposicion entre el\r\nmodernismo (subalterno) y el occidentalismo\r\n(periferico)\"\r\nDel Caribe, Cuba, No. 42 (2004): 6-15.\r\n(from Enlish to Spanish)\r\n\r\n\"Reconfiguraciones del imperio. 1898:\r\noccidentalismos antagonicos y proyectos\r\nhegemonicos en pugna\"\r\nDel Caribe, Cuba, No. 41 (2003): 3-16.\r\n(from English to Spanish)\r\n\r\n\"New York el les avatars de l'identite latino\"\r\n\r\n\r\n10\r\n11\r\n\r\n\r\nHomes et Migrations, Paris, May, 2002.\r\n(from Spanish to French)\r\n\r\n\"Latino-Americanismo: Atravessando Genealogias e\r\nCruzando Fronteiras.\" Caderno CHR, Universidad\r\nFederal da Bahia, Brasil,\r\nNo. 32, Jan/June 2000: 87-108.\r\n(English to Portuguese)\r\n\r\n\"Para una Analitica de la Colonialidad del\r\nPoder\" Accepted by Derecho y Sociedad.\r\nUniversidad Nacional de Colombia.\r\n(translation from English to Spanish)\r\n\r\n\r\nAwards and Honors\r\nPrometeo Fellowship for Outstanding International\r\nScholars. Quito, Ecuador, 2013-2014.\r\n\r\nUniversidad del Valle, Cali, Colombia,\r\nFulbright Scholarship, Fall 2007.\r\n\r\nYale University, Ford Postdoctoral Fellowship,\r\n2006-2007.\r\n\r\nColumbia University, Revson Fellowship on the\r\nFuture of the City of New York, 1994-1995.\r\n\r\nState University of New York at Binghamton,\r\nClark Fellowship,1996-1998.\r\n\r\nThe Graduate Center of the City University of New\r\nYork, Aaron Diamond Research Fellowship,\r\nCenter for Cultural Studies, 1991-1993.\r\n\r\n\r\nFunded Research and Projected Proposals\r\nFulbright Specialist, Universidad de Antiquia,\r\nDeveloped proposal for Africana Studies and for\r\ninterculturalization of the university, Summer 2016.\r\n\r\n\r\nU.S. Department Housing and Urban Developmet (HUD)\r\nCommunity Outreach Partnership Center (COPC) Grant\r\nGranted to UMASS Extension Program and\r\n\r\n\r\n11\r\n12\r\n\r\n\r\nThe Holyoke Planning Network\r\n$400,000 for three years, 2003-2006\r\nExecutive Committee of the team ran the grant &\r\nCoordinator of three projects in the grant.\r\n\r\nFord Foundation, Research Grant\r\nInterrogating the Civil Society Agenda\r\nCenter Latin American, Caribbean Studies-CLACS\r\n$250,000, just granted for 2008-2010\r\nCo-Principal Investigator\r\n\r\nNational Science Foundation\r\nResearch Grant about\r\n\"Patterns of Racism and Racial Politics and Politics\r\nin Latin America\"\r\nTo be submmitted with Tukufu Zuberi and Mark Sawyer\r\nas Co-Principal Investigators."
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "US",
+          "sov:CultureInfo": "en-US"
+        },
+        "sov:PersonalInformation": {
+          "sov:Nationality": {
+            "@inferred": "false",
+            "#text": "Aportes para la Paz"
+          }
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Agustin G. Lao Montes's experience appears to be strongly concentrated in Sales (mostly Entry Level) and slightly concentrated in Training (mostly Other). Agustin G. Lao Montes has 33 years of work experience, with 5 years of management experience, including a mid-level position.",
+          "sov:MonthsOfWorkExperience": "391",
+          "sov:AverageMonthsPerEmployer": "23",
+          "sov:FulltimeDirectHirePredictiveIndex": "47",
+          "sov:MonthsOfManagementExperience": "60",
+          "sov:HighestManagementScore": "55",
+          "sov:ExecutiveType": "executive",
+          "sov:ManagementStory": "Starting on 1/1/1990, the candidate held the following mid-level management position for 3 years:\r\n\tTitle: U.S. Northwest Regional Director for Hermandad Hispana\r\nStarting on 1/1/1988, the candidate held the following mid-level management position for 3 years:\r\n\tTitle: Executive Director for Nacional. New York City",
+          "sov:AttentionNeeded": "ATTENTION: The candidate appears to have been in management in a past role (U.S. Northwest Regional Director for Hermandad Hispana) , but was not in management in the most recent role as Associate for University of Massachusetts at Amherst.",
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "97",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Entry Level",
+                        "@id": "500",
+                        "@percentOfOverall": "97",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASSOCIATE",
+                            "@id": "004917",
+                            "@existsInText": "true",
+                            "@totalMonths": "183",
+                            "@lastUsed": "2020-03-24",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-18; POS-19"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Training",
+                    "@id": "64",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "361",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "INSTRUCTOR",
+                            "@id": "019876",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "1999-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          },
+                          {
+                            "@name": "TEACHING",
+                            "@id": "026879",
+                            "@existsInText": "true",
+                            "@totalMonths": "27",
+                            "@lastUsed": "1994-05-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-11; POS-12"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "3",
+                            "@childrenLastUsed": "1994-05-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SPRING",
+                                "@id": "3391126",
+                                "@existsInText": "true",
+                                "@totalMonths": "3",
+                                "@lastUsed": "1994-05-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-12"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "COMMUNITY OUTREACH",
+                            "@id": "9000068",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Mortgage",
+                        "@id": "233",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "HUD",
+                            "@id": "019119",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Technical Writing",
+                    "@id": "31",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Proposals and Related",
+                        "@id": "431",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROPOSALS",
+                            "@id": "005891",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "User Research",
+                        "@id": "558",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ETHNOGRAPHY",
+                            "@id": "5570001",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "1978-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "14",
+              "@ends": "18",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Present Position"
+            },
+            {
+              "@starts": "19",
+              "@ends": "40",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "41",
+              "@ends": "135",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Academic Positions"
+            },
+            {
+              "@starts": "136",
+              "@ends": "190",
+              "@sectionType": "OTHER_PUBLICATIONS",
+              "#text": "Published Books"
+            },
+            {
+              "@starts": "191",
+              "@ends": "304",
+              "@sectionType": "ARTICLES",
+              "#text": "Peer Reviewed Journals"
+            },
+            {
+              "@starts": "305",
+              "@ends": "500",
+              "@sectionType": "EDUCATION",
+              "#text": "Studies"
+            },
+            {
+              "@starts": "501",
+              "@ends": "553",
+              "@sectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+              "#text": "Awards and Honors"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "(413)275-7027",
+              "(413) 545-2845   Office",
+              "(413) 545-2845"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "Agustin Lao-\r\nMontes",
+              "Agustin G. Lao Montes",
+              "Lao-Montes,Agustin",
+              "in Lao-Montes,Agustin and Arlene Davila, ed.",
+              "Montes, ed. Technofuturos: Critical Interventions",
+              "Studies\" in Mirabal, Nancy and Agustin Lao-"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "lao@soc.umass.edu"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "País. Aportes para la Paz"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "15277",
+        "sov:ParseTime": "1437",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Fatal Problems Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:417;] This resume is approximately 11 pages long, and appears to be a curriculum vitae. Such documents are prone to errors due to the use of nonstandard headers and the vast amount of data describing patents, speaking engagements, research, advisory roles, publications, etc. Accordingly, only the first WORK HISTORY section was parsed, as that usually results in far greater accuracy."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:312;3,4] The following sections in the resume contain more content than recommended: 'Published Books', 'Peer Reviewed Journals' These sections should be very brief as it can cause errors in parsing the resume.",
+                    "[Sovren:323;WORK HISTORY,EDUCATION] The following section types appear multiple times in the resume: WORK HISTORY (2 occurrences), EDUCATION (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.",
+                    "[Sovren:231;DEG-2] The following educational degree does not have a degree name: DEG-2. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:133;] Multiple phone numbers were found in the contact information. Only one phone number should be included in a resume.",
+                    "[Sovren:151;5] The following section does not have the header on a separate line: 'Studies'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:Warnings": {
+          "sov:Warning": [
+            "This resume is approximately 11 pages long, and appears to be a curriculum vitae. Such documents are prone to errors due to the use of nonstandard headers and the vast amount of data describing patents, speaking engagements, research, advisory roles, publications, etc. Accordingly, only the first WORK HISTORY section was parsed, as that usually results in far greater accuracy."
+          ]
+        },
+        "sov:LicenseSerialNumber": "13430659:a652b608-7cf1-42fc-8b90-fd7ad69d1051",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.2.0",
+        "sov:DigitalSignature": "Q8T+//////8="
+      }
+    }
+  }
+}

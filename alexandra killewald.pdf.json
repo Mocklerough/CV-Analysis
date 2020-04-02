@@ -1,0 +1,1032 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Alexandra Achen Killewald",
+          "GivenName": "Alexandra",
+          "MiddleName": "Achen",
+          "FamilyName": "Killewald"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "US",
+              "PostalCode": "02138",
+              "Region": [
+                "MA"
+              ],
+              "Municipality": "Cambridge",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Department of Sociology",
+                  "Harvard University",
+                  "33 Kirkland St"
+                ]
+              }
+            }
+          },
+          {
+            "Telephone": {
+              "FormattedNumber": "617-495-3818"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "killewald@fas.harvard.edu"
+          }
+        ]
+      },
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Harvard University",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Professor of Sociology",
+                "OrgName": {
+                  "OrganizationName": "Harvard University"
+                },
+                "Description": "",
+                "StartDate": {
+                  "Year": "2016"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TT",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Harvard University",
+                    "sov:NormalizedTitle": "Professor of Sociology",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Professor"
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "John L. Loeb Associate Professor of the Social Sciences",
+                "OrgName": {
+                  "OrganizationName": "Harvard University"
+                },
+                "Description": "",
+                "StartDate": {
+                  "Year": "2015"
+                },
+                "EndDate": {
+                  "Year": "2016"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SN",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Harvard University",
+                    "sov:NormalizedTitle": "John L Loeb Associate Professor of the Social Sciences",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "John L. Loeb Associate Professor"
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "Assistant Professor of Sociology",
+                "OrgName": {
+                  "OrganizationName": "Harvard University"
+                },
+                "Description": "",
+                "StartDate": {
+                  "Year": "2012"
+                },
+                "EndDate": {
+                  "Year": "2015"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TK",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Harvard University",
+                    "sov:NormalizedTitle": "Assistant Professor of Sociology",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Assistant Professor"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Harvard University"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Mathematica Policy Research",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Researcher",
+                "OrgName": {
+                  "OrganizationName": "Mathematica Policy Research"
+                },
+                "Description": "",
+                "StartDate": {
+                  "Year": "2011"
+                },
+                "EndDate": {
+                  "Year": "2012"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TF",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Mathematica Policy Research",
+                    "sov:NormalizedTitle": "Researcher"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Mathematica Policy Research"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "University of Michigan"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "doctorate",
+                "DegreeName": "Ph.D.",
+                "DegreeDate": {
+                  "Year": "2011"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Public Policy and Sociology"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2011"
+                    }
+                  }
+                ],
+                "Comments": "2011\tPh.D., Public Policy and Sociology, University of Michigan",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "doctorate",
+                    "sov:NormalizedDegreeType": "doctorate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "University of Michigan"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "University of Michigan"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "masters",
+                "DegreeName": "M.A.",
+                "DegreeDate": {
+                  "Year": "2009"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Statistics"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2009"
+                    }
+                  }
+                ],
+                "Comments": "2009\tM.A., Statistics, University of Michigan",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "masters",
+                    "sov:NormalizedDegreeType": "masters"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "University of Michigan"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "University of Michigan"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "masters",
+                "DegreeName": "M.A.",
+                "DegreeDate": {
+                  "Year": "2009"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Sociology"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2009"
+                    }
+                  }
+                ],
+                "Comments": "2009\tM.A., Sociology, University of Michigan",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-3",
+                    "sov:NormalizedDegreeName": "masters",
+                    "sov:NormalizedDegreeType": "masters"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "University of Michigan"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "University of Michigan"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.S.",
+                "DegreeDate": {
+                  "Year": "2005"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Mathematics, Economics, and French"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2005"
+                    }
+                  }
+                ],
+                "Comments": "2005\tB.S., Mathematics, Economics, and French, University of Michigan\r\nHighest Distinction, High Honors in Economics",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-4",
+                    "sov:NormalizedDegreeName": "BSc",
+                    "sov:NormalizedDegreeType": "BSc"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "University of Michigan"
+              }
+            }
+          }
+        ]
+      },
+      "PublicationHistory": {
+        "Article": [
+          {
+            "Title": "\"Unemployment in Families: The Case of Housework.\"\r\nJournal of Marriage and Family 73(5):.\r\n\r\nKillewald, Alexandra. \"Opting Out and Buying Out: Wives' \" Journal\r\nof Marriage and Family 73(2):459-71.\r\n\r\nKillewald, Alexandra and Margaret Gough. 2010. \"Money Isn't Everything: Wives' Earnings and\r\nHousework Time.\" Social Science Research 39(6):987-1003.\r\n• Dorothy S. Thomas Award, Population Association of America, 2010\r\n• Katherine Luke Graduate Student Paper Award, Department of Sociology, University of\r\nMichigan, 2010\r\n\r\nAchen, Alexandra C. and Paul N. Courant. 2009. \"What Are Grades Made Of?\" Journal of Economic\r\nPerspectives 23(3): 77",
+            "PublicationDate": {
+              "Year": "2011"
+            },
+            "JournalOrSerialName": "Earnings and Housework Time.",
+            "PageNumber": "1085-1100"
+          },
+          {
+            "Title": ".\r\n\r\n\r\nKillewald CV /             /  2008. \"A Note on\r\n'among Work-Limited Disabled Workers'.\" Journal of\r\nHuman Resources 43(3):.\r\nFurgeson, Joshua, Brian Gill, Joshua Haimson, Alexandra Killewald, Moira McCullough, Ira Nichols-Barrer,\r\nBing-ru Teh, Natalya Verbitsky-Savitz, Melissa Bowen, Allison Demeritt, Paul Hill, and Robin Lake.\r\n2012. \"Charter-School Management Organizations: Diverse Strategies and Diverse Student Impacts.\"\r\nMathematica Policy Research (http://www.mathematica-\r\nmpr.com/publications/PDFs/education/cmo_final_updated.pdf).\r\n\r\n\r\nKillewald CV /             / January\r\nKillewald, Alexandra, Patricia Andreski, and Robert Schoeni. 2011. \"Trends in Item Non-Response in the\r\nPSID, 1968-2009.\" Panel Study of Income Dynamics Technical Series Paper #11-02\r\n(http://www.psidonline.isr.umich.edu/Publications/Papers/tsp/2011-\r\n02_Killewald_Andreski_Schoeni.pdf).\r\n\r\nAchen, Alexandra C. and Frank P. Stafford. 2005. \"Data Quality of Housework Hours in the Panel Study of\r\nIncome Dynamics: Who Really Does the Dishes?\"\r\n(http://www.psidonline.isr.umich.edu/Publications/Papers/achenproxyreports04.pdf).\r\n\r\n\r\nGRANTS AND FELLOWSHIPS\r\n\r\n2017-2018\tKatherine Hampson Bessell Fellow, Radcliffe Institute for Advanced Study, Harvard\r\nUniversity\r\n\r\n2015\tPanel Study of Income Dynamics, University of Michigan, \"Intergenerational Transfers and\r\nthe Concentration of Wealth within Family Lineages\" (Fabian Pfeffer, PI; $10,117)\r\n\r\n2015\tRussell Sage Foundation, \"How Rigid is the Wealth Structure and Why? Intergenerational\r\nCorrelations and Determinants of Family Wealth\" (Fabian Pfeffer, PI; $72,285)\r\n\r\n2014\tInstitute for Research on Poverty, University of Wisconsin, Emerging Scholars Small Grant,\r\n\"Falling Behind: The Black-White Wealth Gap in Life Course and Intergenerational\r\nPerspective\" ($20,000)\r\n\r\n2014\tW.E. Upjohn Institute, Early Career Research Award, \"Moms at Work: The Dynamics of\r\nMaternal Employment\" ($5,000)\r\n\r\n20",
+            "Name": [
+              {
+                "@role": "contributor",
+                "FormattedName": "Achen M January",
+                "GivenName": "Achen",
+                "MiddleName": "M",
+                "FamilyName": "January"
+              }
+            ],
+            "PublicationDate": {
+              "Year": "2018"
+            },
+            "JournalOrSerialName": "The Longitudinal Structure of Earnings Losses ",
+            "PageNumber": "721-28"
+          },
+          {
+            "Title": "8\tCommunity of Scholars Fellowship, Institute for Research on Women and Gender,\r\nUniversity of Michigan\r\n(Since 2013)\r\n\r\nPfeffer, Fabian, Alexandra Killewald, and Andreja Siliunas. 2017. \"The Concentration of Wealth Within\r\nFamily Lineages.\" American Sociological Association Annual Meeting, Montreal, QC.\r\n\r\nPfeffer, Fabian T. and Alexandra Killewald. 2016. \"How Rigid Is the Wealth Structure and Why? Inter- and\r\nMultigenerational Associations in Family Wealth.\" American Sociological Association Annual\r\nMeeting, Seattle, WA.\r\n\r\nKillewald, Alexandra and Ian Lundberg. 2016. \"New Evidence against a Causal Marriage Wage Premium.\"\r\nAmerican Sociological Association Annual Meeting, Seattle, WA.\r\n\r\nKillewald, Alexandra and Hope Harvey. 2016. \"The Effect of Maternal Employment Experiences on\r\nAdolescent Outcomes.\" Population Association of America Annual Meeting, Washington, DC.\r\n\r\nPfeffer, Fabian, Alexandra Killewald, and Andreja Siliunas. 2016. \"Intergenerational Transfers and the\r\nConcentration of Wealth Within Family Lineages.\" Population Association of America Annual\r\nMeeting, Washington, DC.\r\n\r\nKillewald, Alexandra and Xiaolin Zhuo. 2015. \"Mothers' Long-Term Employment Patterns.\" American\r\nSociological Association Annual Meeting, Chicago, IL.\r\n\r\nKillewald, Alexandra and Fangsheng Zhu. 2015 \"Does Your Home Make You Wealthy?\" Population\r\nAssociation of America Annual Meeting, San Diego, CA.\r\n\r\nKillewald, Alexandra and Brielle Bryan. 2015. \"Falling Behind: The Black-White Wealth Gap in Life Course\r\nand Intergenerational Perspective.\"\r\n\r\nKillewald CV /             / January 2018\r\n•   Conference on Families and Wealth: New Perspectives on Economic Wellbeing, Institute of\r\nSociology and Social Psychology, University of Cologne.\r\n•   Population Association of America Annual Meeting, San Diego, CA.\r\n\r\nKillewald, Alexandra and Ian Lundberg. 20",
+            "JournalOrSerialName": "Marshall Weinberg Research Fellowship, Population Studies Center, University of Michigan\r\n"
+          },
+          {
+            "Title": "A Process-Based\r\nExamination of the Male Marriage Premium.",
+            "JournalOrSerialName": "\"How Do Married Men Get Ahead? \" Population Association of America Annual Meeting",
+            "PageNumber": "2013-2014"
+          }
+        ],
+        "Book": [
+          {
+            "Title": "Stepping Up or Stepping Back:\r\nHighly Disadvantaged Parents' Responses to the Building Strong Families Program.",
+            "Name": [
+              {
+                "@role": "contributor",
+                "FormattedName": "and Y Xie",
+                "GivenName": "and",
+                "MiddleName": "Y",
+                "FamilyName": "Xie"
+              }
+            ],
+            "PublicationDate": {
+              "Year": "2012"
+            },
+            "PublisherName": "Harvard University\r\nPress.\r\nClarkwest, Andrew, Alexandra Killewald, and Robert G. Wood.",
+            "PublisherLocation": "Cambridge, MA"
+          },
+          {
+            "Title": "",
+            "PublisherName": "UNDER REVIEW"
+          },
+          {
+            "Title": "Mothers' Long-Term Employment Patterns.",
+            "PublisherName": "Killewald, Alexandra and Xiaolin Zhuo."
+          },
+          {
+            "Title": "Falling Behind: The Role of Inter- and Intragenerational Processes\r\nin Widening Racial and Ethnic Wealth Gaps through Early and Middle Adulthood.",
+            "Name": [
+              {
+                "@role": "contributor",
+                "FormattedName": "Killewald ",
+                "GivenName": "Killewald"
+              }
+            ]
+          },
+          {
+            "Title": "The Effect of Maternal Employment Experiences on Adolescent\r\nOutcomes.",
+            "PublisherName": "WORK IN PROGRESS\r\nKillewald, Alexandra and Hope Harvey."
+          },
+          {
+            "Title": "Intergenerational Transfers and the\r\nConcentration of Wealth within Family Lineages.",
+            "PublisherName": "Pfeffer, Fabian T., Andreja Siliunas, and Alexandra Killewald."
+          },
+          {
+            "Title": "For Richer: The Effects of Marriage on Wealth\r\nAccumulation.",
+            "PublisherName": "Killewald, Alexandra and Fabian T. Pfeffer."
+          },
+          {
+            "Title": "Wealth and Divorce.",
+            "PublisherName": "Killewald, Alexandra and Paula England."
+          }
+        ]
+      },
+      "SpeakingEventsHistory": {
+        "SpeakingEvent": [
+          {
+            "EventName": "",
+            "EventType": "conference",
+            "Description": "Killewald, Alexandra. 2017. \"Mothers' Employment Patterns and Consequences for Adolescent\r\nOutcomes.\"\r\n• Colloquium Seminar on Sociological Issues, Department of Sociology, University of\r\nVirginia, March 23.\r\n• Innovations in Population Science Seminar Series, Cornell Population Center and Institute\r\nfor the Social Sciences, Cornell University, September 22.\r\n• Colloquium, Sociology Department, Colby College, September 25.\r\n• Colloquium, Population Studies Center, University of Pennsylvania, December 4.\r\n• Lecture Series, Joint Degree Program in Social Policy, Princeton University, December 4.\r\n\r\nKillewald, Alexandra and Brielle Bryan. 2017. \"Falling Behind: The Black-White Wealth Gap in Life Course\r\nPerspective.\"\r\n• Colloquium Series, Department of Sociology, University of Toronto. January 18.\r\n• Seminar Series, Center for Studies in Demography & Ecology, University of Washington.\r\nJanuary 13.\r\n• Colloquium, Department of Sociology, Northwestern University, April 6.\r\n\r\nKillewald, Alexandra and Ian Lundberg. 2016. \"New Evidence against a Causal Marriage Wage Premium.\"\r\n• Graduate School of Business Organizational Behavior Seminar, Stanford University, January\r\n20.\r\n• Colloquium Series, Department of Sociology, Stanford University, May 19.\r\n• Colloquium Series, Department of Sociology, University of Pennsylvania, October 19.\r\n\r\nKillewald, Alexandra and Ian Lundberg. 2014-2015. \"Men's Labor Market Outcomes: Is There a Case for\r\nMarriage?\"\r\n• Departmental Colloquium Series, Department of Sociology, UC Berkeley, October 13, 2014.\r\n• Center for Wealth and Inequality Seminar Series, Columbia University, November 6, 2014.\r\n• School of Public Affairs Faculty Seminar, Baruch College, February 11, 2015.\r\n• Research Seminar Series, Institute of Sociology and Social Psychology, University of\r\nCologne, April 22, 2015.\r\n• Department of Sociology, University of Michigan, May 12, 2015.\r\n\r\nKillewald CV /             / January 2018\r\nKillewald, Alexandra and Javier García-Manglano. 2014-2015. \"Tethered Lives: A Couple-Based\r\nPerspective on Partners' Wage and Work Responses to Parenthood.\"\r\n• Chair's Colloquium, Department of Sociology, Princeton University, September 22, 2014.\r\n• Department of Sociology, New York University, December 7, 2015.\r\n\r\nKillewald, Alexandra and Cassandra Robertson. 2014. \"Whose Money Matters? Understanding the Role of\r\nFinancial Resources in Couples' Risk of Divorce.\"\r\n• Nuffield College Sociology Seminar, Oxford University, January 22.\r\n• Methodological Innovations in Inequality and Social Policy Research Conference, WZB,\r\nMay 20.\r\n\r\nKillewald, Alexandra and Javier García-Manglano. 2013. \"His Gain, Her Pain? The Motherhood Penalty\r\nand Fatherhood Premium within Coresidential Couples.\"\r\n• Population Studies & Training Center Colloquium Series, Brown University, March 7.\r\n• Center for Advanced Social Science Research Seminar Series, Department of Sociology,\r\nNew York University, October 2.\r\n• Maryland Population Research Center Seminar Series, University of Maryland, October 28.\r\n\r\nKillewald, Alexandra. 2012. \"Return to Being Black, Living in the Red: A Race Gap in Wealth that Goes\r\nBeyond Social Origins.\" Politics, Economy, and Culture Workshop, Indiana University, March 2."
+          }
+        ]
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "fr",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "2005\tB.S., Mathematics, Economics, and French, University of Michigan"
+          },
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "true",
+            "Speak": "true",
+            "Comments": "[RESUME_LANGUAGE]"
+          }
+        ]
+      },
+      "Achievements": {
+        "Achievement": [
+          {
+            "Description": "Highest Distinction, High Honors in Economics"
+          },
+          {
+            "Description": "Finalist, Rosabeth Moss Kanter Award for Excellence in Work-Family Research, 2017"
+          },
+          {
+            "Description": "Nominee, Rosabeth Moss Kanter Award for Excellence in Work-Family Research, 2017"
+          },
+          {
+            "Description": "Article of the Year Award, Sociology of the Family Section, American Sociological"
+          },
+          {
+            "Description": "Dorothy S. Thomas Award, Population Association of America, 2010"
+          },
+          {
+            "Description": "Katherine Luke Graduate Student Paper Award, Department of Sociology, University of"
+          },
+          {
+            "Description": "2014\tW.E. Upjohn Institute, Early Career Research Award, \"Moms at Work: The Dynamics of"
+          },
+          {
+            "Description": "2017\tFinalist, Rosabeth Moss Kanter Award for Excellence in Work-Family Research"
+          },
+          {
+            "Description": "2017\tNominee, Rosabeth Moss Kanter Award for Excellence in Work-Family Research"
+          },
+          {
+            "Description": "2016\tKahrl Award for Excellence in Teaching, Department of Sociology, Harvard University"
+          },
+          {
+            "Description": "2014\tArticle of the Year Award, Sociology of the Family Section, American Sociological"
+          },
+          {
+            "Description": "2010\tDorothy S. Thomas Award, Population Association of America"
+          },
+          {
+            "Description": "2010\tKatherine Luke Graduate Student Paper Award, Department of Sociology, University of"
+          },
+          {
+            "Description": "Senior Honors Theses"
+          },
+          {
+            "Description": "2015: Ian Lundberg (awarded Fulton Thesis Prize; co-advised with Chris Winship)"
+          },
+          {
+            "Description": "Hoopes Prize Social Science Committee, 2013, 2014, 2016"
+          },
+          {
+            "Description": "Harvard College, Women's Leadership Award Selection Committee, 2013"
+          },
+          {
+            "Description": "Graduate Student Paper Award Committee, Sociology of the Family Section, 2013"
+          },
+          {
+            "Description": "2017\tFinalist, Rosabeth Moss Kanter Award for Excellence in Work-Family Research\r\n\r\n2017\tNominee, Rosabeth Moss Kanter Award for Excellence in Work-Family Research\r\n\r\n2016\tKahrl Award for Excellence in Teaching, Department of Sociology, Harvard University\r\n\r\n2014\tArticle of the Year Award, Sociology of the Family Section, American Sociological\r\nAssociation\r\n\r\n2010\tDorothy S. Thomas Award, Population Association of America\r\n\r\n\r\nKillewald CV /             / January 2018\r\n2010\tKatherine Luke Graduate Student Paper Award, Department of Sociology, University of\r\nMichigan\r\n\r\n2008\tHigh Pass on Social Demography preliminary examination, Department of Sociology,\r\nUniversity of Michigan\r\n\r\n\r\nTEACHING\r\n\r\nInstructor, Harvard University\r\nSociology 156, Quantitative Methods in Sociology (Spring 2014, Spring 2016)\r\nSociology 211 (previously 203b), Analysis of Longitudinal Data (Fall 2012, Spring 2014, Spring 2016)\r\nSociology 255, Social Stratification (Spring 2013, Fall 2013, Fall 2015, Spring 2017)\r\nSociology 318, Quantitative Methods in Sociology Workshop (2013-2014, 2015-2016)\r\nSocial and Urban Policy 923, Proseminar on Inequality and Social Policy III (Fall 2016)"
+          }
+        ]
+      },
+      "Associations": {
+        "Association": [
+          {
+            "Name": "Population Association of America"
+          },
+          {
+            "Name": "American Sociological Association"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-28"
+    },
+    "NonXMLResume": {
+      "TextResume": "Alexandra Achen Killewald\r\n\r\nDepartment of Sociology\tPhone: 617-495-3818\r\nHarvard University\tEmail: killewald@fas.harvard.edu\r\n33 Kirkland St\r\nCambridge, MA 02138\r\n\r\n\r\nEMPLOYMENT\r\n\r\n2016 -\tProfessor of Sociology, Harvard University\r\n\r\n2015 - 2016\tJohn L. Loeb Associate Professor of the Social Sciences, Harvard University\r\n\r\n2012 - 2015\tAssistant Professor of Sociology, Harvard University\r\n\r\n2011 - 2012\tResearcher, Mathematica Policy Research\r\n\r\n\r\nEDUCATION\r\n\r\n2011\tPh.D., Public Policy and Sociology, University of Michigan\r\n\r\n2009\tM.A., Statistics, University of Michigan\r\n\r\n2009\tM.A., Sociology, University of Michigan\r\n\r\n2005\tB.S., Mathematics, Economics, and French, University of Michigan\r\nHighest Distinction, High Honors in Economics\r\n\r\n\r\nARTICLES\r\n\r\nPfeffer, Fabian T. and Alexandra Killewald. Forthcoming. \"Generations of Advantage: Multigenerational\r\nCorrelations in Family Wealth.\" Social Forces.\r\n\r\nKillewald, Alexandra, Fabian T. Pfeffer, and Jared N. Schachner. 2017. \"Wealth Inequality and\r\nAccumulation.\" Annual Review of Sociology 43:379-404.\r\n\r\nKillewald, Alexandra and Ian Lundberg. 2017. \"New Evidence against a Causal Marriage Wage Premium.\"\r\nDemography 54(3):1007-28.\r\n\r\nKillewald, Alexandra and Brielle Bryan. 2016. \"Does Your Home Make You Wealthy?\" RSF: The Russell Sage\r\nJournal of the Social Sciences 2(6): 110-28.\r\n\r\nKillewald, Alexandra and Javier García-Manglano. 2016. \"Tethered Lives: A Couple-Based Perspective on\r\nthe Consequences of Parenthood for Time Use, Occupation, and Wages.\" Social Science Research 60:\r\n266-82.\r\n• Finalist, Rosabeth Moss Kanter Award for Excellence in Work-Family Research, 2017\r\n\r\nKillewald CV /             / January 2018\r\nKillewald, Alexandra. 2016. \"Money, Work, and Marital Stability: Assessing Change in the Gendered\r\nDeterminants of Divorce.\" American Sociological Review 81(4): 696-719.\r\n• Nominee, Rosabeth Moss Kanter Award for Excellence in Work-Family Research, 2017\r\n\r\nXie, Yu, Alexandra Killewald, and Christopher Near. 2016. \"Between- and Within-Occupation Inequality:\r\nThe Case of High-Status Professions.\" ANNALS of the American Academy of Political and Social Science\r\n663(1):53-79.\r\n\r\nWood, Robert G., Quinn Moore, Andrew Clarkwest, and Alexandra Killewald. 2014. \"The Long-Term\r\nEffects of Building Strong Families: A Program for Unmarried Parents.\" Journal of Marriage and Family\r\n76(2):446-63.\r\n\r\nKillewald, Alexandra and Jonathan Bearak. 2014. \"Is the Motherhood Penalty Larger for Low-Wage\r\nWomen? A Comment on Quantile Regression.\" American Sociological Review 79(2):350-7.\r\n\r\nKillewald, Alexandra and Margaret Gough. 2013. \"Does Specialization Explain Marriage Penalties and\r\nPremiums?\" American Sociological Review 78(3):477-502.\r\n• Article of the Year Award, Sociology of the Family Section, American Sociological\r\nAssociation, 2014\r\n\r\nKillewald, Alexandra. 2013. \"A Reconsideration of the Fatherhood Premium: Marriage, Coresidence,\r\nBiology, and Fathers' Wages.\" American Sociological Review 78(1):96-116.\r\n\r\nKillewald, Alexandra. 2013. \"Return to Being Black, Living in the Red: A Race Gap in Wealth That Goes\r\nBeyond Social Origins.\" Demography 50(4):1177-95.\r\n\r\nCharles, Kerwin Kofi, Erik Hurst, and Alexandra Killewald. 2013. \"Marital Sorting and Parental Wealth.\"\r\nDemography 50(1):51-70.\r\n\r\nXie, Yu and Alexandra Killewald. 2013. \"Intergenerational Occupational Mobility in Great Britain and\r\nthe United States since 1850: Comment.\" American Economic Review 103(5):2003-20.\r\n\r\nGough, Margaret and Alexandra Killewald. 2011. \"Unemployment in Families: The Case of Housework.\"\r\nJournal of Marriage and Family 73(5):1085-1100.\r\n\r\nKillewald, Alexandra. 2011. \"Opting Out and Buying Out: Wives' Earnings and Housework Time.\" Journal\r\nof Marriage and Family 73(2):459-71.\r\n\r\nKillewald, Alexandra and Margaret Gough. 2010. \"Money Isn't Everything: Wives' Earnings and\r\nHousework Time.\" Social Science Research 39(6):987-1003.\r\n• Dorothy S. Thomas Award, Population Association of America, 2010\r\n• Katherine Luke Graduate Student Paper Award, Department of Sociology, University of\r\nMichigan, 2010\r\n\r\nAchen, Alexandra C. and Paul N. Courant. 2009. \"What Are Grades Made Of?\" Journal of Economic\r\nPerspectives 23(3): 77-92.\r\n\r\n\r\nKillewald CV /             / January 2018\r\nMok, Wallace K. C., Bruce D. Meyer, Kerwin Kofi Charles, and Alexandra C. Achen. 2008. \"A Note on\r\n'The Longitudinal Structure of Earnings Losses among Work-Limited Disabled Workers'.\" Journal of\r\nHuman Resources 43(3):721-28.\r\n\r\n\r\nBOOKS\r\n\r\nXie, Yu and Alexandra Killewald. 2012. Is American Science in Decline? Cambridge, MA: Harvard University\r\nPress.\r\n\r\n\r\nBOOK CHAPTERS\r\n\r\nClarkwest, Andrew, Alexandra Killewald, and Robert G. Wood. 2015. \"Stepping Up or Stepping Back:\r\nHighly Disadvantaged Parents' Responses to the Building Strong Families Program.\" Pp. 444-70 in\r\nThe Cultural Matrix: Understanding Black Youth, edited by Orlando Patterson and Ethan Fosse.\r\nCambridge, MA: Harvard University Press.\r\n\r\n\r\nUNDER REVIEW\r\n\r\nKillewald, Alexandra and Xiaolin Zhuo. \"Mothers' Long-Term Employment Patterns.\" (Revised and\r\nresubmitted to Demography.)\r\n\r\nKillewald, Alexandra and Brielle Bryan. \"Falling Behind: The Role of Inter- and Intragenerational Processes\r\nin Widening Racial and Ethnic Wealth Gaps through Early and Middle Adulthood.\" (Revised and\r\nresubmitted to Social Forces.)\r\n\r\n\r\nWORK IN PROGRESS\r\n\r\nKillewald, Alexandra and Hope Harvey. \"The Effect of Maternal Employment Experiences on Adolescent\r\nOutcomes.\"\r\n\r\nPfeffer, Fabian T., Andreja Siliunas, and Alexandra Killewald. \"Intergenerational Transfers and the\r\nConcentration of Wealth within Family Lineages.\"\r\n\r\nKillewald, Alexandra and Fabian T. Pfeffer. \"For Richer: The Effects of Marriage on Wealth\r\nAccumulation.\"\r\n\r\nKillewald, Alexandra and Paula England. \"Wealth and Divorce.\"\r\n\r\n\r\nWORKING PAPERS\r\n\r\nFurgeson, Joshua, Brian Gill, Joshua Haimson, Alexandra Killewald, Moira McCullough, Ira Nichols-Barrer,\r\nBing-ru Teh, Natalya Verbitsky-Savitz, Melissa Bowen, Allison Demeritt, Paul Hill, and Robin Lake.\r\n2012. \"Charter-School Management Organizations: Diverse Strategies and Diverse Student Impacts.\"\r\nMathematica Policy Research (http://www.mathematica-\r\nmpr.com/publications/PDFs/education/cmo_final_updated.pdf).\r\n\r\n\r\nKillewald CV /             / January 2018\r\nKillewald, Alexandra, Patricia Andreski, and Robert Schoeni. 2011. \"Trends in Item Non-Response in the\r\nPSID, 1968-2009.\" Panel Study of Income Dynamics Technical Series Paper #11-02\r\n(http://www.psidonline.isr.umich.edu/Publications/Papers/tsp/2011-\r\n02_Killewald_Andreski_Schoeni.pdf).\r\n\r\nAchen, Alexandra C. and Frank P. Stafford. 2005. \"Data Quality of Housework Hours in the Panel Study of\r\nIncome Dynamics: Who Really Does the Dishes?\"\r\n(http://www.psidonline.isr.umich.edu/Publications/Papers/achenproxyreports04.pdf).\r\n\r\n\r\nGRANTS AND FELLOWSHIPS\r\n\r\n2017-2018\tKatherine Hampson Bessell Fellow, Radcliffe Institute for Advanced Study, Harvard\r\nUniversity\r\n\r\n2015\tPanel Study of Income Dynamics, University of Michigan, \"Intergenerational Transfers and\r\nthe Concentration of Wealth within Family Lineages\" (Fabian Pfeffer, PI; $10,117)\r\n\r\n2015\tRussell Sage Foundation, \"How Rigid is the Wealth Structure and Why? Intergenerational\r\nCorrelations and Determinants of Family Wealth\" (Fabian Pfeffer, PI; $72,285)\r\n\r\n2014\tInstitute for Research on Poverty, University of Wisconsin, Emerging Scholars Small Grant,\r\n\"Falling Behind: The Black-White Wealth Gap in Life Course and Intergenerational\r\nPerspective\" ($20,000)\r\n\r\n2014\tW.E. Upjohn Institute, Early Career Research Award, \"Moms at Work: The Dynamics of\r\nMaternal Employment\" ($5,000)\r\n\r\n2013\tWilliam F. Milton Fund, Harvard University, \"Whose Money Matters? Understanding the\r\nRole of Financial Resources in Couples' Risk of Divorce\" ($20,765)\r\n\r\n2010\tMarshall Weinberg Research Fellowship, Population Studies Center, University of Michigan\r\n\r\n2010\tRackham Predoctoral Fellowship, Rackham Graduate School, University of Michigan\r\n\r\n2008\tCommunity of Scholars Fellowship, Institute for Research on Women and Gender,\r\nUniversity of Michigan\r\n\r\n\r\nAWARDS\r\n\r\n2017\tFinalist, Rosabeth Moss Kanter Award for Excellence in Work-Family Research\r\n\r\n2017\tNominee, Rosabeth Moss Kanter Award for Excellence in Work-Family Research\r\n\r\n2016\tKahrl Award for Excellence in Teaching, Department of Sociology, Harvard University\r\n\r\n2014\tArticle of the Year Award, Sociology of the Family Section, American Sociological\r\nAssociation\r\n\r\n2010\tDorothy S. Thomas Award, Population Association of America\r\n\r\n\r\nKillewald CV /             / January 2018\r\n2010\tKatherine Luke Graduate Student Paper Award, Department of Sociology, University of\r\nMichigan\r\n\r\n2008\tHigh Pass on Social Demography preliminary examination, Department of Sociology,\r\nUniversity of Michigan\r\n\r\n\r\nTEACHING\r\n\r\nInstructor, Harvard University\r\nSociology 156, Quantitative Methods in Sociology (Spring 2014, Spring 2016)\r\nSociology 211 (previously 203b), Analysis of Longitudinal Data (Fall 2012, Spring 2014, Spring 2016)\r\nSociology 255, Social Stratification (Spring 2013, Fall 2013, Fall 2015, Spring 2017)\r\nSociology 318, Quantitative Methods in Sociology Workshop (2013-2014, 2015-2016)\r\nSocial and Urban Policy 923, Proseminar on Inequality and Social Policy III (Fall 2016)\r\n\r\n\r\nSELECTED INVITED TALKS\r\n\r\nKillewald, Alexandra. 2017. \"Mothers' Employment Patterns and Consequences for Adolescent\r\nOutcomes.\"\r\n• Colloquium Seminar on Sociological Issues, Department of Sociology, University of\r\nVirginia, March 23.\r\n• Innovations in Population Science Seminar Series, Cornell Population Center and Institute\r\nfor the Social Sciences, Cornell University, September 22.\r\n• Colloquium, Sociology Department, Colby College, September 25.\r\n• Colloquium, Population Studies Center, University of Pennsylvania, December 4.\r\n• Lecture Series, Joint Degree Program in Social Policy, Princeton University, December 4.\r\n\r\nKillewald, Alexandra and Brielle Bryan. 2017. \"Falling Behind: The Black-White Wealth Gap in Life Course\r\nPerspective.\"\r\n• Colloquium Series, Department of Sociology, University of Toronto. January 18.\r\n• Seminar Series, Center for Studies in Demography & Ecology, University of Washington.\r\nJanuary 13.\r\n• Colloquium, Department of Sociology, Northwestern University, April 6.\r\n\r\nKillewald, Alexandra and Ian Lundberg. 2016. \"New Evidence against a Causal Marriage Wage Premium.\"\r\n• Graduate School of Business Organizational Behavior Seminar, Stanford University, January\r\n20.\r\n• Colloquium Series, Department of Sociology, Stanford University, May 19.\r\n• Colloquium Series, Department of Sociology, University of Pennsylvania, October 19.\r\n\r\nKillewald, Alexandra and Ian Lundberg. 2014-2015. \"Men's Labor Market Outcomes: Is There a Case for\r\nMarriage?\"\r\n• Departmental Colloquium Series, Department of Sociology, UC Berkeley, October 13, 2014.\r\n• Center for Wealth and Inequality Seminar Series, Columbia University, November 6, 2014.\r\n• School of Public Affairs Faculty Seminar, Baruch College, February 11, 2015.\r\n• Research Seminar Series, Institute of Sociology and Social Psychology, University of\r\nCologne, April 22, 2015.\r\n• Department of Sociology, University of Michigan, May 12, 2015.\r\n\r\nKillewald CV /             / January 2018\r\nKillewald, Alexandra and Javier García-Manglano. 2014-2015. \"Tethered Lives: A Couple-Based\r\nPerspective on Partners' Wage and Work Responses to Parenthood.\"\r\n• Chair's Colloquium, Department of Sociology, Princeton University, September 22, 2014.\r\n• Department of Sociology, New York University, December 7, 2015.\r\n\r\nKillewald, Alexandra and Cassandra Robertson. 2014. \"Whose Money Matters? Understanding the Role of\r\nFinancial Resources in Couples' Risk of Divorce.\"\r\n• Nuffield College Sociology Seminar, Oxford University, January 22.\r\n• Methodological Innovations in Inequality and Social Policy Research Conference, WZB,\r\nMay 20.\r\n\r\nKillewald, Alexandra and Javier García-Manglano. 2013. \"His Gain, Her Pain? The Motherhood Penalty\r\nand Fatherhood Premium within Coresidential Couples.\"\r\n• Population Studies & Training Center Colloquium Series, Brown University, March 7.\r\n• Center for Advanced Social Science Research Seminar Series, Department of Sociology,\r\nNew York University, October 2.\r\n• Maryland Population Research Center Seminar Series, University of Maryland, October 28.\r\n\r\nKillewald, Alexandra. 2012. \"Return to Being Black, Living in the Red: A Race Gap in Wealth that Goes\r\nBeyond Social Origins.\" Politics, Economy, and Culture Workshop, Indiana University, March 2.\r\n\r\n\r\nSELECTED CONFERENCE PRESENTATIONS\r\n(Since 2013)\r\n\r\nPfeffer, Fabian, Alexandra Killewald, and Andreja Siliunas. 2017. \"The Concentration of Wealth Within\r\nFamily Lineages.\" American Sociological Association Annual Meeting, Montreal, QC.\r\n\r\nPfeffer, Fabian T. and Alexandra Killewald. 2016. \"How Rigid Is the Wealth Structure and Why? Inter- and\r\nMultigenerational Associations in Family Wealth.\" American Sociological Association Annual\r\nMeeting, Seattle, WA.\r\n\r\nKillewald, Alexandra and Ian Lundberg. 2016. \"New Evidence against a Causal Marriage Wage Premium.\"\r\nAmerican Sociological Association Annual Meeting, Seattle, WA.\r\n\r\nKillewald, Alexandra and Hope Harvey. 2016. \"The Effect of Maternal Employment Experiences on\r\nAdolescent Outcomes.\" Population Association of America Annual Meeting, Washington, DC.\r\n\r\nPfeffer, Fabian, Alexandra Killewald, and Andreja Siliunas. 2016. \"Intergenerational Transfers and the\r\nConcentration of Wealth Within Family Lineages.\" Population Association of America Annual\r\nMeeting, Washington, DC.\r\n\r\nKillewald, Alexandra and Xiaolin Zhuo. 2015. \"Mothers' Long-Term Employment Patterns.\" American\r\nSociological Association Annual Meeting, Chicago, IL.\r\n\r\nKillewald, Alexandra and Fangsheng Zhu. 2015 \"Does Your Home Make You Wealthy?\" Population\r\nAssociation of America Annual Meeting, San Diego, CA.\r\n\r\nKillewald, Alexandra and Brielle Bryan. 2015. \"Falling Behind: The Black-White Wealth Gap in Life Course\r\nand Intergenerational Perspective.\"\r\n\r\nKillewald CV /             / January 2018\r\n•   Conference on Families and Wealth: New Perspectives on Economic Wellbeing, Institute of\r\nSociology and Social Psychology, University of Cologne.\r\n•   Population Association of America Annual Meeting, San Diego, CA.\r\n\r\nKillewald, Alexandra and Ian Lundberg. 2014. \"How Do Married Men Get Ahead? A Process-Based\r\nExamination of the Male Marriage Premium.\" Population Association of America Annual Meeting,\r\nBoston, MA.\r\n\r\nKillewald, Alexandra and Cassandra Robertson. 2013-2014. \"Whose Money Matters? Understanding the\r\nRole of Financial Resources in Couples' Risk of Divorce.\"\r\n• 2013. Association for Public Policy Analysis & Management Fall Research Conference,\r\nWashington, DC.\r\n• 2014. American Sociological Association Annual Meeting, San Francisco, CA.\r\n\r\nKillewald, Alexandra and Javier García-Manglano. 2013. \"His Gain, Her Pain? The Motherhood Penalty\r\nand Fatherhood Premium within Coresidential Couples.\"\r\n• Population Association of America Annual Meeting, New Orleans, LA.\r\n• American Sociological Association Annual Meeting, New York, NY.\r\n\r\n\r\nADVISING\r\n\r\nDissertation Committees\r\nIn process: Kreg Steven Brown, Brielle Bryan, Catherine Doren (University of Wisconsin), Anny Fenton,\r\nBlythe George, Gru Han, Hope Harvey (co-chair), Margot Moinester, Katherine Morris, Eunsil\r\nOh, Miguel Quintana Navarrete, Jared Schachner, Nathan Wilmers, Alix Winter, Linda Zhao,\r\nLeTian Zhang (co-chair)\r\n2017: Kristin Perkins, Beth Truesdale, Yun Zhou\r\n2015: Tracey Shollenberger, Jackelyn Hwang\r\n\r\nQualifying Papers\r\nIn process: Sinn Won Han, Angela Lee (chair), Alexandra Mitukiewicz (chair), Andreja Siliunas\r\n2017: Preeya Mbekeani, Adam Travis, Meghan Zacher, Linda Zhao\r\n2016: Blythe George, Jared Schachner, Miguel Quintana Navarrete\r\n2015: Brielle Bryan, Hope Harvey, Nathan Wilmers, Alix Winter\r\n2014: Yun Zhou, Cassandra Robertson, LeTian Zhang\r\n2013: Kreg Steven Brown, EunSil Oh, Kristin Perkins, Beth Truesdale\r\n\r\nCurrent Predissertation Advisees\r\nAllison Daminger\r\n\r\nOral Exams\r\n2014: EunSil Oh\r\n2013: Kristin Perkins\r\n\r\nSenior Honors Theses\r\n2015: Ian Lundberg (awarded Fulton Thesis Prize; co-advised with Chris Winship)\r\n2013: Haoyu Sun\r\n\r\n\r\nKillewald CV /             / January 2018\r\nSERVICE\r\n\r\nHarvard University\r\nDepartment of Sociology\r\nGraduate Admissions Committee, 2012-2013, 2015-2016, 2016-2017 (chair)\r\nGraduate Written Examination Committee, 2015-2016\r\nCommittee on Undergraduate Degrees, 2013-2014\r\nJunior Search Committee, 2013-2014\r\nKennedy School\r\nDirector of Graduate Studies, Ph.D. Program in Social Policy, 2015-2016, 2016-2017\r\nSocial Policy Graduate Admissions Committee, 2012-2013, 2015-2016\r\nCommittee on Degrees in Studies of Women, Gender, and Sexuality\r\nStanding Committee, 2013-2014, 2015-2016, 2016-2017\r\nJunior Search Committee, 2016-2017\r\nSenior Search Committee, 2016-2017\r\nFaculty of Arts and Sciences\r\nDean's Faculty Resources Committee, 2016-2017\r\nHoopes Prize Social Science Committee, 2013, 2014, 2016\r\nStar Family Challenge for Promising Scientific Research, Selection Committee, 2017\r\nHarvard Graduate Women in Science and Engineering Mentoring Program, 2013-2014\r\nHarvard College, Women's Leadership Award Selection Committee, 2013\r\n\r\nAmerican Sociological Association\r\nCouncil Member, Section on Inequality, Poverty, and Mobility, 2017-2020\r\nOrganizer, Section on the Sociology of the Family, \"Work and Family Intersections,\" Annual\r\nMeeting, 2016\r\nOrganizer, Section on Inequality, Poverty, and Mobility, \"Field Advantage: What Aspects of\r\nInequality Are Sociologists Comparatively Better Equipped to Tackle?\" Annual Meeting,\r\n2015\r\nNominations Committee, Section on Inequality, Poverty, and Mobility, 2013-2014, 2015-2016\r\nOrganizer, \"Labor Market,\" Annual Meeting, 2014\r\nGraduate Student Paper Award Committee, Sociology of the Family Section, 2013\r\n\r\nPopulation Association of America\r\nDiscussant and Chair, \"Marriage Premiums in Income and Health,\" Annual Meeting, 2017\r\nDiscussant, \"Household Division of Labor,\" Annual Meeting, 2016\r\nDiscussant, \"Social Determinants of Wealth and Income,\" Annual Meeting, 2016\r\nOrganizer, \"Gender, Work, and Family: Policies and Inequalities,\" Annual Meeting, 2015\r\nDiscussant, \"Marriage and Family in a Legal Context,\" Annual Meeting, 2015\r\nDiscussant, \"Family Demography and Economic Inequality,\" Annual Meeting, 2014\r\nDiscussant, \"Contextual and Network Influences on Educational Outcomes,\" Annual Meeting, 2014\r\n\r\nRussell Sage Foundation, Advisory Committee on Social Inequality, 2017-present\r\n\r\nSocial Forces, Editorial Board, 2018-present\r\n\r\nSociological Science, Consulting Editor, 2017-present\r\n\r\nJournal of Marriage and Family, Editorial Board, 2015-present\r\n\r\nDemography, Editorial Board, 2013-2016\r\n\r\n\r\nKillewald CV /             / January 2018\r\nReviewer: Advances in Life Course Research, AERA Open, American Journal of Sociology, American Sociological Review,\r\nBritish Journal of Sociology, Demography, Economics of Education Review, Economics Letters, European Sociological\r\nReview, Gender & Society, International Journal of Comparative Sociology, Journal of Family Issues, Journal of\r\nFamily Theory & Review, Journal of Marriage and Family, Social Forces, Social Problems, Social Science Research,\r\nSociological Forum, Sociological Methods & Research, Sociological Science, The Sociological Quarterly\r\n\r\n\r\nPROFESSIONAL AFFILIATIONS\r\n\r\nFaculty Affiliate\r\nInstitute for Quantitative Social Science, Harvard University\r\nMultidisciplinary Program in Inequality and Social Policy, Harvard University\r\nHarvard Center for Population and Development Studies, Harvard University\r\n\r\nMember\r\nPopulation Association of America\r\nAmerican Sociological Association\r\n\r\n\r\nKillewald CV /             / January 2018"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "US",
+          "sov:CultureInfo": "en-US"
+        },
+        "sov:PersonalInformation": {
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Single"
+          }
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Alexandra Achen Killewald's experience appears to be somewhat concentrated in Sales (mostly Entry Level) and somewhat concentrated in Information Technology (mostly Cloud Computing). Alexandra Achen Killewald has 9 years of work experience.",
+          "sov:MonthsOfWorkExperience": "111",
+          "sov:AverageMonthsPerEmployer": "55",
+          "sov:FulltimeDirectHirePredictiveIndex": "100",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "32",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Entry Level",
+                        "@id": "500",
+                        "@percentOfOverall": "32",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASSOCIATE",
+                            "@id": "004917",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "24",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Cloud Computing",
+                        "@id": "550",
+                        "@percentOfOverall": "12",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "MICROSOFT DYNAMICS",
+                            "@id": "5500351",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DYNAMICS",
+                                "@id": "550035102",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "12",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SPRING",
+                                "@id": "3391126",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Training",
+                    "@id": "64",
+                    "@percentOfOverall": "17",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "361",
+                        "@percentOfOverall": "17",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "INSTRUCTOR",
+                            "@id": "019876",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                          },
+                          {
+                            "@name": "TEACHING",
+                            "@id": "026879",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Financial Planning & Analysis",
+                        "@id": "235",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "QUANTITATIVE",
+                            "@id": "022510",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Administrative or Clerical",
+                    "@id": "1",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Special Events",
+                        "@id": "119",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "QUANTITATIVE",
+                            "@id": "022509",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Process",
+                        "@id": "143",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "QUANTITATIVE",
+                            "@id": "006272",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Legal",
+                    "@id": "12",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Government Affairs",
+                        "@id": "726",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PUBLIC POLICY",
+                            "@id": "7260000",
+                            "@existsInText": "true",
+                            "@lastUsed": "2011-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "STATISTICS",
+                            "@id": "008585",
+                            "@existsInText": "true",
+                            "@lastUsed": "2009-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "8",
+              "@ends": "18",
+              "@sectionType": "WORK HISTORY",
+              "#text": "EMPLOYMENT"
+            },
+            {
+              "@starts": "19",
+              "@ends": "30",
+              "@sectionType": "EDUCATION",
+              "#text": "EDUCATION"
+            },
+            {
+              "@starts": "31",
+              "@ends": "104",
+              "@sectionType": "OTHER_PUBLICATIONS",
+              "#text": "ARTICLES"
+            },
+            {
+              "@starts": "105",
+              "@ends": "142",
+              "@sectionType": "BOOKS",
+              "#text": "BOOKS"
+            },
+            {
+              "@starts": "143",
+              "@ends": "191",
+              "@sectionType": "OTHER_PUBLICATIONS",
+              "#text": "WORKING PAPERS"
+            },
+            {
+              "@starts": "192",
+              "@ends": "223",
+              "@sectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+              "#text": "AWARDS"
+            },
+            {
+              "@starts": "224",
+              "@ends": "280",
+              "@sectionType": "SPEAKING",
+              "#text": "SELECTED INVITED TALKS"
+            },
+            {
+              "@starts": "281",
+              "@ends": "422",
+              "@sectionType": "OTHER_PUBLICATIONS",
+              "#text": "SELECTED CONFERENCE PRESENTATIONS"
+            },
+            {
+              "@starts": "423",
+              "@ends": "435",
+              "@sectionType": "PROFESSIONAL AFFILIATIONS",
+              "#text": "PROFESSIONAL AFFILIATIONS"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "Phone: 617-495-3818",
+              "617-495-3818"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "Alexandra Killewald.",
+              "Alexandra Killewald",
+              "Alexandra Achen Killewald",
+              "Killewald, Alexandra",
+              "Killewald, Alexandra.",
+              "Killewald, Alexandra and Javier García-Manglano. 2013. \"His Gain, Her Pain? The Motherhood Penalty",
+              "Killewald, Alexandra and Ian Lundberg. 2014. \"How Do Married Men Get Ahead? A Process-Based",
+              "Killewald, Alexandra and Fangsheng Zhu. 2015 \"Does Your Home Make You Wealthy?\" Population",
+              "Killewald, Alexandra and Xiaolin Zhuo. 2015. \"Mothers' Long-Term Employment Patterns.\" American",
+              "Pfeffer, Fabian, Alexandra Killewald, and Andreja Siliunas. 2016. \"Intergenerational Transfers and the",
+              "Killewald, Alexandra and Hope Harvey. 2016. \"The Effect of Maternal Employment Experiences on",
+              "Killewald, Alexandra and Ian Lundberg. 2016. \"New Evidence against a Causal Marriage Wage Premium.\"",
+              "Pfeffer, Fabian T. and Alexandra Killewald. 2016. \"How Rigid Is the Wealth Structure and Why? Inter- and",
+              "Pfeffer, Fabian, Alexandra Killewald, and Andreja Siliunas. 2017. \"The Concentration of Wealth Within",
+              "Killewald, Alexandra. 2012. \"Return to Being Black, Living in the Red: A Race Gap in Wealth that Goes",
+              "Killewald, Alexandra and Cassandra Robertson. 2014. \"Whose Money Matters? Understanding the Role of",
+              "Killewald, Alexandra. 2017. \"Mothers' Employment Patterns and Consequences for Adolescent",
+              "Killewald, Alexandra, Patricia Andreski, and Robert Schoeni. 2011. \"Trends in Item Non-Response in the",
+              "Furgeson, Joshua, Brian Gill, Joshua Haimson, Alexandra Killewald, Moira McCullough, Ira Nichols-Barrer,",
+              "Killewald, Alexandra and Paula England. \"Wealth and Divorce.\"",
+              "Killewald, Alexandra and Fabian T. Pfeffer. \"For Richer: The Effects of Marriage on Wealth",
+              "Pfeffer, Fabian T., Andreja Siliunas, and Alexandra Killewald. \"Intergenerational Transfers and the",
+              "Killewald, Alexandra and Hope Harvey. \"The Effect of Maternal Employment Experiences on Adolescent",
+              "Killewald, Alexandra and Brielle Bryan. \"Falling Behind: The Role of Inter- and Intragenerational Processes",
+              "Killewald, Alexandra and Xiaolin Zhuo. \"Mothers' Long-Term Employment Patterns.\" (Revised and",
+              "Clarkwest, Andrew, Alexandra Killewald, and Robert G. Wood. 2015. \"Stepping Up or Stepping Back:",
+              "Killewald, Alexandra and Margaret Gough. 2010. \"Money Isn't Everything: Wives' Earnings and",
+              "Killewald, Alexandra. 2011. \"Opting Out and Buying Out: Wives' Earnings and Housework Time.\" Journal",
+              "Gough, Margaret and Alexandra Killewald. 2011. \"Unemployment in Families: The Case of Housework.\"",
+              "Xie, Yu and Alexandra Killewald. 2013. \"Intergenerational Occupational Mobility in Great Britain and",
+              "Charles, Kerwin Kofi, Erik Hurst, and Alexandra Killewald. 2013. \"Marital Sorting and Parental Wealth.\"",
+              "Killewald, Alexandra. 2013. \"Return to Being Black, Living in the Red: A Race Gap in Wealth That Goes",
+              "Killewald, Alexandra. 2013. \"A Reconsideration of the Fatherhood Premium: Marriage, Coresidence,",
+              "Killewald, Alexandra and Margaret Gough. 2013. \"Does Specialization Explain Marriage Penalties and",
+              "Killewald, Alexandra and Jonathan Bearak. 2014. \"Is the Motherhood Penalty Larger for Low-Wage",
+              "Wood, Robert G., Quinn Moore, Andrew Clarkwest, and Alexandra Killewald. 2014. \"The Long-Term",
+              "Xie, Yu, Alexandra Killewald, and Christopher Near. 2016. \"Between- and Within-Occupation Inequality:",
+              "Killewald, Alexandra. 2016. \"Money, Work, and Marital Stability: Assessing Change in the Gendered",
+              "Killewald, Alexandra and Javier García-Manglano. 2016. \"Tethered Lives: A Couple-Based Perspective on",
+              "Killewald, Alexandra and Brielle Bryan. 2016. \"Does Your Home Make You Wealthy?\" RSF: The Russell Sage",
+              "Killewald, Alexandra and Ian Lundberg. 2017. \"New Evidence against a Causal Marriage Wage Premium.\"",
+              "Killewald, Alexandra, Fabian T. Pfeffer, and Jared N. Schachner. 2017. \"Wealth Inequality and",
+              "Pfeffer, Fabian T. and Alexandra Killewald. Forthcoming. \"Generations of Advantage: Multigenerational"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "killewald@fas.harvard.edu"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "http://www.psidonline.isr.umich.edu/Publications/Papers/achenproxyreports04.pdf",
+              "http://www.psidonline.isr.umich.edu/Publications/Papers/tsp/2011",
+              "mpr.com/publications/PDFs/education/cmo_final_updated.pdf"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Department of Sociology",
+              "Harvard University",
+              "33 Kirkland St",
+              "Unmarried"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "19366",
+        "sov:ParseTime": "703",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Fatal Problems Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:417;] This resume is approximately 8 pages long, and appears to be a curriculum vitae. Such documents are prone to errors due to the use of nonstandard headers and the vast amount of data describing patents, speaking engagements, research, advisory roles, publications, etc. Accordingly, only the first WORK HISTORY section was parsed, as that usually results in far greater accuracy."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:303;2,3,4,5,6,7] Each of the following sections in the resume contain more content than the work history and education sections combined: 'ARTICLES', 'BOOKS', 'WORKING PAPERS', 'AWARDS', 'SELECTED INVITED TALKS', 'SELECTED CONFERENCE PRESENTATIONS'. This may indicate a problem with section headers, formatting, or content.",
+                    "[Sovren:312;2,3,4,6,7] The following sections in the resume contain more content than recommended: 'ARTICLES', 'BOOKS', 'WORKING PAPERS', 'SELECTED INVITED TALKS', 'SELECTED CONFERENCE PRESENTATIONS' These sections should be very brief as it can cause errors in parsing the resume.",
+                    "[Sovren:323;OTHER_PUBLICATIONS] The following section type appeared multiple times in the resume: OTHER_PUBLICATIONS (3 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:123;] Marital status should not be included in a resume (for most cultures)."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:Warnings": {
+          "sov:Warning": [
+            "This resume is approximately 8 pages long, and appears to be a curriculum vitae. Such documents are prone to errors due to the use of nonstandard headers and the vast amount of data describing patents, speaking engagements, research, advisory roles, publications, etc. Accordingly, only the first WORK HISTORY section was parsed, as that usually results in far greater accuracy."
+          ]
+        },
+        "sov:LicenseSerialNumber": "13430659:77e330b1-e006-4a55-be23-7bd31dfd9dc2",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.2.0",
+        "sov:DigitalSignature": "HCj7//////8="
+      }
+    }
+  }
+}

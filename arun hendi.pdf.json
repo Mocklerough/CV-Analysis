@@ -1,0 +1,1352 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Arun S. Hendi",
+          "GivenName": "Arun",
+          "MiddleName": "S.",
+          "FamilyName": "Hendi"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "US",
+              "PostalCode": "90089",
+              "Region": [
+                "CA"
+              ],
+              "Municipality": "Los Angeles",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Center for Economic and Social Research",
+                  "University of Southern California",
+                  "635 Downey Way",
+                  "Suite 312"
+                ]
+              }
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "hendi@usc.edu"
+          }
+        ]
+      },
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Economic and Social Research",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Associate Demographer, Center",
+                "OrgName": {
+                  "OrganizationName": "Economic and Social Research"
+                },
+                "Description": "Assistant Professor (Research) of Sociology\r\nUniversity of Southern California",
+                "StartDate": {
+                  "YearMonth": "2017-07"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BX",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Economic and Social Research",
+                    "sov:NormalizedTitle": "Associate Demographer Center",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Associate Demographer"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Economic and Social Research"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Population Research Institute (DuPRI) and Department of Sociology",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Postdoctoral Fellow",
+                "OrgName": {
+                  "OrganizationName": "Duke University"
+                },
+                "Description": "(NIA T32 AG000139)\r\nPopulation Research Institute (DuPRI) and Department of Sociology\r\nDuke University",
+                "StartDate": {
+                  "YearMonth": "2015-10"
+                },
+                "EndDate": {
+                  "YearMonth": "2017-06"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BQ",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "BQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Duke University",
+                    "sov:NormalizedTitle": "Postdoctoral Fellow"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Population Research Institute DuPRI and Department of Sociology"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "University of Pennsylvania",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Teaching Assistant",
+                "OrgName": {
+                  "OrganizationName": "University of Pennsylvania"
+                },
+                "Description": "University of Delaware",
+                "StartDate": {
+                  "YearMonth": "2014-03"
+                },
+                "EndDate": {
+                  "YearMonth": "2014-05"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TT",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "University of Pennsylvania",
+                    "sov:NormalizedTitle": "Teaching Assistant"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "University of Pennsylvania"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Multivariable Calculus and Analytic Geometry",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Teaching Assistant",
+                "OrgName": {
+                  "OrganizationName": "Multivariable Calculus and Analytic Geometry"
+                },
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2004-09"
+                },
+                "EndDate": {
+                  "YearMonth": "2004-11"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "X",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TT",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Multivariable Calculus and Analytic Geometry",
+                    "sov:NormalizedTitle": "Teaching Assistant"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Multivariable Calculus and Analytic Geometry"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "University of Pennsylvania"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "doctorate",
+                "DegreeName": "Ph.D.",
+                "DegreeDate": {
+                  "Year": "2015"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Demography and Sociology"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2015"
+                    }
+                  }
+                ],
+                "Comments": "2015 Ph.D., Demography and Sociology, University of Pennsylvania\r\n\r\nDissertation Title: \"The Demography of Modern Social Transformations\"\r\nCommittee: Irma T. Elo (chair), Michel Guillot, and Samuel H. Preston\r\n\r\nComprehensive Exams: Demography and Sociology of Aging and the Life Course (with distinction)",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "doctorate",
+                    "sov:NormalizedDegreeType": "doctorate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "University of Pennsylvania"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "University of Pennsylvania"
+              }
+            ],
+            "Degree": [
+              {
+                "DegreeDate": {
+                  "Year": "2010"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Economics"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2010"
+                    }
+                  }
+                ],
+                "Comments": "2010 A.M., Economics, University of Pennsylvania",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "University of Pennsylvania"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "University of Pennsylvania"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.A.",
+                "DegreeDate": {
+                  "Year": "2009"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Economics"
+                    ]
+                  }
+                ],
+                "DegreeMinor": [
+                  {
+                    "Name": [
+                      "Statistics"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2009"
+                    }
+                  }
+                ],
+                "Comments": "2009 B.A., Economics (with distinction), Minor in Statistics, University of Pennsylvania\r\nMagna cum laude, Honors Program (Benjamin Franklin Scholars)",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-3",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "University of Pennsylvania"
+              }
+            }
+          }
+        ]
+      },
+      "PublicationHistory": {
+        "Article": [
+          {
+            "Title": "Globalization and Contemporary Fertility Convergence.",
+            "Name": [
+              {
+                "@role": "contributor",
+                "FormattedName": "S A Hendi",
+                "GivenName": "S",
+                "MiddleName": "A",
+                "FamilyName": "Hendi"
+              }
+            ],
+            "PublicationDate": {
+              "Year": "2017"
+            },
+            "JournalOrSerialName": "\" Social Forces\r\n96(1)",
+            "PageNumber": "215-238"
+          },
+          {
+            "Title": "Winner of the BiennialEtienne Van ",
+            "PublicationDate": {
+              "Year": "2013"
+            },
+            "JournalOrSerialName": "de  in Demography"
+          },
+          {
+            "Title": "Trends in Education-Specific Life Expectancy, Data Quality, and Shifting\r\nEducation Distributions: A Note on Recent Research.",
+            "Name": [
+              {
+                "@role": "contributor",
+                "FormattedName": "S A Hendi",
+                "GivenName": "S",
+                "MiddleName": "A",
+                "FamilyName": "Hendi"
+              }
+            ],
+            "PublicationDate": {
+              "Year": "2017"
+            },
+            "JournalOrSerialName": "Demography 54(3): . (PMCID:\r\nPMC5482278)",
+            "PageNumber": "1203-1213"
+          },
+          {
+            "Title": "Trends in U.S. Life Expectancy Gradients: The Role of Changing\r\nEducational Composition.",
+            "Name": [
+              {
+                "@role": "contributor",
+                "FormattedName": "S A Hendi",
+                "GivenName": "S",
+                "MiddleName": "A",
+                "FamilyName": "Hendi"
+              }
+            ],
+            "PublicationDate": {
+              "Year": "2015"
+            },
+            "JournalOrSerialName": "\" International Journal of Epidemiology 44(3): . (PMCID:\r\nPMC4607744)",
+            "PageNumber": "946-955"
+          },
+          {
+            "Title": "Health Among Black Children by\r\nMaternal and Child Nativity.",
+            "Name": [
+              {
+                "@role": "contributor",
+                "FormattedName": "Elo A Hendi",
+                "GivenName": "Elo",
+                "MiddleName": "A",
+                "FamilyName": "Hendi"
+              }
+            ],
+            "PublicationDate": {
+              "Year": "2014"
+            },
+            "JournalOrSerialName": "\" American Journal of Public Health 105(4): . (PMCID:\r\nPMC4358160)",
+            "PageNumber": "703-710"
+          },
+          {
+            "Title": "Is There Convergence Across\r\nCountries? A Spatial Approach.",
+            "Name": [
+              {
+                "@role": "contributor",
+                "FormattedName": "S H Berry",
+                "GivenName": "S",
+                "MiddleName": "H",
+                "FamilyName": "Berry"
+              }
+            ],
+            "PublicationDate": {
+              "Year": "2014"
+            },
+            "JournalOrSerialName": "Hendi. \"\" Journal of International Business Studies 45(4): .\r\n(authors listed alphabetically) (PMCID: PMC4286895)",
+            "PageNumber": "387-404"
+          },
+          {
+            "Title": "Sources of Change in American Marital Life Cycles, 1960-2010.",
+            "PublicationDate": {
+              "Year": "2017"
+            },
+            "JournalOrSerialName": "Sources of Change in American Marital Life Cycles, .\" Second\r\nR&R at Demography",
+            "PageNumber": "1960-2010"
+          },
+          {
+            "Title": "Recent Declines in U.S. Life Expectancy Are Shared\r\nAcross High-Income Countries.",
+            "Name": [
+              {
+                "@role": "contributor",
+                "FormattedName": "Hendi J Ho",
+                "GivenName": "Hendi",
+                "MiddleName": "J",
+                "FamilyName": "Ho"
+              }
+            ],
+            "PublicationDate": {
+              "Year": "2017"
+            },
+            "JournalOrSerialName": "\" Under Review"
+          },
+          {
+            "Title": "Disadvantaged Areas or Racial Disadvantage? Geographic Variation in\r\nBlack-White Life Expectancy Gaps.",
+            "Name": [
+              {
+                "@role": "contributor",
+                "FormattedName": "S A Hendi",
+                "GivenName": "S",
+                "MiddleName": "A",
+                "FamilyName": "Hendi"
+              }
+            ],
+            "PublicationDate": {
+              "Year": "2017"
+            },
+            "JournalOrSerialName": "Disadvantaged Areas or Racial Disadvantage? \" Under Review"
+          },
+          {
+            "Title": "The Shifting Age Pattern of the Black-White Life Expectancy Gap.",
+            "Name": [
+              {
+                "@role": "contributor",
+                "FormattedName": "S A Hendi",
+                "GivenName": "S",
+                "MiddleName": "A",
+                "FamilyName": "Hendi"
+              }
+            ],
+            "PublicationDate": {
+              "Year": "2017"
+            },
+            "JournalOrSerialName": "\"\r\nUnder Review"
+          },
+          {
+            "Title": ""
+          },
+          {
+            "Title": "A Good Man is Hard to Find: How Normative Change, Educational\r\nMismatch, Uneven Mortality Declines, and Rising Incarceration Have Lowered Marriage Rates\r\nAmong Black Women.",
+            "Name": [
+              {
+                "@role": "contributor",
+                "FormattedName": "S A Hendi",
+                "GivenName": "S",
+                "MiddleName": "A",
+                "FamilyName": "Hendi"
+              }
+            ],
+            "PublicationDate": {
+              "Year": "2017"
+            },
+            "JournalOrSerialName": "A Good Man is Hard to Find: \" In Preparation"
+          },
+          {
+            "Title": "Birth Cohorts, Synthetic Cohorts,\r\nand SES Differentials in Longevity: The Implications of Changing Educational Distributions for\r\nLife Expectancy Gradients.",
+            "Name": [
+              {
+                "@role": "contributor",
+                "FormattedName": "Elo A Hendi",
+                "GivenName": "Elo",
+                "MiddleName": "A",
+                "FamilyName": "Hendi"
+              }
+            ],
+            "PublicationDate": {
+              "Year": "2017"
+            },
+            "JournalOrSerialName": "In Preparation"
+          },
+          {
+            "Title": "Educational Stratification in Subjective Assessments of Survival.",
+            "Name": [
+              {
+                "@role": "contributor",
+                "FormattedName": "S A Hendi",
+                "GivenName": "S",
+                "MiddleName": "A",
+                "FamilyName": "Hendi"
+              }
+            ],
+            "PublicationDate": {
+              "Year": "2017"
+            },
+            "JournalOrSerialName": "of Survival.\" In\r\nPreparation"
+          }
+        ],
+        "OtherPublication": [
+          {
+            "Title": "Immigration and the Health of Black Children.",
+            "Name": [
+              {
+                "@role": "contributor",
+                "FormattedName": "S A Hendi",
+                "GivenName": "S",
+                "MiddleName": "A",
+                "FamilyName": "Hendi"
+              }
+            ],
+            "PublicationDate": {
+              "Year": "2017"
+            }
+          }
+        ]
+      },
+      "SpeakingEventsHistory": {
+        "SpeakingEvent": [
+          {
+            "EventName": "",
+            "EventType": "conference",
+            "Description": "INVITED AND CONFERENCE PRESENTATIONS"
+          },
+          {
+            "EventName": "",
+            "EventType": "conference",
+            "Description": "INVITED AND CONFERENCE PRESENTATIONS"
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "SUPPLEMENTARY SKILLS\r\nSupplementary Training: Stanford Workshop in Formal Demography 2014; DataCamp Courses\r\nin R and data.table\r\n\r\nComputing Proficiencies: R/S-PLUS, Stata, Matlab, VBA for Excel, Java, C/C++, Maple, MS\r\nOffice, UNIX, LaTeX\r\nProficient in English (native), French (intermediate), Kannada (comprehension)\r\n\r\n\r\n6\r\nCurriculum Vitae\tArun S. Hendi"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "true",
+            "Speak": "true",
+            "Comments": "Proficient in English (native), French (intermediate), Kannada"
+          },
+          {
+            "LanguageCode": "fr",
+            "Read": "true",
+            "Write": "true",
+            "Speak": "true",
+            "Comments": "Proficient in English (native), French (intermediate), Kannada (comprehension)"
+          },
+          {
+            "LanguageCode": "kn",
+            "Read": "true",
+            "Write": "true",
+            "Speak": "true",
+            "Comments": "in English (native), French (intermediate), Kannada (comprehension)"
+          }
+        ]
+      },
+      "Achievements": {
+        "Achievement": [
+          {
+            "Description": "2012 A.M., Demography (with distinction), University of Pennsylvania"
+          },
+          {
+            "Description": "2009 B.A., Economics (with distinction), Minor in Statistics, University of Pennsylvania"
+          },
+          {
+            "Description": "Magna cum laude, Honors Program (Benjamin Franklin Scholars)"
+          },
+          {
+            "Description": "Winner of the Biennial 2013 Etienne Van de Walle Prize for the Best Graduate Student"
+          },
+          {
+            "Description": "Van de Walle Prize Lecture, University of Pennsylvania Population Studies Center"
+          },
+          {
+            "Description": "FELLOWSHIPS, AWARDS, AND HONORS"
+          },
+          {
+            "Description": "Etienne Van de Walle Prize 2013 for Best Graduate Student Paper in Demography (awarded"
+          },
+          {
+            "Description": "Scholarship to Stanford Workshop in Formal Demography"
+          },
+          {
+            "Description": "School of Arts and Sciences Travel Fund Award 2013, 2014"
+          },
+          {
+            "Description": "National Merit Corporate Scholarship"
+          },
+          {
+            "Description": "University of Pennsylvania Alumni Association Merit Scholarship"
+          },
+          {
+            "Description": "Comcast Academic Excellence Scholarship"
+          },
+          {
+            "Description": "Michael C. Ferguson Scholarship"
+          },
+          {
+            "Description": "Delaware ScIP Merit Scholarship"
+          },
+          {
+            "Description": "Demography, racial and socioeconomic inequality in health and mortality, marriage and family"
+          },
+          {
+            "Description": "sociology of aging and the life course, demography of cities, globalization, quantitative methods"
+          },
+          {
+            "Description": "formal demography, health of migrants, fertility"
+          }
+        ]
+      },
+      "Associations": {
+        "Association": [
+          {
+            "Name": "Robert Wood Johnson Foundation",
+            "StartDate": {
+              "YearMonth": "2017-04"
+            },
+            "EndDate": {
+              "YearMonth": "2018-10"
+            }
+          },
+          {
+            "Name": "White Life Expectancy Gaps.\" Presented at American Sociological Association Annual"
+          },
+          {
+            "Name": "White Life Expectancy Gaps.\" Presented at Population Association of America Annual"
+          },
+          {
+            "Name": "Life Expectancy Gradients.\" Presented at Population Association of America Annual"
+          },
+          {
+            "Name": "Socioeconomic Gradients in Mortality.\" Presented at American Sociological Association"
+          },
+          {
+            "Name": "American Sociological Association Annual Meeting , Seattle, WA. August",
+            "StartDate": {
+              "Year": "2016"
+            },
+            "EndDate": {
+              "YearMonth": "2016-08"
+            }
+          },
+          {
+            "Name": "Hendi, Arun S. \"Adult Mortality - Discussion.\" Presented at Population Association of America"
+          },
+          {
+            "Name": "Presented at Population Association of America Annual Meeting , San Diego, CA",
+            "EndDate": {
+              "Year": "2015"
+            }
+          },
+          {
+            "Name": "Composition.\" Presented at American Sociological Association Annual Meeting",
+            "EndDate": {
+              "Year": "2014"
+            }
+          },
+          {
+            "Name": "International Comparative Perspective.\" Presented at American Sociological Association"
+          },
+          {
+            "Name": "Population Association of America Annual Meeting , Boston, MA. May",
+            "StartDate": {
+              "Year": "2014"
+            },
+            "EndDate": {
+              "YearMonth": "2014-05"
+            }
+          },
+          {
+            "Name": "Status and Parental Nativity.\" Presented at Population Association of America Annual"
+          },
+          {
+            "Name": "Presented at American Sociological Association Annual Meeting , New York, NY",
+            "EndDate": {
+              "Year": "2013"
+            }
+          },
+          {
+            "Name": "Presented at Population Association of America Annual Meeting , New Orleans",
+            "EndDate": {
+              "Year": "2013"
+            }
+          },
+          {
+            "Name": "Population Association of America",
+            "StartDate": {
+              "Year": "2011"
+            },
+            "EndDate": {
+              "StringDate": "current"
+            },
+            "Role": [
+              {
+                "Name": "Member"
+              }
+            ]
+          },
+          {
+            "Name": "American Sociological Association",
+            "StartDate": {
+              "Year": "2012"
+            },
+            "EndDate": {
+              "StringDate": "current"
+            },
+            "Role": [
+              {
+                "Name": "Member"
+              }
+            ]
+          },
+          {
+            "Name": "Gertrude and Otto Pollak Summer Research Fellowship",
+            "EndDate": {
+              "Year": "2013"
+            }
+          },
+          {
+            "Name": "Lawrence R. Klein Fellowship in Economics"
+          },
+          {
+            "Name": "University of Pennsylvania Alumni Association Merit Scholarship"
+          }
+        ]
+      },
+      "References": {
+        "Reference": [
+          {
+            "PersonName": {
+              "FormattedName": "Irma T. Elo",
+              "GivenName": "Irma",
+              "MiddleName": "T.",
+              "FamilyName": "Elo"
+            },
+            "PositionTitle": "Professor of Sociology",
+            "ContactMethod": [
+              {
+                "Use": "business",
+                "Location": "office",
+                "WhenAvailable": "anytime",
+                "PostalAddress": {
+                  "CountryCode": "US",
+                  "PostalCode": "19104",
+                  "Region": [
+                    "PA"
+                  ],
+                  "Municipality": "Philadelphia",
+                  "DeliveryAddress": {
+                    "AddressLine": [
+                      "University of Pennsylvania, 243 McNeil Building, 3718 Locust Walk"
+                    ]
+                  }
+                }
+              },
+              {
+                "Use": "business",
+                "Location": "office",
+                "WhenAvailable": "anytime",
+                "InternetEmailAddress": "popelo@pop.upenn.edu"
+              },
+              {
+                "Telephone": {
+                  "FormattedNumber": "215-898-9162"
+                }
+              },
+              {
+                "Telephone": {
+                  "FormattedNumber": "215-746-5396"
+                }
+              }
+            ],
+            "Comments": "[OrgName=University of Pennsylvania][OrgName=Department of Sociology]"
+          },
+          {
+            "PersonName": {
+              "FormattedName": "Michel Guillot",
+              "GivenName": "Michel",
+              "FamilyName": "Guillot"
+            },
+            "PositionTitle": "Professor of Sociology",
+            "ContactMethod": [
+              {
+                "Use": "business",
+                "Location": "office",
+                "WhenAvailable": "anytime",
+                "PostalAddress": {
+                  "CountryCode": "US",
+                  "PostalCode": "19104",
+                  "Region": [
+                    "PA"
+                  ],
+                  "Municipality": "Philadelphia",
+                  "DeliveryAddress": {
+                    "AddressLine": [
+                      "Department of Sociology, University of Pennsylvania, 242 McNeil Building, 3718 Locust Walk"
+                    ]
+                  }
+                }
+              },
+              {
+                "Use": "business",
+                "Location": "office",
+                "WhenAvailable": "anytime",
+                "InternetEmailAddress": "miguillo@sas.upenn.edu"
+              },
+              {
+                "Telephone": {
+                  "FormattedNumber": "215-573-3655"
+                }
+              }
+            ],
+            "Comments": "[OrgName=University of Pennsylvania]"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-28"
+    },
+    "NonXMLResume": {
+      "TextResume": "October 2017\r\n\r\nArun S. Hendi\r\nADDRESS\r\n\r\nCenter for Economic and Social Research\r\nUniversity of Southern California\r\n635 Downey Way\r\nSuite 312\r\nLos Angeles, CA 90089\r\n\r\nE-mail: hendi@usc.edu\r\n\r\nCitizenship: U.S.A.\r\n\r\nPOSITIONS\r\n\r\nJuly 2017-\tAssociate Demographer, Center for Economic and Social Research\r\nAssistant Professor (Research) of Sociology\r\nUniversity of Southern California\r\n\r\nOctober 2015-June 2017\tPostdoctoral Fellow (NIA T32 AG000139)\r\nPopulation Research Institute (DuPRI) and Department of Sociology\r\nDuke University\r\n\r\nEDUCATION\r\n\r\n2015 Ph.D., Demography and Sociology, University of Pennsylvania\r\n\r\nDissertation Title: \"The Demography of Modern Social Transformations\"\r\nCommittee: Irma T. Elo (chair), Michel Guillot, and Samuel H. Preston\r\n\r\nComprehensive Exams: Demography and Sociology of Aging and the Life Course (with\r\ndistinction)\r\n\r\n2012 A.M., Demography (with distinction), University of Pennsylvania\r\n\r\n2010 A.M., Economics, University of Pennsylvania\r\n\r\n2009 B.A., Economics (with distinction), Minor in Statistics, University of Pennsylvania\r\nMagna cum laude, Honors Program (Benjamin Franklin Scholars)\r\nCurriculum Vitae\tArun S. Hendi\r\n\r\n\r\nRESEARCH INTERESTS\r\n\r\nDemography, racial and socioeconomic inequality in health and mortality, marriage and family,\r\nsociology of aging and the life course, demography of cities, globalization, quantitative methods,\r\nformal demography, health of migrants, fertility\r\n\r\n\r\nPEER-REVIEWED PUBLICATIONS\r\n\r\nHendi, Arun S. 2017. \"Globalization and Contemporary Fertility Convergence.\" Social Forces\r\n96(1): 215-238.\r\n\r\nWinner of the Biennial 2013 Etienne Van de Walle Prize for the Best Graduate Student\r\nPaper in Demography\r\n\r\nHendi, Arun S. 2017. \"Trends in Education-Specific Life Expectancy, Data Quality, and Shifting\r\nEducation Distributions: A Note on Recent Research.\" Demography 54(3): 1203-1213. (PMCID:\r\nPMC5482278)\r\n\r\nHendi, Arun S. 2015. \"Trends in U.S. Life Expectancy Gradients: The Role of Changing\r\nEducational Composition.\" International Journal of Epidemiology 44(3): 946-955. (PMCID:\r\nPMC4607744)\r\n\r\nHendi, Arun S., Neil K. Mehta, and Irma T. Elo. 2014. \"Health Among Black Children by\r\nMaternal and Child Nativity.\" American Journal of Public Health 105(4): 703-710. (PMCID:\r\nPMC4358160)\r\n\r\nBerry, Heather, Mauro F. Guillén, and Arun S. Hendi. 2014. \"Is There Convergence Across\r\nCountries? A Spatial Approach.\" Journal of International Business Studies 45(4): 387-404.\r\n(authors listed alphabetically) (PMCID: PMC4286895)\r\n\r\nPAPERS UNDER REVIEW AND IN PROGRESS\r\n\r\nHendi, Arun S. 2017. \"Sources of Change in American Marital Life Cycles, 1960-2010.\" Second\r\nR&R at Demography.\r\n\r\nHo, Jessica Y. and Arun S. Hendi. 2017. \"Recent Declines in U.S. Life Expectancy Are Shared\r\nAcross High-Income Countries.\" Under Review.\r\n\r\nHendi, Arun S. 2017. \"Disadvantaged Areas or Racial Disadvantage? Geographic Variation in\r\nBlack-White Life Expectancy Gaps.\" Under Review.\r\n\r\nHendi, Arun S. 2017. \"The Shifting Age Pattern of the Black-White Life Expectancy Gap.\"\r\nUnder Review.\r\n\r\n\r\n2\r\nCurriculum Vitae\tArun S. Hendi\r\n\r\n\r\nHendi, Arun S. 2017. \"A Good Man is Hard to Find: How Normative Change, Educational\r\nMismatch, Uneven Mortality Declines, and Rising Incarceration Have Lowered Marriage Rates\r\nAmong Black Women.\" In Preparation.\r\n\r\nHendi, Arun S., Irma T. Elo, and Pekka Martikainen. 2017. \"Birth Cohorts, Synthetic Cohorts,\r\nand SES Differentials in Longevity: The Implications of Changing Educational Distributions for\r\nLife Expectancy Gradients.\" In Preparation.\r\n\r\nHendi, Arun S. 2017. \"Educational Stratification in Subjective Assessments of Survival.\" In\r\nPreparation.\r\n\r\nOTHER PUBLICATIONS\r\n\r\nHendi, Arun S. 2017. \"Immigration and the Health of Black Children.\" The Evidence Base\r\n(http://evidencebase.usc.edu/?p=2187).\r\n\r\nGRANTS\r\n\r\nRobert Wood Johnson Foundation\t04/2017-10/2018\r\n#544026, Role: PI of Subcontract\r\nThe Alarming Stagnation in American Life Expectancy\t$100,000\r\n\r\nNational Institute on Aging\t07/2017-06/2018\r\nP30AG043073, Role: PI of Pilot Grant\r\nThe Social Determinants of Black-White Life Expectancy Gaps\t$32,000\r\n\r\nINVITED AND CONFERENCE PRESENTATIONS\r\n\r\nHendi, Arun S., Irma T. Elo, Pekka Martikainen. \"Birth Cohorts, Synthetic Cohorts, and SES\r\nDifferentials in Longevity: The Implications of Changing Educational Distributions for\r\nLife Expectancy Gradients.\" Presented at IUSSP International Population Conference,\r\nCape Town, South Africa. October 2017.\r\n\r\nHendi, Arun S. \"The Social Determinants of Recent Improvements in Black Life Expectancy.\"\r\nPresented at the Resource Center for Minority Aging Research (RCMAR) Meeting, Los\r\nAngeles, CA. September 2017.\r\n\r\nHendi, Arun S. \"Disadvantaged Areas or Racial Disadvantage? Geographic Variation in Black-\r\nWhite Life Expectancy Gaps.\" Presented at American Sociological Association Annual\r\nMeeting 2017, Montreal, Canada. August 2017.\r\n\r\nHendi, Arun S. \"Disadvantaged Areas or Racial Disadvantage? Geographic Variation in Black-\r\nWhite Life Expectancy Gaps.\" Presented at Population Association of America Annual\r\nMeeting 2017, Chicago, IL. April 2017.\r\n\r\n3\r\nCurriculum Vitae\tArun S. Hendi\r\n\r\n\r\nHendi, Arun S., Irma T. Elo, Pekka Martikainen. \"Birth Cohorts, Synthetic Cohorts, and SES\r\nDifferentials in Longevity: The Implications of Changing Educational Distributions for\r\nLife Expectancy Gradients.\" Presented at Population Association of America Annual\r\nMeeting 2017, Chicago, IL. April 2017.\r\n\r\nHendi, Arun S., Irma T. Elo, and Pekka Martikainen. \"Birth Cohorts, Synthetic Cohorts, and SES\r\nDifferentials in Longevity: The Implications of Changing Educational Distributions for\r\nLife Expectancy Gradients.\" Presented at NBER Cohort Studies Meeting, Los Angeles,\r\nCA. April 2017.\r\n\r\nHendi, Arun S. \"Sources of Change in American First Marriages.\" Presented at the Center for\r\nEconomic and Social Research (CESR), University of Southern California, Los Angeles,\r\nCA. February 2017.\r\n\r\nHendi, Arun S., Irma T. Elo, Pekka Martikainen. \"The Implications of Changing Educational\r\nDistributions for the Measurement of Socioeconomic Gradients in Life Expectancy.\"\r\nPresented at the Max Planck Institute for Demographic Research (MPIDR), Rostock,\r\nGermany. December 2016.\r\n\r\nHendi, Arun S. \"Geographic Variation in Black-White Life Expectancy Gaps.\" Presented at\r\nVanderbilt University, Department of Sociology, Nashville, TN. December 2016.\r\n\r\nHendi, Arun S. \"The Implications of Changing Educational Distributions for the Measurement of\r\nSocioeconomic Gradients in Mortality.\" Presented at American Sociological Association\r\nAnnual Meeting 2016, Seattle, WA. August 2016.\r\n\r\nHendi, Arun S. \"Sources of Change in American Marital Life Cycles, 1960-2010.\" Presented at\r\nAmerican Sociological Association Annual Meeting 2016, Seattle, WA. August 2016.\r\n\r\nHendi, Arun S. \"Adult Mortality - Discussion.\" Presented at Population Association of America\r\nAnnual Meeting 2016, Washington, DC. April 2016.\r\n\r\nHendi, Arun S. \"One Half Century of American Marriage and Divorce.\" Presented at Duke\r\nUniversity Population Research Institute Seminar, October 2015.\r\n\r\nHendi, Arun S. \"Are Socioeconomic Gradients in Mortality Widening? A Skeptical View.\"\r\nPresented at UNC Chapel Hill Demography Daze, May 2015.\r\n\r\nHendi, Arun S. \"The Dynamics of Assortative Mating and the Survivorship of Marriages.\"\r\nPresented at Duke University T32 Luncheon Series, May 2015.\r\n\r\nHendi, Arun S. \"The Dynamics of Assortative Mating and the Survivorship of Marriages.\"\r\nPresented at Population Association of America Annual Meeting 2015, San Diego, CA.\r\nMay 2015.\r\n\r\n\r\n4\r\nCurriculum Vitae\tArun S. Hendi\r\n\r\n\r\nHendi, Arun S. \"Trends in U.S. Life Expectancy Gradients: The Role of Changing Educational\r\nComposition.\" Presented at American Sociological Association Annual Meeting 2014,\r\nSan Francisco, CA. August 2014.\r\n\r\nHo, Jessica Y. and Arun S. Hendi. \"Trends in U.S. Mortality Below Age 50, 1950-2008: An\r\nInternational Comparative Perspective.\" Presented at American Sociological Association\r\nAnnual Meeting 2014, San Francisco, CA. August 2014.\r\n\r\nHendi, Arun S. \"On the Measurement of Educational Gradients in Mortality.\" Presented at\r\nPopulation Association of America Annual Meeting 2014, Boston, MA. May 2014.\r\n\r\nHendi, Arun S., Neil K. Mehta, and Irma T. Elo. \"Health Among Black Children by Generational\r\nStatus and Parental Nativity.\" Presented at Population Association of America Annual\r\nMeeting 2014, Boston, MA. May 2014.\r\n\r\nHendi, Arun S. \"Globalization and Contemporary Fertility Transitions.\" Presented at Etienne\r\nVan de Walle Prize Lecture, University of Pennsylvania Population Studies Center\r\nColloquium, Philadelphia, PA. March 2014.\r\n\r\nHendi, Arun S. \"Global Institutional Networks and Contemporary Fertility Transitions.\"\r\nPresented at American Sociological Association Annual Meeting 2013, New York, NY.\r\nAugust 2013.\r\n\r\nHendi, Arun S. \"Global Institutional Networks and Contemporary Fertility Transitions.\"\r\nPresented at Population Association of America Annual Meeting 2013, New Orleans,\r\nLA. April 2013.\r\n\r\nBerry, Heather, Mauro F. Guillén, and Arun S. Hendi. \"Is the World Becoming Smaller?\r\nGlobalization and Convergence Across Countries.\" Presented at World Bank Trade\r\nSeminar (by Mauro Guillén), Washington, D.C. May 2011.\r\n\r\nPROFESSIONAL ACTIVITIES\r\n\r\nMember, Population Association of America, 2011-present\r\nSession Organizer: Adult Mortality I and Adult Mortality II, 2016 Annual Meeting\r\n\r\nMember, American Sociological Association, 2012-present\r\nSections: Sociology of Population, Methodology, Family, and Aging and the Life Course\r\n\r\nReviewer for Age and Ageing, American Sociological Review, American Journal of Sociology,\r\nDemography, Epidemiology, JAMA, PLoS One, Population Health Metrics, Population Research\r\nand Policy Review, Social Science & Medicine\r\n\r\n\r\n5\r\nCurriculum Vitae\tArun S. Hendi\r\n\r\n\r\nFELLOWSHIPS, AWARDS, AND HONORS\r\n\r\nResource Center for Minority Aging Research Fellow, USC, 2017-2018\r\nEtienne Van de Walle Prize 2013 for Best Graduate Student Paper in Demography (awarded\r\nbiennially)\r\nScholarship to Stanford Workshop in Formal Demography\r\nSchool of Arts & Sciences Student Government Travel Grant 2014\r\nGertrude and Otto Pollak Summer Research Fellowship 2013\r\nGAPSA Travel Grant 2014\r\nSchool of Arts and Sciences Travel Fund Award 2013, 2014\r\nNIA and NICHD Training Grant Fellowships\r\nLawrence R. Klein Fellowship in Economics\r\nNational Merit Corporate Scholarship\r\nUniversity of Pennsylvania Alumni Association Merit Scholarship\r\nComcast Academic Excellence Scholarship\r\nMichael C. Ferguson Scholarship\r\nDelaware ScIP Merit Scholarship\r\nIntel International Science and Engineering Fair\r\n\r\nTEACHING EXPERIENCE\r\n\r\nUniversity of Pennsylvania\r\n\r\n•   Teaching Assistant for \"Health of Populations\" (SOCI 111), Spring 2014.\r\nUniversity of Delaware\r\n\r\n•   Teaching Assistant for \"Multivariable Calculus and Analytic Geometry\" (MATH 243),\r\nFall 2004\r\n\r\n\r\nSUPPLEMENTARY SKILLS\r\nSupplementary Training: Stanford Workshop in Formal Demography 2014; DataCamp Courses\r\nin R and data.table\r\n\r\nComputing Proficiencies: R/S-PLUS, Stata, Matlab, VBA for Excel, Java, C/C++, Maple, MS\r\nOffice, UNIX, LaTeX\r\nProficient in English (native), French (intermediate), Kannada (comprehension)\r\n\r\n\r\n6\r\nCurriculum Vitae\tArun S. Hendi\r\n\r\n\r\nREFERENCES\r\n\r\nIrma T. Elo\tSamuel H. Preston\r\nProfessor of Sociology\tProfessor of Sociology\r\nDepartment of Sociology\tDepartment of Sociology\r\nUniversity of Pennsylvania\tUniversity of Pennsylvania\r\n243 McNeil Building\t244 McNeil Building\r\n3718 Locust Walk\t3718 Locust Walk\r\nPhiladelphia, PA 19104\tPhiladelphia, PA 19104\r\n215-898-9162\t215-746-5396\r\npopelo@pop.upenn.edu\tspreston@sas.upenn.edu\r\n\r\n\r\nMichel Guillot\r\nProfessor of Sociology\r\nDepartment of Sociology\r\nUniversity of Pennsylvania\r\n242 McNeil Building\r\n3718 Locust Walk\r\nPhiladelphia, PA 19104\r\n215-573-3655\r\nmiguillo@sas.upenn.edu"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "US",
+          "sov:CultureInfo": "en-US"
+        },
+        "sov:PersonalInformation": {
+          "sov:Nationality": {
+            "@inferred": "false",
+            "#text": "U.S.A"
+          }
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Arun S. Hendi's experience appears to be mostly concentrated in Sales (mostly Entry Level) and somewhat concentrated in Information Technology (mostly Java). Arun S. Hendi has 5 years of work experience.",
+          "sov:MonthsOfWorkExperience": "60",
+          "sov:AverageMonthsPerEmployer": "15",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "45",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Entry Level",
+                        "@id": "500",
+                        "@percentOfOverall": "45",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASSOCIATE",
+                            "@id": "004917",
+                            "@existsInText": "true",
+                            "@totalMonths": "33",
+                            "@lastUsed": "2020-03-28",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "22",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "9",
+                        "@percentOfParentTaxonomy": "38",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS",
+                            "@childrenTotalMonths": "3",
+                            "@childrenLastUsed": "2014-05-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SPRING",
+                                "@id": "3391126",
+                                "@existsInText": "true",
+                                "@totalMonths": "3",
+                                "@lastUsed": "2014-05-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "31",
+                        "sov:Skill": [
+                          {
+                            "@name": "C/C++",
+                            "@id": "002371",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "C++",
+                            "@id": "012287",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "VBA",
+                            "@id": "3391143",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Enterprise Storage",
+                        "@id": "555",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "10",
+                        "sov:Skill": [
+                          {
+                            "@name": "UNIX",
+                            "@id": "5551207",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Prebuilt Software",
+                        "@id": "252",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "10",
+                        "sov:Skill": [
+                          {
+                            "@name": "MATLAB",
+                            "@id": "021346",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "10",
+                        "sov:Skill": [
+                          {
+                            "@name": "UNIX",
+                            "@id": "01026309",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Education",
+                    "@id": "77",
+                    "@percentOfOverall": "11",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Positions",
+                        "@id": "505",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEACHING",
+                            "@id": "026880",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2014-05-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3; POS-4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Training",
+                    "@id": "64",
+                    "@percentOfOverall": "11",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "361",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEACHING",
+                            "@id": "026879",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2014-05-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3; POS-4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Software and Tools",
+                        "@id": "310",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "MATLAB",
+                            "@id": "024275",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Process",
+                        "@id": "143",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "QUANTITATIVE",
+                            "@id": "006272",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "STATISTICS",
+                            "@id": "008585",
+                            "@existsInText": "true",
+                            "@lastUsed": "2009-01-01",
+                            "@whereFound": "Found in EDUCATION; PERSONAL INTERESTS AND ACCOMPLISHMENTS; DEG-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "EXCEL",
+                            "@id": "022841",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "15",
+              "@ends": "24",
+              "@sectionType": "WORK HISTORY",
+              "#text": "POSITIONS"
+            },
+            {
+              "@starts": "25",
+              "@ends": "43",
+              "@sectionType": "EDUCATION",
+              "#text": "EDUCATION"
+            },
+            {
+              "@starts": "44",
+              "@ends": "50",
+              "@sectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+              "#text": "RESEARCH INTERESTS"
+            },
+            {
+              "@starts": "51",
+              "@ends": "104",
+              "@sectionType": "ARTICLES",
+              "#text": "PEER-REVIEWED PUBLICATIONS"
+            },
+            {
+              "@starts": "105",
+              "@ends": "109",
+              "@sectionType": "OTHER_PUBLICATIONS",
+              "#text": "OTHER PUBLICATIONS"
+            },
+            {
+              "@starts": "110",
+              "@ends": "259",
+              "@sectionType": "PROFESSIONAL AFFILIATIONS",
+              "#text": "GRANTS"
+            },
+            {
+              "@starts": "260",
+              "@ends": "270",
+              "@sectionType": "WORK HISTORY",
+              "#text": "TEACHING EXPERIENCE"
+            },
+            {
+              "@starts": "271",
+              "@ends": "283",
+              "@sectionType": "SKILLS",
+              "#text": "SUPPLEMENTARY SKILLS"
+            },
+            {
+              "@starts": "284",
+              "@ends": "305",
+              "@sectionType": "REFERENCES",
+              "#text": "REFERENCES"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "215-898-9162",
+              "215-746-5396",
+              "215-573-3655"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "Arun S. Hendi",
+              "Curriculum Vitae\tArun S. Hendi",
+              "Arun S. Hendi.",
+              "Hendi, Arun",
+              "Berry, Heather, Mauro F. Guillén, and Arun S. Hendi. \"Is the World Becoming Smaller?",
+              "Hendi, Arun S. \"Globalization and Contemporary Fertility Transitions.\" Presented at Etienne",
+              "Hendi, Arun S., Neil K. Mehta, and Irma T. Elo. \"Health Among Black Children by Generational",
+              "Hendi, Arun S. \"On the Measurement of Educational Gradients in Mortality.\" Presented at",
+              "Ho, Jessica Y. and Arun S. Hendi. \"Trends in U.S. Mortality Below Age 50, 1950-2008: An",
+              "Hendi, Arun S. \"The Dynamics of Assortative Mating and the Survivorship of Marriages.\"",
+              "Hendi, Arun S. \"Are Socioeconomic Gradients in Mortality Widening? A Skeptical View.\"",
+              "Hendi, Arun S. \"One Half Century of American Marriage and Divorce.\" Presented at Duke",
+              "Hendi, Arun S. \"The Implications of Changing Educational Distributions for the Measurement of",
+              "Hendi, Arun S., Irma T. Elo, Pekka Martikainen. \"The Implications of Changing Educational",
+              "Hendi, Arun S., Irma T. Elo, and Pekka Martikainen. \"Birth Cohorts, Synthetic Cohorts, and SES",
+              "Hendi, Arun S., Irma T. Elo, Pekka Martikainen. \"Birth Cohorts, Synthetic Cohorts, and SES",
+              "Hendi, Arun S. \"Disadvantaged Areas or Racial Disadvantage? Geographic Variation in Black-",
+              "Hendi, Arun S. 2017. \"Immigration and the Health of Black Children.\" The Evidence Base",
+              "Hendi, Arun S. 2017. \"Educational Stratification in Subjective Assessments of Survival.\" In",
+              "Hendi, Arun S., Irma T. Elo, and Pekka Martikainen. 2017. \"Birth Cohorts, Synthetic Cohorts,",
+              "Hendi, Arun S. 2017. \"A Good Man is Hard to Find: How Normative Change, Educational",
+              "Hendi, Arun S. 2017. \"Disadvantaged Areas or Racial Disadvantage? Geographic Variation in",
+              "Berry, Heather, Mauro F. Guillén, and Arun S. Hendi. 2014. \"Is There Convergence Across",
+              "Hendi, Arun S., Neil K. Mehta, and Irma T. Elo. 2014. \"Health Among Black Children by"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "hendi@usc.edu",
+              "popelo@pop.upenn.edu",
+              "spreston@sas.upenn.edu",
+              "miguillo@sas.upenn.edu"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "http://evidencebase.usc.edu/?p=2187"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Center for Economic and Social Research",
+              "University of Southern California",
+              "Citizenship: U.S.A.",
+              "635 Downey Way",
+              "Suite 312"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "11584",
+        "sov:ParseTime": "687",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:303;3,5] Each of the following sections in the resume contain more content than the work history and education sections combined: 'PEER-REVIEWED PUBLICATIONS', 'GRANTS'. This may indicate a problem with section headers, formatting, or content.",
+                    "[Sovren:312;3] The following section in the resume contains more content than recommended: 'PEER-REVIEWED PUBLICATIONS' This section should be less than 10 lines long as it can cause errors in parsing the resume.",
+                    "[Sovren:323;WORK HISTORY] The following section type appeared multiple times in the resume: WORK HISTORY (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.",
+                    "[Sovren:231;DEG-2] The following educational degree does not have a degree name: DEG-2. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:111;] References section found in resume. References should not be included in a resume.",
+                    "[Sovren:112;] The following section was identified as a skills section type: 'SUPPLEMENTARY SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:113;4] The following section was identified as a publications, patents, or speaking engagements section type: 4. Publications should not be included in a resume."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:4d91c5aa-d4cd-4ae2-a53d-c2b806e47926",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.2.0",
+        "sov:DigitalSignature": "BVb+//////8="
+      }
+    }
+  }
+}
