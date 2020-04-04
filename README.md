@@ -15,6 +15,7 @@ Sovern produces, among other files, a JSON file, from which we will be extractin
 
 # Manual Cleaning
 Sovern does a good but not great job at parsing CVs. It requires a manual scrub after processing the JSON data before analysis. An inevitable roadbump when parsing text.
+Name and Education are easy to clean, Sovren did a good job parsing them. Employment came out pretty poor, significant manual editing will be nececary. (It may be nececary to focus just on education for the first step.)
 
 # Analysis
 The principal concern is tracing the institutions each individual moves through, in a social network analysis-y fashion. 
